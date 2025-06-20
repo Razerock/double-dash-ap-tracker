@@ -93,7 +93,7 @@
 		"name": "Bowser Jr.",
 		"type": "toggle",
 		"img": "/images/characters/bowserjr.png",
-		"codes": "bowserjr"
+		"codes": "bowserjr."
 	},
 	{
 		"name": "Wario",

@@ -620,121 +620,121 @@
 		"name": "Banana",
 		"type": "toggle",
 		"img": "/images/items/banana.png",
-		"codes": "bananaforbowserjr"
+		"codes": "bananaforbowserjr."
 	},
 	{
 		"name": "Fake Item",
 		"type": "toggle",
 		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbowserjr"
+		"codes": "fakeitemforbowserjr."
 	},
 	{
 		"name": "Green Shell",
 		"type": "toggle",
 		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbowserjr"
+		"codes": "greenshellforbowserjr."
 	},
 	{
 		"name": "Triple Green Shell",
 		"type": "toggle",
 		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbowserjr"
+		"codes": "triplegreenshellsforbowserjr."
 	},
 	{
 		"name": "Red Shell",
 		"type": "toggle",
 		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbowserjr"
+		"codes": "redshellforbowserjr."
 	},
 	{
 		"name": "Triple Red Shell",
 		"type": "toggle",
 		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbowserjr"
+		"codes": "tripleredshellsforbowserjr."
 	},
 	{
 		"name": "Spiny Shell",
 		"type": "toggle",
 		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbowserjr"
+		"codes": "spinyshellforbowserjr."
 	},
 	{
 		"name": "Mushroom",
 		"type": "toggle",
 		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbowserjr"
+		"codes": "mushroomforbowserjr."
 	},
 	{
 		"name": "Triple Mushroom",
 		"type": "toggle",
 		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbowserjr"
+		"codes": "triplemushroomsforbowserjr."
 	},
 	{
 		"name": "Heart",
 		"type": "toggle",
 		"img": "/images/items/heart.png",
-		"codes": "heartforbowserjr"
+		"codes": "heartforbowserjr."
 	},
 	{
 		"name": "Star",
 		"type": "toggle",
 		"img": "/images/items/star.png",
-		"codes": "starforbowserjr"
+		"codes": "starforbowserjr."
 	},
 	{
 		"name": "Lightning",
 		"type": "toggle",
 		"img": "/images/items/lightning.png",
-		"codes": "lightningforbowserjr"
+		"codes": "lightningforbowserjr."
 	},
 	{
 		"name": "Fireball",
 		"type": "toggle",
 		"img": "/images/items/red_fireball.png",
-		"codes": "fireballforbowserjr"
+		"codes": "fireballforbowserjr."
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
 		"img": "/images/items/green_fireball.png",
-		"codes": "fireballsforbowserjr"
+		"codes": "fireballsforbowserjr."
 	},
 	{
 		"name": "Yoshi Egg",
 		"type": "toggle",
 		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbowserjr"
+		"codes": "yoshieggforbowserjr."
 	},
 	{
 		"name": "Chain Chomp",
 		"type": "toggle",
 		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbowserjr"
+		"codes": "chainchompforbowserjr."
 	},
 	{
 		"name": "Golden Mushroom",
 		"type": "toggle",
 		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbowserjr"
+		"codes": "goldenmushroomforbowserjr."
 	},
 	{
 		"name": "Giant Banana",
 		"type": "toggle",
 		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbowserjr"
+		"codes": "giantbananaforbowserjr."
 	},
 	{
 		"name": "Bowser's Shell",
 		"type": "toggle",
 		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbowserjr"
+		"codes": "bowser'sshellforbowserjr."
 	},
 	{
 		"name": "Bob-Omb",
 		"type": "toggle",
 		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbowserjr"
+		"codes": "bob-ombforbowserjr."
 	},
 	
 	
