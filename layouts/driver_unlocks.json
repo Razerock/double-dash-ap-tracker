@@ -1,0 +1,1044 @@
+{
+	"driver_unlocks": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Light Weight",
+				"content": [
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"babymario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforbabymario",
+										"fakeitemforbabymario",
+										"mushroomforbabymario",
+										"greenshellforbabymario",
+										"redshellforbabymario"
+									],
+									[
+										"fireballforbabymario",
+										"fireballsforbabymario",
+										"triplemushroomsforbabymario",
+										"triplegreenshellsforbabymario",
+										"tripleredshellsforbabymario"
+									],
+									[
+										"lightningforbabymario",
+										"spinyshellforbabymario",
+										"starforbabymario",
+										"heartforbabymario",
+										"yoshieggforbabymario"
+									],
+									[
+										"giantbananaforbabymario",
+										"bowser'sshellforbabymario",
+										"chainchompforbabymario",
+										"bob-ombforbabymario",
+										"goldenmushroomforbabymario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"babyluigi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforbabyluigi",
+										"fakeitemforbabyluigi",
+										"mushroomforbabyluigi",
+										"greenshellforbabyluigi",
+										"redshellforbabyluigi"
+									],
+									[
+										"fireballforbabyluigi",
+										"fireballsforbabyluigi",
+										"triplemushroomsforbabyluigi",
+										"triplegreenshellsforbabyluigi",
+										"tripleredshellsforbabyluigi"
+									],
+									[
+										"lightningforbabyluigi",
+										"spinyshellforbabyluigi",
+										"starforbabyluigi",
+										"heartforbabyluigi",
+										"yoshieggforbabyluigi"
+									],
+									[
+										"giantbananaforbabyluigi",
+										"bowser'sshellforbabyluigi",
+										"chainchompforbabyluigi",
+										"bob-ombforbabyluigi",
+										"goldenmushroomforbabyluigi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"koopa"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforkoopa",
+										"fakeitemforkoopa",
+										"mushroomforkoopa",
+										"greenshellforkoopa",
+										"redshellforkoopa"
+									],
+									[
+										"fireballforkoopa",
+										"fireballsforkoopa",
+										"triplemushroomsforkoopa",
+										"triplegreenshellsforkoopa",
+										"tripleredshellsforkoopa"
+									],
+									[
+										"lightningforkoopa",
+										"spinyshellforkoopa",
+										"starforkoopa",
+										"heartforkoopa",
+										"yoshieggforkoopa"
+									],
+									[
+										"giantbananaforkoopa",
+										"bowser'sshellforkoopa",
+										"chainchompforkoopa",
+										"bob-ombforkoopa",
+										"goldenmushroomforkoopa"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"paratroopa"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforparatroopa",
+										"fakeitemforparatroopa",
+										"mushroomforparatroopa",
+										"greenshellforparatroopa",
+										"redshellforparatroopa"
+									],
+									[
+										"fireballforparatroopa",
+										"fireballsforparatroopa",
+										"triplemushroomsforparatroopa",
+										"triplegreenshellsforparatroopa",
+										"tripleredshellsforparatroopa"
+									],
+									[
+										"lightningforparatroopa",
+										"spinyshellforparatroopa",
+										"starforparatroopa",
+										"heartforparatroopa",
+										"yoshieggforparatroopa"
+									],
+									[
+										"giantbananaforparatroopa",
+										"bowser'sshellforparatroopa",
+										"chainchompforparatroopa",
+										"bob-ombforparatroopa",
+										"goldenmushroomforparatroopa"
+									]
+								]
+							}
+						]
+					},
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"diddykong"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananafordiddykong",
+										"fakeitemfordiddykong",
+										"mushroomfordiddykong",
+										"greenshellfordiddykong",
+										"redshellfordiddykong"
+									],
+									[
+										"fireballfordiddykong",
+										"fireballsfordiddykong",
+										"triplemushroomsfordiddykong",
+										"triplegreenshellsfordiddykong",
+										"tripleredshellsfordiddykong"
+									],
+									[
+										"lightningfordiddykong",
+										"spinyshellfordiddykong",
+										"starfordiddykong",
+										"heartfordiddykong",
+										"yoshieggfordiddykong"
+									],
+									[
+										"giantbananafordiddykong",
+										"bowser'sshellfordiddykong",
+										"chainchompfordiddykong",
+										"bob-ombfordiddykong",
+										"goldenmushroomfordiddykong"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"bowserjr"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforbowserjr",
+										"fakeitemforbowserjr",
+										"mushroomforbowserjr",
+										"greenshellforbowserjr",
+										"redshellforbowserjr"
+									],
+									[
+										"fireballforbowserjr",
+										"fireballsforbowserjr",
+										"triplemushroomsforbowserjr",
+										"triplegreenshellsforbowserjr",
+										"tripleredshellsforbowserjr"
+									],
+									[
+										"lightningforbowserjr",
+										"spinyshellforbowserjr",
+										"starforbowserjr",
+										"heartforbowserjr",
+										"yoshieggforbowserjr"
+									],
+									[
+										"giantbananaforbowserjr",
+										"bowser'sshellforbowserjr",
+										"chainchompforbowserjr",
+										"bob-ombforbowserjr",
+										"goldenmushroomforbowserjr"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"toad"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananafortoad",
+										"fakeitemfortoad",
+										"mushroomfortoad",
+										"greenshellfortoad",
+										"redshellfortoad"
+									],
+									[
+										"fireballfortoad",
+										"fireballsfortoad",
+										"triplemushroomsfortoad",
+										"triplegreenshellsfortoad",
+										"tripleredshellsfortoad"
+									],
+									[
+										"lightningfortoad",
+										"spinyshellfortoad",
+										"starfortoad",
+										"heartfortoad",
+										"yoshieggfortoad"
+									],
+									[
+										"giantbananafortoad",
+										"bowser'sshellfortoad",
+										"chainchompfortoad",
+										"bob-ombfortoad",
+										"goldenmushroomfortoad"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"toadette"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananafortoadette",
+										"fakeitemfortoadette",
+										"mushroomfortoadette",
+										"greenshellfortoadette",
+										"redshellfortoadette"
+									],
+									[
+										"fireballfortoadette",
+										"fireballsfortoadette",
+										"triplemushroomsfortoadette",
+										"triplegreenshellsfortoadette",
+										"tripleredshellsfortoadette"
+									],
+									[
+										"lightningfortoadette",
+										"spinyshellfortoadette",
+										"starfortoadette",
+										"heartfortoadette",
+										"yoshieggfortoadette"
+									],
+									[
+										"giantbananafortoadette",
+										"bowser'sshellfortoadette",
+										"chainchompfortoadette",
+										"bob-ombfortoadette",
+										"goldenmushroomfortoadette"
+									]
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Medium Weight",
+				"content": [
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"mario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaformario",
+										"fakeitemformario",
+										"mushroomformario",
+										"greenshellformario",
+										"redshellformario"
+									],
+									[
+										"fireballformario",
+										"fireballsformario",
+										"triplemushroomsformario",
+										"triplegreenshellsformario",
+										"tripleredshellsformario"
+									],
+									[
+										"lightningformario",
+										"spinyshellformario",
+										"starformario",
+										"heartformario",
+										"yoshieggformario"
+									],
+									[
+										"giantbananaformario",
+										"bowser'sshellformario",
+										"chainchompformario",
+										"bob-ombformario",
+										"goldenmushroomformario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"luigi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforluigi",
+										"fakeitemforluigi",
+										"mushroomforluigi",
+										"greenshellforluigi",
+										"redshellforluigi"
+									],
+									[
+										"fireballforluigi",
+										"fireballsforluigi",
+										"triplemushroomsforluigi",
+										"triplegreenshellsforluigi",
+										"tripleredshellsforluigi"
+									],
+									[
+										"lightningforluigi",
+										"spinyshellforluigi",
+										"starforluigi",
+										"heartforluigi",
+										"yoshieggforluigi"
+									],
+									[
+										"giantbananaforluigi",
+										"bowser'sshellforluigi",
+										"chainchompforluigi",
+										"bob-ombforluigi",
+										"goldenmushroomforluigi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"peach"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforpeach",
+										"fakeitemforpeach",
+										"mushroomforpeach",
+										"greenshellforpeach",
+										"redshellforpeach"
+									],
+									[
+										"fireballforpeach",
+										"fireballsforpeach",
+										"triplemushroomsforpeach",
+										"triplegreenshellsforpeach",
+										"tripleredshellsforpeach"
+									],
+									[
+										"lightningforpeach",
+										"spinyshellforpeach",
+										"starforpeach",
+										"heartforpeach",
+										"yoshieggforpeach"
+									],
+									[
+										"giantbananaforpeach",
+										"bowser'sshellforpeach",
+										"chainchompforpeach",
+										"bob-ombforpeach",
+										"goldenmushroomforpeach"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"daisy"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananafordaisy",
+										"fakeitemfordaisy",
+										"mushroomfordaisy",
+										"greenshellfordaisy",
+										"redshellfordaisy"
+									],
+									[
+										"fireballfordaisy",
+										"fireballsfordaisy",
+										"triplemushroomsfordaisy",
+										"triplegreenshellsfordaisy",
+										"tripleredshellsfordaisy"
+									],
+									[
+										"lightningfordaisy",
+										"spinyshellfordaisy",
+										"starfordaisy",
+										"heartfordaisy",
+										"yoshieggfordaisy"
+									],
+									[
+										"giantbananafordaisy",
+										"bowser'sshellfordaisy",
+										"chainchompfordaisy",
+										"bob-ombfordaisy",
+										"goldenmushroomfordaisy"
+									]
+								]
+							}
+						]
+					},
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"yoshi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforyoshi",
+										"fakeitemforyoshi",
+										"mushroomforyoshi",
+										"greenshellforyoshi",
+										"redshellforyoshi"
+									],
+									[
+										"fireballforyoshi",
+										"fireballsforyoshi",
+										"triplemushroomsforyoshi",
+										"triplegreenshellsforyoshi",
+										"tripleredshellsforyoshi"
+									],
+									[
+										"lightningforyoshi",
+										"spinyshellforyoshi",
+										"starforyoshi",
+										"heartforyoshi",
+										"yoshieggforyoshi"
+									],
+									[
+										"giantbananaforyoshi",
+										"bowser'sshellforyoshi",
+										"chainchompforyoshi",
+										"bob-ombforyoshi",
+										"goldenmushroomforyoshi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"birdo"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforbirdo",
+										"fakeitemforbirdo",
+										"mushroomforbirdo",
+										"greenshellforbirdo",
+										"redshellforbirdo"
+									],
+									[
+										"fireballforbirdo",
+										"fireballsforbirdo",
+										"triplemushroomsforbirdo",
+										"triplegreenshellsforbirdo",
+										"tripleredshellsforbirdo"
+									],
+									[
+										"lightningforbirdo",
+										"spinyshellforbirdo",
+										"starforbirdo",
+										"heartforbirdo",
+										"yoshieggforbirdo"
+									],
+									[
+										"giantbananaforbirdo",
+										"bowser'sshellforbirdo",
+										"chainchompforbirdo",
+										"bob-ombforbirdo",
+										"goldenmushroomforbirdo"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"waluigi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforwaluigi",
+										"fakeitemforwaluigi",
+										"mushroomforwaluigi",
+										"greenshellforwaluigi",
+										"redshellforwaluigi"
+									],
+									[
+										"fireballforwaluigi",
+										"fireballsforwaluigi",
+										"triplemushroomsforwaluigi",
+										"triplegreenshellsforwaluigi",
+										"tripleredshellsforwaluigi"
+									],
+									[
+										"lightningforwaluigi",
+										"spinyshellforwaluigi",
+										"starforwaluigi",
+										"heartforwaluigi",
+										"yoshieggforwaluigi"
+									],
+									[
+										"giantbananaforwaluigi",
+										"bowser'sshellforwaluigi",
+										"chainchompforwaluigi",
+										"bob-ombforwaluigi",
+										"goldenmushroomforwaluigi"
+									]
+								]
+							}
+						]
+					}
+				]
+			},
+			{
+				"title": "Heavy Weight",
+				"content": [
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"donkeykong"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananafordonkeykong",
+										"fakeitemfordonkeykong",
+										"mushroomfordonkeykong",
+										"greenshellfordonkeykong",
+										"redshellfordonkeykong"
+									],
+									[
+										"fireballfordonkeykong",
+										"fireballsfordonkeykong",
+										"triplemushroomsfordonkeykong",
+										"triplegreenshellsfordonkeykong",
+										"tripleredshellsfordonkeykong"
+									],
+									[
+										"lightningfordonkeykong",
+										"spinyshellfordonkeykong",
+										"starfordonkeykong",
+										"heartfordonkeykong",
+										"yoshieggfordonkeykong"
+									],
+									[
+										"giantbananafordonkeykong",
+										"bowser'sshellfordonkeykong",
+										"chainchompfordonkeykong",
+										"bob-ombfordonkeykong",
+										"goldenmushroomfordonkeykong"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"bowser"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforbowser",
+										"fakeitemforbowser",
+										"mushroomforbowser",
+										"greenshellforbowser",
+										"redshellforbowser"
+									],
+									[
+										"fireballforbowser",
+										"fireballsforbowser",
+										"triplemushroomsforbowser",
+										"triplegreenshellsforbowser",
+										"tripleredshellsforbowser"
+									],
+									[
+										"lightningforbowser",
+										"spinyshellforbowser",
+										"starforbowser",
+										"heartforbowser",
+										"yoshieggforbowser"
+									],
+									[
+										"giantbananaforbowser",
+										"bowser'sshellforbowser",
+										"chainchompforbowser",
+										"bob-ombforbowser",
+										"goldenmushroomforbowser"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"wario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforwario",
+										"fakeitemforwario",
+										"mushroomforwario",
+										"greenshellforwario",
+										"redshellforwario"
+									],
+									[
+										"fireballforwario",
+										"fireballsforwario",
+										"triplemushroomsforwario",
+										"triplegreenshellsforwario",
+										"tripleredshellsforwario"
+									],
+									[
+										"lightningforwario",
+										"spinyshellforwario",
+										"starforwario",
+										"heartforwario",
+										"yoshieggforwario"
+									],
+									[
+										"giantbananaforwario",
+										"bowser'sshellforwario",
+										"chainchompforwario",
+										"bob-ombforwario",
+										"goldenmushroomforwario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "32,0,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"peteypiranha"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,24,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforpeteypiranha",
+										"fakeitemforpeteypiranha",
+										"mushroomforpeteypiranha",
+										"greenshellforpeteypiranha",
+										"redshellforpeteypiranha"
+									],
+									[
+										"fireballforpeteypiranha",
+										"fireballsforpeteypiranha",
+										"triplemushroomsforpeteypiranha",
+										"triplegreenshellsforpeteypiranha",
+										"tripleredshellsforpeteypiranha"
+									],
+									[
+										"lightningforpeteypiranha",
+										"spinyshellforpeteypiranha",
+										"starforpeteypiranha",
+										"heartforpeteypiranha",
+										"yoshieggforpeteypiranha"
+									],
+									[
+										"giantbananaforpeteypiranha",
+										"bowser'sshellforpeteypiranha",
+										"chainchompforpeteypiranha",
+										"bob-ombforpeteypiranha",
+										"goldenmushroomforpeteypiranha"
+									]
+								]
+							}
+						]
+					},
+					{
+						"type": "array",
+						"orientation": "horizontal",
+						"margin": "0,0",
+						"content": [
+							{
+								"type": "itemgrid",
+								"margin": "16,200,0,0",
+								"item_margin": "2, 10",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"kingboo"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,224,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "32,32",
+								"rows": [
+									[
+										"bananaforkingboo",
+										"fakeitemforkingboo",
+										"mushroomforkingboo",
+										"greenshellforkingboo",
+										"redshellforkingboo"
+									],
+									[
+										"fireballforkingboo",
+										"fireballsforkingboo",
+										"triplemushroomsforkingboo",
+										"triplegreenshellsforkingboo",
+										"tripleredshellsforkingboo"
+									],
+									[
+										"lightningforkingboo",
+										"spinyshellforkingboo",
+										"starforkingboo",
+										"heartforkingboo",
+										"yoshieggforkingboo"
+									],
+									[
+										"giantbananaforkingboo",
+										"bowser'sshellforkingboo",
+										"chainchompforkingboo",
+										"bob-ombforkingboo",
+										"goldenmushroomforkingboo"
+									]
+								]
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+}

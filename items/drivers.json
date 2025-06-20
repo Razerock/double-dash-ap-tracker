@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Mario",
+		"type": "toggle",
+		"img": "/images/characters/mario.png",
+		"codes": "mario"
+	},
+	{
+		"name": "Luigi",
+		"type": "toggle",
+		"img": "/images/characters/luigi.png",
+		"codes": "luigi"
+	},
+	{
+		"name": "Peach",
+		"type": "toggle",
+		"img": "/images/characters/peach.png",
+		"codes": "peach"
+	},
+	{
+		"name": "Daisy",
+		"type": "toggle",
+		"img": "/images/characters/daisy.png",
+		"codes": "daisy"
+	},
+	{
+		"name": "Yoshi",
+		"type": "toggle",
+		"img": "/images/characters/yoshi.png",
+		"codes": "yoshi"
+	},
+	{
+		"name": "Birdo",
+		"type": "toggle",
+		"img": "/images/characters/birdo.png",
+		"codes": "birdo"
+	},
+	{
+		"name": "Baby Mario",
+		"type": "toggle",
+		"img": "/images/characters/baby_mario.png",
+		"codes": "babymario"
+	},
+	{
+		"name": "Luigi",
+		"type": "toggle",
+		"img": "/images/characters/baby_luigi.png",
+		"codes": "babyluigi"
+	},
+	{
+		"name": "Toad",
+		"type": "toggle",
+		"img": "/images/characters/toad.png",
+		"codes": "toad"
+	},
+	{
+		"name": "Toadette",
+		"type": "toggle",
+		"img": "/images/characters/toadette.png",
+		"codes": "toadette"
+	},
+	{
+		"name": "Koopa",
+		"type": "toggle",
+		"img": "/images/characters/koopa.png",
+		"codes": "koopa"
+	},
+	{
+		"name": "Paratroopa",
+		"type": "toggle",
+		"img": "/images/characters/paratroopa.png",
+		"codes": "paratroopa"
+	},
+	{
+		"name": "Donkey Kong",
+		"type": "toggle",
+		"img": "/images/characters/donkeykong.png",
+		"codes": "donkeykong"
+	},
+	{
+		"name": "Diddy Kong",
+		"type": "toggle",
+		"img": "/images/characters/diddykong.png",
+		"codes": "diddykong"
+	},
+	{
+		"name": "Bowser",
+		"type": "toggle",
+		"img": "/images/characters/bowser.png",
+		"codes": "bowser"
+	},
+	{
+		"name": "Bowser Jr.",
+		"type": "toggle",
+		"img": "/images/characters/bowserjr.png",
+		"codes": "bowserjr"
+	},
+	{
+		"name": "Wario",
+		"type": "toggle",
+		"img": "/images/characters/wario.png",
+		"codes": "wario"
+	},
+	{
+		"name": "Waluigi",
+		"type": "toggle",
+		"img": "/images/characters/waluigi.png",
+		"codes": "waluigi"
+	},
+	{
+		"name": "Petey Piranha",
+		"type": "toggle",
+		"img": "/images/characters/petey_piranha.png",
+		"codes": "peteypiranha"
+	},
+	{
+		"name": "King Boo",
+		"type": "toggle",
+		"img": "/images/characters/kingboo.png",
+		"codes": "kingboo"
+	}
+]

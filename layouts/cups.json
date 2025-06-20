@@ -1,0 +1,28 @@
+{
+	"cups_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "0,16,0,0",
+						"item_margin": "2, 2",
+						"item_h_alignment": "center",
+						"h_alignment": "left",
+						"item_size": "64,64",
+						"rows": [
+							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour"],
+							["","progressiveclass","","progressivecupskip"]
+						]
+					}
+				]
+			}
+		]
+	}
+}

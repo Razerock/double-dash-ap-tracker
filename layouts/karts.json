@@ -1,0 +1,53 @@
+{
+	"karts_grid": {
+		"type": "array",
+		"orientation": "vertical",
+		"margin": "0,0",
+		"content": [
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "70,32,0,0",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": "96,96",
+						"rows": [
+							[
+								"goo-goobuggy",
+								"rattlebuggy",
+								"koopadasher",
+								"para-wing",
+								"toadkart",
+								"toadettekart",
+								"barreltrain",
+								"bulletblaster"
+							],
+							[
+								"redfire",
+								"greenfire",
+								"heartcoach",
+								"bloomcoach",
+								"turboyoshi",
+								"turbobirdo",
+								"waluigiracer"
+							],
+							[
+								"dkjumbo",
+								"koopaking",
+								"wariocar",
+								"piranhapipes",
+								"boopipes",
+								"paradekart"
+							]
+						]
+					}
+				]
+			}
+		]
+	}
+}

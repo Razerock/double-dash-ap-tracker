@@ -1,0 +1,2477 @@
+[
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforbabymario"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforbabymario"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforbabymario"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforbabymario"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforbabymario"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforbabymario"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforbabymario"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforbabymario"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforbabymario"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforbabymario"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforbabymario"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforbabymario"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforbabymario"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforbabymario"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforbabymario"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforbabymario"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforbabymario"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforbabymario"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforbabymario"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforbabymario"
+	},
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforbabyluigi"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforbabyluigi"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforbabyluigi"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforbabyluigi"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforbabyluigi"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforbabyluigi"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforbabyluigi"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforbabyluigi"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforbabyluigi"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforbabyluigi"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforbabyluigi"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforbabyluigi"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforbabyluigi"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforbabyluigi"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforbabyluigi"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforbabyluigi"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforbabyluigi"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforbabyluigi"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforbabyluigi"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforbabyluigi"
+	},
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforkoopa"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforkoopa"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforkoopa"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforkoopa"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforkoopa"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforkoopa"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforkoopa"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforkoopa"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforkoopa"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforkoopa"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforkoopa"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforkoopa"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforkoopa"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforkoopa"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforkoopa"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforkoopa"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforkoopa"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforkoopa"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforkoopa"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforkoopa"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforparatroopa"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforparatroopa"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforparatroopa"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforparatroopa"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforparatroopa"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforparatroopa"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforparatroopa"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforparatroopa"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforparatroopa"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforparatroopa"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforparatroopa"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforparatroopa"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforparatroopa"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforparatroopa"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforparatroopa"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforparatroopa"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforparatroopa"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforparatroopa"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforparatroopa"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforparatroopa"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananafordiddykong"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemfordiddykong"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellfordiddykong"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsfordiddykong"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellfordiddykong"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsfordiddykong"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellfordiddykong"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomfordiddykong"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsfordiddykong"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartfordiddykong"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starfordiddykong"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningfordiddykong"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballfordiddykong"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsfordiddykong"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggfordiddykong"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompfordiddykong"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomfordiddykong"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananafordiddykong"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellfordiddykong"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombfordiddykong"
+	},
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforbowserjr"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforbowserjr"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforbowserjr"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforbowserjr"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforbowserjr"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforbowserjr"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforbowserjr"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforbowserjr"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforbowserjr"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforbowserjr"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforbowserjr"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforbowserjr"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforbowserjr"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforbowserjr"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforbowserjr"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforbowserjr"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforbowserjr"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforbowserjr"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforbowserjr"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforbowserjr"
+	},
+	
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananafortoad"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemfortoad"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellfortoad"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsfortoad"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellfortoad"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsfortoad"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellfortoad"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomfortoad"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsfortoad"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartfortoad"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starfortoad"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningfortoad"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballfortoad"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsfortoad"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggfortoad"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompfortoad"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomfortoad"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananafortoad"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellfortoad"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombfortoad"
+	},
+	
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananafortoadette"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemfortoadette"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellfortoadette"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsfortoadette"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellfortoadette"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsfortoadette"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellfortoadette"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomfortoadette"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsfortoadette"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartfortoadette"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starfortoadette"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningfortoadette"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballfortoadette"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsfortoadette"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggfortoadette"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompfortoadette"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomfortoadette"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananafortoadette"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellfortoadette"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombfortoadette"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaformario"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemformario"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellformario"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsformario"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellformario"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsformario"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellformario"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomformario"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsformario"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartformario"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starformario"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningformario"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballformario"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsformario"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggformario"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompformario"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomformario"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaformario"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellformario"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombformario"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforluigi"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforluigi"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforluigi"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforluigi"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforluigi"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforluigi"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforluigi"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforluigi"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforluigi"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforluigi"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforluigi"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforluigi"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforluigi"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforluigi"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforluigi"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforluigi"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforluigi"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforluigi"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforluigi"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforluigi"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforpeach"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforpeach"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforpeach"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforpeach"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforpeach"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforpeach"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforpeach"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforpeach"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforpeach"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforpeach"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforpeach"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforpeach"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforpeach"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforpeach"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforpeach"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforpeach"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforpeach"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforpeach"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforpeach"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforpeach"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananafordaisy"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemfordaisy"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellfordaisy"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsfordaisy"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellfordaisy"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsfordaisy"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellfordaisy"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomfordaisy"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsfordaisy"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartfordaisy"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starfordaisy"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningfordaisy"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballfordaisy"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsfordaisy"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggfordaisy"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompfordaisy"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomfordaisy"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananafordaisy"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellfordaisy"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombfordaisy"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforyoshi"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforyoshi"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforyoshi"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforyoshi"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforyoshi"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforyoshi"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforyoshi"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforyoshi"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforyoshi"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforyoshi"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforyoshi"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforyoshi"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforyoshi"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforyoshi"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforyoshi"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforyoshi"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforyoshi"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforyoshi"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforyoshi"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforyoshi"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforbirdo"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforbirdo"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforbirdo"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforbirdo"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforbirdo"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforbirdo"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforbirdo"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforbirdo"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforbirdo"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforbirdo"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforbirdo"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforbirdo"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforbirdo"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforbirdo"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforbirdo"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforbirdo"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforbirdo"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforbirdo"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforbirdo"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforbirdo"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforwaluigi"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforwaluigi"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforwaluigi"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforwaluigi"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforwaluigi"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforwaluigi"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforwaluigi"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforwaluigi"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforwaluigi"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforwaluigi"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforwaluigi"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforwaluigi"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforwaluigi"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforwaluigi"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforwaluigi"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforwaluigi"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforwaluigi"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforwaluigi"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforwaluigi"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforwaluigi"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananafordonkeykong"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemfordonkeykong"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellfordonkeykong"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsfordonkeykong"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellfordonkeykong"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsfordonkeykong"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellfordonkeykong"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomfordonkeykong"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsfordonkeykong"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartfordonkeykong"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starfordonkeykong"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningfordonkeykong"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballfordonkeykong"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsfordonkeykong"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggfordonkeykong"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompfordonkeykong"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomfordonkeykong"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananafordonkeykong"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellfordonkeykong"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombfordonkeykong"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforbowser"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforbowser"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforbowser"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforbowser"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforbowser"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforbowser"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforbowser"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforbowser"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforbowser"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforbowser"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforbowser"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforbowser"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforbowser"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforbowser"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforbowser"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforbowser"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforbowser"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforbowser"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforbowser"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforbowser"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforwario"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforwario"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforwario"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforwario"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforwario"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforwario"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforwario"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforwario"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforwario"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforwario"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforwario"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforwario"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforwario"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforwario"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforwario"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforwario"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforwario"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforwario"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforwario"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforwario"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforpeteypiranha"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforpeteypiranha"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforpeteypiranha"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforpeteypiranha"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforpeteypiranha"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforpeteypiranha"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforpeteypiranha"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforpeteypiranha"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforpeteypiranha"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforpeteypiranha"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforpeteypiranha"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforpeteypiranha"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforpeteypiranha"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforpeteypiranha"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforpeteypiranha"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforpeteypiranha"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforpeteypiranha"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforpeteypiranha"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforpeteypiranha"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforpeteypiranha"
+	},
+	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "toggle",
+		"img": "/images/items/banana.png",
+		"codes": "bananaforkingboo"
+	},
+	{
+		"name": "Fake Item",
+		"type": "toggle",
+		"img": "/images/items/fake_item.png",
+		"codes": "fakeitemforkingboo"
+	},
+	{
+		"name": "Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell.png",
+		"codes": "greenshellforkingboo"
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "toggle",
+		"img": "/images/items/green_shell_triple.png",
+		"codes": "triplegreenshellsforkingboo"
+	},
+	{
+		"name": "Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell.png",
+		"codes": "redshellforkingboo"
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "toggle",
+		"img": "/images/items/red_shell_triple.png",
+		"codes": "tripleredshellsforkingboo"
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "toggle",
+		"img": "/images/items/spiny_shell.png",
+		"codes": "spinyshellforkingboo"
+	},
+	{
+		"name": "Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom.png",
+		"codes": "mushroomforkingboo"
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "toggle",
+		"img": "/images/items/mushroom_triple.png",
+		"codes": "triplemushroomsforkingboo"
+	},
+	{
+		"name": "Heart",
+		"type": "toggle",
+		"img": "/images/items/heart.png",
+		"codes": "heartforkingboo"
+	},
+	{
+		"name": "Star",
+		"type": "toggle",
+		"img": "/images/items/star.png",
+		"codes": "starforkingboo"
+	},
+	{
+		"name": "Lightning",
+		"type": "toggle",
+		"img": "/images/items/lightning.png",
+		"codes": "lightningforkingboo"
+	},
+	{
+		"name": "Fireball",
+		"type": "toggle",
+		"img": "/images/items/red_fireball.png",
+		"codes": "fireballforkingboo"
+	},
+	{
+		"name": "Fireballs",
+		"type": "toggle",
+		"img": "/images/items/green_fireball.png",
+		"codes": "fireballsforkingboo"
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "toggle",
+		"img": "/images/items/yoshi_egg.png",
+		"codes": "yoshieggforkingboo"
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "toggle",
+		"img": "/images/items/chain_chomp.png",
+		"codes": "chainchompforkingboo"
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "toggle",
+		"img": "/images/items/golden_mushroom.png",
+		"codes": "goldenmushroomforkingboo"
+	},
+	{
+		"name": "Giant Banana",
+		"type": "toggle",
+		"img": "/images/items/giant_banana.png",
+		"codes": "giantbananaforkingboo"
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "toggle",
+		"img": "/images/items/bowser_shell.png",
+		"codes": "bowser'sshellforkingboo"
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "toggle",
+		"img": "/images/items/bob-omb.png",
+		"codes": "bob-ombforkingboo"
+	}
+]

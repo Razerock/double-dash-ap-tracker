@@ -1,0 +1,88 @@
+[
+	{
+		"name": "Mushroom Cup",
+		"type": "toggle",
+		"img": "/images/cups/mushroom_cup.png",
+		"codes": "mushroomcup"
+	},
+	{
+		"name": "Flower Cup",
+		"type": "toggle",
+		"img": "/images/cups/flower_cup.png",
+		"codes": "flowercup"
+	},
+	{
+		"name": "Star Cup",
+		"type": "toggle",
+		"img": "/images/cups/star_cup.png",
+		"codes": "starcup"
+	},
+	{
+		"name": "Special Cup",
+		"type": "toggle",
+		"img": "/images/cups/special_cup.png",
+		"codes": "specialcup"
+	},
+	{
+		"name": "All Cup Tour",
+		"type": "toggle",
+		"img": "/images/cups/all_cup_tour.png",
+		"codes": "allcuptour"
+	},
+	{
+		"name": "Progressive Cup Skip",
+		"type": "progressive",
+        "allow_disabled": false,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"name": "No Race Skip",
+				"img": "/images/cups/no_skips.png",
+				"codes": "progressivecupskip, no_skip"
+			},
+			{
+				"name": "One Race Skip",
+				"img": "/images/cups/one_skip.png",
+				"codes": "one_skip"
+			},
+			{
+				"name": "Two Race Skips",
+				"img": "/images/cups/two_skips.png",
+				"codes": "two_skip"
+			},
+			{
+				"name": "Three Race Skips",
+				"img": "/images/cups/three_skips.png",
+				"codes": "three_skip"
+			}
+		]
+	},
+	{
+		"name": "Progressive Class",
+		"type": "progressive",
+        "allow_disabled": false,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"name": "50cc",
+				"img": "/images/cups/50cc.png",
+				"codes": "progressiveclass, 50cc_class"
+			},
+			{
+				"name": "100cc",
+				"img": "/images/cups/100cc.png",
+				"codes": "100cc_class"
+			},
+			{
+				"name": "150cc",
+				"img": "/images/cups/150cc.png",
+				"codes": "150cc_class"
+			},
+			{
+				"name": "Mirror",
+				"img": "/images/cups/mirror.png",
+				"codes": "mirror_class"
+			}
+		]
+	}
+]
