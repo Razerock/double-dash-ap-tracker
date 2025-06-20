@@ -84,5 +84,28 @@
 				"codes": "mirror_class"
 			}
 		]
+	},
+	{
+		"name": "Progressive Engine Upgrade",
+		"type": "progressive",
+        "allow_disabled": true,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"name": "First Engine Upgrade",
+				"img": "/images/cups/engine_one.png",
+				"codes": "progressiveengineupgrade, engine_one"
+			},
+			{
+				"name": "Second Engine Upgrade",
+				"img": "/images/cups/engine_two.png",
+				"codes": "engine_two"
+			},
+			{
+				"name": "Third Engine Upgrade",
+				"img": "/images/cups/engine_three.png",
+				"codes": "engine_three"
+			}
+		]
 	}
 ]
