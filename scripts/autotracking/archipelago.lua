@@ -97,12 +97,12 @@ function onClear(slot_data)
     -- reset items
     for _, item_pair in pairs(ITEM_MAPPING) do
         for item_type, item_code in pairs(item_pair) do
-            local item_obj = Tracker:FindObjectForCode(item_code)
+            local item_obj = Tracker:FindObjectForCode(item_code[1])
+            
             if item_obj then
                 if item_obj.Type == "toggle" then
                     item_obj.Active = false
                 elseif item_obj.Type == "progressive" then
-                    print("TESTING!")
                     item_obj.CurrentStage = 0
                     item_obj.Active = false
                 elseif item_obj.Type == "consumable" then
@@ -153,7 +153,7 @@ function onItem(index, item_id, item_name, player_number)
                 -- print("toggle")
                 item_obj.Active = true
             elseif item_obj.Type == "progressive" then
-                -- print("progressive")
+                print("progressive")
                 if item_obj.Active then
                     item_obj.CurrentStage = item_obj.CurrentStage + 1
                 else
