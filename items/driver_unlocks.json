@@ -74,13 +74,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforbabymario"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforbabymario"
 	},
 	{
@@ -197,13 +197,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforbabyluigi"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforbabyluigi"
 	},
 	{
@@ -320,13 +320,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforkoopa"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforkoopa"
 	},
 	{
@@ -444,13 +444,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforparatroopa"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforparatroopa"
 	},
 	{
@@ -568,13 +568,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballfordiddykong"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsfordiddykong"
 	},
 	{
@@ -691,13 +691,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforbowserjr."
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforbowserjr."
 	},
 	{
@@ -816,13 +816,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballfortoad"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsfortoad"
 	},
 	{
@@ -941,13 +941,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballfortoadette"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsfortoadette"
 	},
 	{
@@ -1065,13 +1065,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballformario"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsformario"
 	},
 	{
@@ -1189,13 +1189,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforluigi"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforluigi"
 	},
 	{
@@ -1313,13 +1313,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforpeach"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforpeach"
 	},
 	{
@@ -1437,13 +1437,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballfordaisy"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsfordaisy"
 	},
 	{
@@ -1561,13 +1561,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforyoshi"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforyoshi"
 	},
 	{
@@ -1685,13 +1685,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforbirdo"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforbirdo"
 	},
 	{
@@ -1809,13 +1809,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforwaluigi"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforwaluigi"
 	},
 	{
@@ -1933,13 +1933,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballfordonkeykong"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsfordonkeykong"
 	},
 	{
@@ -2057,13 +2057,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforbowser"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforbowser"
 	},
 	{
@@ -2181,13 +2181,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforwario"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforwario"
 	},
 	{
@@ -2305,13 +2305,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforpeteypiranha"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforpeteypiranha"
 	},
 	{
@@ -2429,13 +2429,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforkingboo"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforkingboo"
 	},
 	{

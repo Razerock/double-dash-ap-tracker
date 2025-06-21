@@ -74,13 +74,13 @@
 	{
 		"name": "Fireball",
 		"type": "toggle",
-		"img": "/images/items/red_fireball.png",
+		"img": "/images/items/fireball.png",
 		"codes": "fireballforeverybody"
 	},
 	{
 		"name": "Fireballs",
 		"type": "toggle",
-		"img": "/images/items/green_fireball.png",
+		"img": "/images/items/fireballs.png",
 		"codes": "fireballsforeverybody"
 	},
 	{
