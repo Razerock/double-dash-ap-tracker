@@ -44,8 +44,8 @@ function dump_table(o, depth)
 end
 
 function forceUpdate()
-    local update = Tracker:FindObjectForCode("update")
-    update.Active = not update.Active
+--REMOVED CAUSE I HAVE NO CLUE    local update = Tracker:FindObjectForCode("update")
+--REMOVED CAUSE I HAVE NO CLUE    update.Active = not update.Active
 end
 
 function onClearHandler(slot_data)
@@ -62,7 +62,7 @@ function onClearHandler(slot_data)
         -- locations from AP have been processed.
         local handlerName = "AP onClearHandler"
         local function frameCallback()
-            ScriptHost:AddWatchForCode("StateChange", "*", StateChange)
+--REMOVED CAUSE I HAVE NO CLUE            ScriptHost:AddWatchForCode("StateChange", "*", StateChange)
             ScriptHost:RemoveOnFrameHandler(handlerName)
             Tracker.BulkUpdate = false
             forceUpdate()
@@ -77,7 +77,10 @@ function onClearHandler(slot_data)
 end
 
 function onClear(slot_data)
+    cups_courses = slot_data["cups_courses"]
+    timetrials = slot_data["time_trials"]
     --SLOT_DATA = slot_data
+    -- print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do
@@ -153,7 +156,6 @@ function onItem(index, item_id, item_name, player_number)
                 -- print("toggle")
                 item_obj.Active = true
             elseif item_obj.Type == "progressive" then
-                print("progressive")
                 if item_obj.Active then
                     item_obj.CurrentStage = item_obj.CurrentStage + 1
                 else

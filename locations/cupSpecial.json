@@ -1,0 +1,274 @@
+[
+	{
+		"name": "Special Cup",
+		"access_rules": ["$canEnterSpecialCup"],
+		"sections": [
+			{
+				"name": "Finish the Cup"
+			},
+			{
+				"name": "Perfect Run"
+			},
+			{
+				"name": "50cc Bronze"
+			},
+			{
+				"name": "50cc Silver"
+			},
+			{
+				"name": "50cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Gold"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Bronze"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Silver"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Gold"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 842,
+				"y": 68
+			}
+		]
+	},
+	{
+		"name": "Wario Colosseum",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterWarioColosseum"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterWarioColosseum","$canEnterWarioColosseumTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterWarioColosseum"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterWarioColosseum, $hasWario"],
+						"name": "Win in Wario Colosseum with Wario"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 727,
+						"y": 207
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterWarioColosseumTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 876,
+						"y": 207
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dino Dino Jungle",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterDinoDinoJungle"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterDinoDinoJungle","$canEnterDinoDinoJungleTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterDinoDinoJungle"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 727,
+						"y": 344
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterDinoDinoJungleTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 876,
+						"y": 344
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Bowser's Castle",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterDinoDinoJungle"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterDinoDinoJungle", "$canEnterBowsersCastleTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterDinoDinoJungle"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterDinoDinoJungle, $hasBowser"],
+						"name": "Win in Bowser's Castle with Bowser"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 727,
+						"y": 481
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterBowsersCastleTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 876,
+						"y": 481
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rainbow Road",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterRainbowRoad"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterRainbowRoad","$canEnterRainbowRoadTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterRainbowRoad"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 727,
+						"y": 618
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterRainbowRoadTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 876,
+						"y": 618
+					}
+				]
+			}
+		]
+	}
+]

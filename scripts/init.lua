@@ -6,7 +6,20 @@ Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/cups.json")
 Tracker:AddItems("items/karts.json")
 Tracker:AddItems("items/driver_unlocks.json")
-Tracker:AddItems("items/checks.json")
+
+-- Logic
+ScriptHost:LoadScript("scripts/logic/logic.lua")
+ScriptHost:LoadScript("scripts/utils.lua")
+
+-- Maps
+Tracker:AddMaps("maps/maps.json")
+
+-- Locations
+Tracker:AddLocations("locations/cupMushroom.json")
+Tracker:AddLocations("locations/cupFlower.json")
+Tracker:AddLocations("locations/cupStar.json")
+Tracker:AddLocations("locations/cupSpecial.json")
+Tracker:AddLocations("locations/kartChecks.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/drivers.json")
@@ -21,3 +34,5 @@ Tracker:AddLayouts("layouts/mainWindow.json")
 if PopVersion and PopVersion >= "0.18.0" then
 	ScriptHost:LoadScript("scripts/autotracking.lua")
 end
+
+cups_courses = {}

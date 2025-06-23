@@ -1,0 +1,274 @@
+[
+	{
+		"name": "Star Cup",
+		"access_rules": ["$canEnterStarCup"],
+		"sections": [
+			{
+				"name": "Finish the Cup"
+			},
+			{
+				"name": "Perfect Run"
+			},
+			{
+				"name": "50cc Bronze"
+			},
+			{
+				"name": "50cc Silver"
+			},
+			{
+				"name": "50cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Gold"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Bronze"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Silver"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Gold"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 618,
+				"y": 68
+			}
+		]
+	},
+	{
+		"name": "Sherbet Land",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterSherbetLand"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterSherbetLand", "$canEnterSherbetLandTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterSherbetLand"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 500,
+						"y": 207
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterSherbetLandTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 649,
+						"y": 207
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mushroom City",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterMushroomCity"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterMushroomCity", "$canEnterMushroomCityTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterMushroomCity"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 500,
+						"y": 344
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterMushroomCityTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 649,
+						"y": 344
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Yoshi Circuit",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterYoshiCircuit"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterYoshiCircuit", "$canEnterYoshiCircuitTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterYoshiCircuit"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterYoshiCircuit, $hasYoshi"],
+						"name": "Win in Yoshi Circuit with Yoshi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 500,
+						"y": 481
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterYoshiCircuitTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 649,
+						"y": 481
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "DK Mountain",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterDKMountain"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterDKMountain", "$canEnterDKMountainTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterDKMountain"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterDKMountain, $hasDonkeyKong"],
+						"name": "Win in DK Mountain with Donkey Kong"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 500,
+						"y": 618
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterDKMountainTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 649,
+						"y": 618
+					}
+				]
+			}
+		]
+	}
+]

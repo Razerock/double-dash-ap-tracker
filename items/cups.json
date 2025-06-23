@@ -216,5 +216,69 @@
 				"codes": "engine_three"
 			}
 		]
+	},
+	{
+		"type": "toggle",
+		"codes": "luigicircuittimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "peachbeachtimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "babyparktimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "drydrydeserttimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "mushroombridgetimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "mariocircuittimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "daisycruisertimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "waluigistadiumtimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "sherbetlandtimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "mushroomcitytimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "yoshicircuittimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "dkmountaintimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "wariocolosseumtimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "dinodinojungletimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "bowser'scastletimetrial"
+	},
+	{
+		"type": "toggle",
+		"codes": "rainbowroadtimetrial"
 	}
 ]

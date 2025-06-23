@@ -6,10 +6,70 @@
 		"codes": "barreltrain"
 	},
 	{
+		"name": "Acceleration boost for Barrel Train",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforbarreltrain"
+	},
+	{
+		"name": "Mini-Turbo extender for Barrel Train",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforbarreltrain"
+	},
+	{
+		"name": "Off-Road tires for Barrel Train",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforbarreltrain"
+	},
+	{
+		"name": "Extra weight for Barrel Train",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforbarreltrain"
+	},
+	{
+		"name": "Powersteering for Barrel Train",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforbarreltrain"
+	},
+	{
 		"name": "Bloom Coach",
 		"type": "toggle",
 		"img": "/images/karts/bloom_coach.png",
 		"codes": "bloomcoach"
+	},
+	{
+		"name": "Acceleration boost for Bloom Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforbloomcoach"
+	},
+	{
+		"name": "Mini-Turbo extender for Bloom Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforbloomcoach"
+	},
+	{
+		"name": "Off-Road tires for Bloom Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforbloomcoach"
+	},
+	{
+		"name": "Extra weight for Bloom Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforbloomcoach"
+	},
+	{
+		"name": "Powersteering for Bloom Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforbloomcoach"
 	},
 	{
 		"name": "Boo Pipes",
@@ -18,10 +78,70 @@
 		"codes": "boopipes"
 	},
 	{
+		"name": "Acceleration boost for Boo Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforboopipes"
+	},
+	{
+		"name": "Mini-Turbo extender for Boo Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforboopipes"
+	},
+	{
+		"name": "Off-Road tires for Boo Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforboopipes"
+	},
+	{
+		"name": "Extra weight for Boo Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforboopipes"
+	},
+	{
+		"name": "Powersteering for Boo Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforboopipes"
+	},
+	{
 		"name": "Bullet Blaster",
 		"type": "toggle",
 		"img": "/images/karts/bullet_blaster.png",
 		"codes": "bulletblaster"
+	},
+	{
+		"name": "Acceleration boost for Bullet Blaster",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforbulletblaster"
+	},
+	{
+		"name": "Mini-Turbo extender for Bullet Blaster",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforbulletblaster"
+	},
+	{
+		"name": "Off-Road tires for Bullet Blaster",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforbulletblaster"
+	},
+	{
+		"name": "Extra weight for Bullet Blaster",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforbulletblaster"
+	},
+	{
+		"name": "Powersteering for Bullet Blaster",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforbulletblaster"
 	},
 	{
 		"name": "DK Jumbo",
@@ -30,10 +150,70 @@
 		"codes": "dkjumbo"
 	},
 	{
+		"name": "Acceleration boost for DK Jumbo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostfordkjumbo"
+	},
+	{
+		"name": "Mini-Turbo extender for DK Jumbo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderfordkjumbo"
+	},
+	{
+		"name": "Off-Road tires for DK Jumbo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresfordkjumbo"
+	},
+	{
+		"name": "Extra weight for DK Jumbo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightfordkjumbo"
+	},
+	{
+		"name": "Powersteering for DK Jumbo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringfordkjumbo"
+	},
+	{
 		"name": "Goo Goo Buggy",
 		"type": "toggle",
 		"img": "/images/karts/goo_goo_buggy.png",
 		"codes": "goo-goobuggy"
+	},
+	{
+		"name": "Acceleration boost for Goo Goo Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforgoo-goobuggy"
+	},
+	{
+		"name": "Mini-Turbo extender for Goo Goo Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforgoo-goobuggy"
+	},
+	{
+		"name": "Off-Road tires for Goo Goo Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforgoo-goobuggy"
+	},
+	{
+		"name": "Extra weight for Goo Goo Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforgoo-goobuggy"
+	},
+	{
+		"name": "Powersteering for Goo Goo Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforgoo-goobuggy"
 	},
 	{
 		"name": "Green Fire",
@@ -42,10 +222,70 @@
 		"codes": "greenfire"
 	},
 	{
+		"name": "Acceleration boost for Green Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforgreenfire"
+	},
+	{
+		"name": "Mini-Turbo extender for Green Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforgreenfire"
+	},
+	{
+		"name": "Off-Road tires for Green Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforgreenfire"
+	},
+	{
+		"name": "Extra weight for Green Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforgreenfire"
+	},
+	{
+		"name": "Powersteering for Green Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforgreenfire"
+	},
+	{
 		"name": "Heart Coach",
 		"type": "toggle",
 		"img": "/images/karts/heart_coach.png",
 		"codes": "heartcoach"
+	},
+	{
+		"name": "Acceleration boost for Heart Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforheartcoach"
+	},
+	{
+		"name": "Mini-Turbo extender for Heart Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforheartcoach"
+	},
+	{
+		"name": "Off-Road tires for Heart Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforheartcoach"
+	},
+	{
+		"name": "Extra weight for Heart Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforheartcoach"
+	},
+	{
+		"name": "Powersteering for Heart Coach",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforheartcoach"
 	},
 	{
 		"name": "Koopa Dasher",
@@ -54,10 +294,70 @@
 		"codes": "koopadasher"
 	},
 	{
+		"name": "Acceleration boost for Koopa Dasher",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforkoopadasher"
+	},
+	{
+		"name": "Mini-Turbo extender for Koopa Dasher",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforkoopadasher"
+	},
+	{
+		"name": "Off-Road tires for Koopa Dasher",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforkoopadasher"
+	},
+	{
+		"name": "Extra weight for Koopa Dasher",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforkoopadasher"
+	},
+	{
+		"name": "Powersteering for Koopa Dasher",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforkoopadasher"
+	},
+	{
 		"name": "Koopa King",
 		"type": "toggle",
 		"img": "/images/karts/koopa_king.png",
 		"codes": "koopaking"
+	},
+	{
+		"name": "Acceleration boost for Koopa King",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforkoopaking"
+	},
+	{
+		"name": "Mini-Turbo extender for Koopa King",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforkoopaking"
+	},
+	{
+		"name": "Off-Road tires for Koopa King",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforkoopaking"
+	},
+	{
+		"name": "Extra weight for Koopa King",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforkoopaking"
+	},
+	{
+		"name": "Powersteering for Koopa King",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforkoopaking"
 	},
 	{
 		"name": "Parade Kart",
@@ -66,10 +366,70 @@
 		"codes": "paradekart"
 	},
 	{
+		"name": "Acceleration boost for Parade Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforparadekart"
+	},
+	{
+		"name": "Mini-Turbo extender for Parade Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforparadekart"
+	},
+	{
+		"name": "Off-Road tires for Parade Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforparadekart"
+	},
+	{
+		"name": "Extra weight for Parade Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforparadekart"
+	},
+	{
+		"name": "Powersteering for Parade Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforparadekart"
+	},
+	{
 		"name": "Para-Wing",
 		"type": "toggle",
 		"img": "/images/karts/para-wing.png",
 		"codes": "para-wing"
+	},
+	{
+		"name": "Acceleration boost for Para-Wing",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforpara-wing"
+	},
+	{
+		"name": "Mini-Turbo extender for Para-Wing",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforpara-wing"
+	},
+	{
+		"name": "Off-Road tires for Para-Wing",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforpara-wing"
+	},
+	{
+		"name": "Extra weight for Para-Wing",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforpara-wing"
+	},
+	{
+		"name": "Powersteering for Para-Wing",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforpara-wing"
 	},
 	{
 		"name": "Piranha Pipes",
@@ -78,10 +438,70 @@
 		"codes": "piranhapipes"
 	},
 	{
+		"name": "Acceleration boost for Piranha Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforpiranhapipes"
+	},
+	{
+		"name": "Mini-Turbo extender for Piranha Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforpiranhapipes"
+	},
+	{
+		"name": "Off-Road tires for Piranha Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforpiranhapipes"
+	},
+	{
+		"name": "Extra weight for Piranha Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforpiranhapipes"
+	},
+	{
+		"name": "Powersteering for Piranha Pipes",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforpiranhapipes"
+	},
+	{
 		"name": "Rattle Buggy",
 		"type": "toggle",
 		"img": "/images/karts/rattle_buggy.png",
 		"codes": "rattlebuggy"
+	},
+	{
+		"name": "Acceleration boost for Rattle Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforrattlebuggy"
+	},
+	{
+		"name": "Mini-Turbo extender for Rattle Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforrattlebuggy"
+	},
+	{
+		"name": "Off-Road tires for Rattle Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforrattlebuggy"
+	},
+	{
+		"name": "Extra weight for Rattle Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforrattlebuggy"
+	},
+	{
+		"name": "Powersteering for Rattle Buggy",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforrattlebuggy"
 	},
 	{
 		"name": "Red Fire",
@@ -90,10 +510,70 @@
 		"codes": "redfire"
 	},
 	{
+		"name": "Acceleration boost for Red Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforredfire"
+	},
+	{
+		"name": "Mini-Turbo extender for Red Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforredfire"
+	},
+	{
+		"name": "Off-Road tires for Red Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforredfire"
+	},
+	{
+		"name": "Extra weight for Red Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforredfire"
+	},
+	{
+		"name": "Powersteering for Red Fire",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforredfire"
+	},
+	{
 		"name": "Toadette Kart",
 		"type": "toggle",
 		"img": "/images/karts/toadette_kart.png",
 		"codes": "toadettekart"
+	},
+	{
+		"name": "Acceleration boost for Toadette Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostfortoadettekart"
+	},
+	{
+		"name": "Mini-Turbo extender for Toadette Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderfortoadettekart"
+	},
+	{
+		"name": "Off-Road tires for Toadette Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresfortoadettekart"
+	},
+	{
+		"name": "Extra weight for Toadette Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightfortoadettekart"
+	},
+	{
+		"name": "Powersteering for Toadette Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringfortoadettekart"
 	},
 	{
 		"name": "Toad Kart",
@@ -102,10 +582,70 @@
 		"codes": "toadkart"
 	},
 	{
+		"name": "Acceleration boost for Toad Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostfortoadkart"
+	},
+	{
+		"name": "Mini-Turbo extender for Toad Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderfortoadkart"
+	},
+	{
+		"name": "Off-Road tires for Toad Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresfortoadkart"
+	},
+	{
+		"name": "Extra weight for Toad Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightfortoadkart"
+	},
+	{
+		"name": "Powersteering for Toad Kart",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringfortoadkart"
+	},
+	{
 		"name": "Turbo Birdo",
 		"type": "toggle",
 		"img": "/images/karts/turbo_birdo.png",
 		"codes": "turbobirdo"
+	},
+	{
+		"name": "Acceleration boost for Turbo Birdo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforturbobirdo"
+	},
+	{
+		"name": "Mini-Turbo extender for Turbo Birdo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforturbobirdo"
+	},
+	{
+		"name": "Off-Road tires for Turbo Birdo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforturbobirdo"
+	},
+	{
+		"name": "Extra weight for Turbo Birdo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforturbobirdo"
+	},
+	{
+		"name": "Powersteering for Turbo Birdo",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforturbobirdo"
 	},
 	{
 		"name": "Turbo Yoshi",
@@ -114,15 +654,105 @@
 		"codes": "turboyoshi"
 	},
 	{
+		"name": "Acceleration boost for Turbo Yoshi",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforturboyoshi"
+	},
+	{
+		"name": "Mini-Turbo extender for Turbo Yoshi",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforturboyoshi"
+	},
+	{
+		"name": "Off-Road tires for Turbo Yoshi",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforturboyoshi"
+	},
+	{
+		"name": "Extra weight for Turbo Yoshi",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforturboyoshi"
+	},
+	{
+		"name": "Powersteering for Turbo Yoshi",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforturboyoshi"
+	},
+	{
 		"name": "Waluigi Racer",
 		"type": "toggle",
 		"img": "/images/karts/waluigi_racer.png",
 		"codes": "waluigiracer"
 	},
 	{
+		"name": "Acceleration boost for Waluigi Racer",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforwaluigiracer"
+	},
+	{
+		"name": "Mini-Turbo extender for Waluigi Racer",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforwaluigiracer"
+	},
+	{
+		"name": "Off-Road tires for Waluigi Racer",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforwaluigiracer"
+	},
+	{
+		"name": "Extra weight for Waluigi Racer",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforwaluigiracer"
+	},
+	{
+		"name": "Powersteering for Waluigi Racer",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforwaluigiracer"
+	},
+	{
 		"name": "Wario Car",
 		"type": "toggle",
 		"img": "/images/karts/wario_car.png",
 		"codes": "wariocar"
+	},
+	{
+		"name": "Acceleration boost for Wario Car",
+		"type": "toggle",
+		"img": "/images/karts/boosts/acceleration_boost.png",
+		"codes": "accelerationboostforwariocar"
+	},
+	{
+		"name": "Mini-Turbo extender for Wario Car",
+		"type": "toggle",
+		"img": "/images/karts/boosts/turbo_boost.png",
+		"codes": "mini-turboextenderforwariocar"
+	},
+	{
+		"name": "Off-Road tires for Wario Car",
+		"type": "toggle",
+		"img": "/images/karts/boosts/tire_boost.png",
+		"codes": "off-roadtiresforwariocar"
+	},
+	{
+		"name": "Extra weight for Wario Car",
+		"type": "toggle",
+		"img": "/images/karts/boosts/weight_boost.png",
+		"codes": "extraweightforwariocar"
+	},
+	{
+		"name": "Powersteering for Wario Car",
+		"type": "toggle",
+		"img": "/images/karts/boosts/steering_boost.png",
+		"codes": "powersteeringforwariocar"
 	}
 ]

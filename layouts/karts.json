@@ -6,13 +6,13 @@
 		"content": [
 			{
 				"type": "array",
-				"orientation": "horizontal",
+				"orientation": "vertical",
 				"h_alignment": "center",
 				"margin": "0,0",
 				"content": [
 					{
 						"type": "itemgrid",
-						"margin": "70,32,0,0",
+						"margin": "16,32,0,0",
 						"item_margin": "10, 10",
 						"h_alignment": "center",
 						"item_size": "96,96",
@@ -26,7 +26,160 @@
 								"toadettekart",
 								"barreltrain",
 								"bulletblaster"
-							],
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "31,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforgoo-goobuggy",
+								"mini-turboextenderforgoo-goobuggy",
+								"off-roadtiresforgoo-goobuggy",
+								"extraweightforgoo-goobuggy",
+								"powersteeringforgoo-goobuggy"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforrattlebuggy",
+								"mini-turboextenderforrattlebuggy",
+								"off-roadtiresforrattlebuggy",
+								"extraweightforrattlebuggy",
+								"powersteeringforrattlebuggy"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforkoopadasher",
+								"mini-turboextenderforkoopadasher",
+								"off-roadtiresforkoopadasher",
+								"extraweightforkoopadasher",
+								"powersteeringforkoopadasher"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforpara-wing",
+								"mini-turboextenderforpara-wing",
+								"off-roadtiresforpara-wing",
+								"extraweightforpara-wing",
+								"powersteeringforpara-wing"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostfortoadkart",
+								"mini-turboextenderfortoadkart",
+								"off-roadtiresfortoadkart",
+								"extraweightfortoadkart",
+								"powersteeringfortoadkart"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostfortoadettekart",
+								"mini-turboextenderfortoadettekart",
+								"off-roadtiresfortoadettekart",
+								"extraweightfortoadettekart",
+								"powersteeringfortoadettekart"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforbarreltrain",
+								"mini-turboextenderforbarreltrain",
+								"off-roadtiresforbarreltrain",
+								"extraweightforbarreltrain",
+								"powersteeringforbarreltrain"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforbulletblaster",
+								"mini-turboextenderforbulletblaster",
+								"off-roadtiresforbulletblaster",
+								"extraweightforbulletblaster",
+								"powersteeringforbulletblaster"
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "16,32,0,0",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": "96,96",
+						"rows": [
 							[
 								"redfire",
 								"greenfire",
@@ -35,7 +188,144 @@
 								"turboyoshi",
 								"turbobirdo",
 								"waluigiracer"
-							],
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "31,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforredfire",
+								"mini-turboextenderforredfire",
+								"off-roadtiresforredfire",
+								"extraweightforredfire",
+								"powersteeringforredfire"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforgreenfire",
+								"mini-turboextenderforgreenfire",
+								"off-roadtiresforgreenfire",
+								"extraweightforgreenfire",
+								"powersteeringforgreenfire"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforheartcoach",
+								"mini-turboextenderforheartcoach",
+								"off-roadtiresforheartcoach",
+								"extraweightforheartcoach",
+								"powersteeringforheartcoach"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforbloomcoach",
+								"mini-turboextenderforbloomcoach",
+								"off-roadtiresforbloomcoach",
+								"extraweightforbloomcoach",
+								"powersteeringforbloomcoach"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforturboyoshi",
+								"mini-turboextenderforturboyoshi",
+								"off-roadtiresforturboyoshi",
+								"extraweightforturboyoshi",
+								"powersteeringforturboyoshi"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforturbobirdo",
+								"mini-turboextenderforturbobirdo",
+								"off-roadtiresforturbobirdo",
+								"extraweightforturbobirdo",
+								"powersteeringforturbobirdo"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforwaluigiracer",
+								"mini-turboextenderforwaluigiracer",
+								"off-roadtiresforwaluigiracer",
+								"extraweightforwaluigiracer",
+								"powersteeringforwaluigiracer"
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "vertical",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "16,32,0,0",
+						"item_margin": "10, 10",
+						"h_alignment": "center",
+						"item_size": "96,96",
+						"rows": [
 							[
 								"dkjumbo",
 								"koopaking",
@@ -43,6 +333,110 @@
 								"piranhapipes",
 								"boopipes",
 								"paradekart"
+							]
+						]
+					}
+				]
+			},
+			{
+				"type": "array",
+				"orientation": "horizontal",
+				"h_alignment": "center",
+				"margin": "0,0",
+				"content": [
+					{
+						"type": "itemgrid",
+						"margin": "31,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostfordkjumbo",
+								"mini-turboextenderfordkjumbo",
+								"off-roadtiresfordkjumbo",
+								"extraweightfordkjumbo",
+								"powersteeringfordkjumbo"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforkoopaking",
+								"mini-turboextenderforkoopaking",
+								"off-roadtiresforkoopaking",
+								"extraweightforkoopaking",
+								"powersteeringforkoopaking"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforwariocar",
+								"mini-turboextenderforwariocar",
+								"off-roadtiresforwariocar",
+								"extraweightforwariocar",
+								"powersteeringforwariocar"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforpiranhapipes",
+								"mini-turboextenderforpiranhapipes",
+								"off-roadtiresforpiranhapipes",
+								"extraweightforpiranhapipes",
+								"powersteeringforpiranhapipes"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforboopipes",
+								"mini-turboextenderforboopipes",
+								"off-roadtiresforboopipes",
+								"extraweightforboopipes",
+								"powersteeringforboopipes"
+							]
+						]
+					},
+					{
+						"type": "itemgrid",
+						"margin": "26,0,0,0",
+						"item_margin": "0, 0",
+						"h_alignment": "center",
+						"item_size": "18,18",
+						"rows": [
+							[
+								"accelerationboostforparadekart",
+								"mini-turboextenderforparadekart",
+								"off-roadtiresforparadekart",
+								"extraweightforparadekart",
+								"powersteeringforparadekart"
 							]
 						]
 					}

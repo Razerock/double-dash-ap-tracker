@@ -1,0 +1,278 @@
+[
+	{
+		"name": "Flower Cup",
+		"access_rules": ["$canEnterFlowerCup"],
+		"sections": [
+			{
+				"name": "Finish the Cup"
+			},
+			{
+				"name": "Perfect Run"
+			},
+			{
+				"name": "50cc Bronze"
+			},
+			{
+				"name": "50cc Silver"
+			},
+			{
+				"name": "50cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Gold"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Bronze"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Silver"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Gold"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 389,
+				"y": 68
+			}
+		]
+	},
+	{
+		"name": "Mushroom Bridge",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterMushroomBridge"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterMushroomBridge", "$canEnterMushroomBridgeTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterMushroomBridge"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 273,
+						"y": 207
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterMushroomBridgeTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 421,
+						"y": 207
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Mario Circuit",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterMarioCircuit"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterMarioCircuit", "$canEnterMarioCircuitTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterMarioCircuit"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterMarioCircuit, $hasMario"],
+						"name": "Win in Mario Circuit with Mario"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 273,
+						"y": 344
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterMarioCircuitTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 421,
+						"y": 344
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Daisy Cruiser",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterDaisyCruiser"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterDaisyCruiser", "$canEnterDaisyCruiserTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterDaisyCruiser"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterDaisyCruiser, $hasDaisy"],
+						"name": "Win in Daisy Cruiser with Daisy"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 273,
+						"y": 481
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterDaisyCruiserTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 421,
+						"y": 481
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Waluigi Stadium",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterWaluigiStadium"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterWaluigiStadium", "$canEnterWaluigiStadiumTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterWaluigiStadium"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterWaluigiStadium, $hasWaluigi"],
+						"name": "Win in Waluigi Stadium with Waluigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 273,
+						"y": 618
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterWaluigiStadiumTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 421,
+						"y": 618
+					}
+				]
+			}
+		]
+	}
+]

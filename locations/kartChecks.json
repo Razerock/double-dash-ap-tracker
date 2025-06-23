@@ -1,0 +1,177 @@
+[
+	{
+		"name": "Driver Pairings",
+		"sections": [
+			{
+				"access_rules": ["$hasMarioLuigi"],
+				"name": "Win With Mario and Luigi"
+			},
+			{
+				"access_rules": ["$hasPeachDaisy"],
+				"name": "Win With Peach and Daisy"
+			},
+			{
+				"access_rules": ["$hasYoshiBirdo"],
+				"name": "Win With Yoshi and Birdo"
+			},
+			{
+				"access_rules": ["$hasBabyMarioBabyLuigi"],
+				"name": "Win With Baby Mario and Baby Luigi"
+			},
+			{
+				"access_rules": ["$hasToadToadette"],
+				"name": "Win With Toad and Toadette"
+			},
+			{
+				"access_rules": ["$hasKoopaParatroopa"],
+				"name": "Win With Koopa and Paratroopa"
+			},
+			{
+				"access_rules": ["$hasDonkeyKongDiddyKong"],
+				"name": "Win With Donkey Kong and Diddy Kong"
+			},
+			{
+				"access_rules": ["$hasBowserBowserJr"],
+				"name": "Win With Bowser and Bowser Jr."
+			},
+			{
+				"access_rules": ["$hasWarioWaluigi"],
+				"name": "Win With Wario and Waluigi"
+			},
+			{
+				"access_rules": ["$hasPeteyPiranhaKingBoo"],
+				"name": "Win With Petey Piranha and King Boo"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 442,
+				"y": 0,
+				"size": 16
+			}
+		]
+	},
+	{
+		"name": "Driver and Kart Checks 1",
+		"sections": [
+			{
+				"access_rules": ["$hasMarioRedFire"],
+				"name": "Win With Mario Driving Red Fire"
+			},
+			{
+				"access_rules": ["$hasLuigiGreenFire"],
+				"name": "Win With Luigi Driving Green Fire"
+			},
+			{
+				"access_rules": ["$hasPeachHeartCoach"],
+				"name": "Win With Peach Driving Heart Coach"
+			},
+			{
+				"access_rules": ["$hasDaisyBloomCoach"],
+				"name": "Win With Daisy Driving Bloom Coach"
+			},
+			{
+				"access_rules": ["$hasYoshiTurboYoshi"],
+				"name": "Win With Yoshi Driving Turbo Yoshi"
+			},
+			{
+				"access_rules": ["$hasBirdoTurboBirdo"],
+				"name": "Win With Birdo Driving Turbo Birdo"
+			},
+			{
+				"access_rules": ["$hasBabyMarioGooGooBuggy"],
+				"name": "Win With Baby Mario Driving Goo-Goo Buggy"
+			},
+			{
+				"access_rules": ["$hasBabyLuigiRattleBuggy"],
+				"name": "Win With Baby Luigi Driving Rattle Buggy"
+			},
+			{
+				"access_rules": ["$hasToadToadKart"],
+				"name": "Win With Toad Driving Toad Kart"
+			},
+			{
+				"access_rules": ["$hasToadetteToadetteKart"],
+				"name": "Win With Toadette Driving Toadette Kart"
+			},
+			{
+				"access_rules": ["$hasKoopaKoopaDasher"],
+				"name": "Win With Koopa Driving Koopa Dasher"
+			},
+			{
+				"access_rules": ["$hasParatroopaParaWing"],
+				"name": "Win With Paratroopa Driving Para-Wing"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 462,
+				"y": 0,
+				"size": 16
+			}
+		]
+	},
+	{
+		"name": "Driver and Kart Checks 2",
+		"sections": [
+			{
+				"access_rules": ["$hasDonkeyKongDKJumbo"],
+				"name": "Win With Donkey Kong Driving DK Jumbo"
+			},
+			{
+				"access_rules": ["$hasDiddyKongBarrelTrain"],
+				"name": "Win With Diddy Kong Driving Barrel Train"
+			},
+			{
+				"access_rules": ["$hasBowserKoopaKing"],
+				"name": "Win With Bowser Driving Koopa King"
+			},
+			{
+				"access_rules": ["$hasBowserJrBulletBlaster"],
+				"name": "Win With Bowser Jr. Driving Bullet Blaster"
+			},
+			{
+				"access_rules": ["$hasWarioWarioCar"],
+				"name": "Win With Wario Driving Wario Car"
+			},
+			{
+				"access_rules": ["$hasWaluigiWaluigiRacer"],
+				"name": "Win With Waluigi Driving Waluigi Racer"
+			},
+			{
+				"access_rules": ["$hasPeteyPiranhaPiranhaPipes"],
+				"name": "Win With Petey Piranha Driving Piranha Pipes"
+			},
+			{
+				"access_rules": ["$hasKingBooBooPipes"],
+				"name": "Win With King Boo Driving Boo Pipes"
+			},
+			{
+				"access_rules": ["$GoldLightKart"],
+				"name": "Win Gold With a Light Kart"
+			},
+			{
+				"access_rules": ["$GoldMediumKart"],
+				"name": "Win Gold With a Medium Kart"
+			},
+			{
+				"access_rules": ["$GoldHeavyKart"],
+				"name": "Win Gold With a Heavy Kart"
+			},
+			{
+				"access_rules": ["$GoldParadeKart"],
+				"name": "Win Gold With Parade Kart"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 482,
+				"y": 0,
+				"size": 16
+			}
+		]
+	}
+]

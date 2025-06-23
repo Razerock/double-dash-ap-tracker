@@ -1,0 +1,278 @@
+[
+	{
+		"name": "Mushroom Cup",
+		"access_rules": ["$canEnterMushroomCup"],
+		"sections": [
+			{
+				"name": "Finish the Cup"
+			},
+			{
+				"name": "Perfect Run"
+			},
+			{
+				"name": "50cc Bronze"
+			},
+			{
+				"name": "50cc Silver"
+			},
+			{
+				"name": "50cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter100cc"],
+				"name": "100cc Gold"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Bronze"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Silver"
+			},
+			{
+				"access_rules": ["$canEnter150cc"],
+				"name": "150cc Gold"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Bronze"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Silver"
+			},
+			{
+				"access_rules": ["$canEnterMirror"],
+				"name": "Mirror Gold"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 164,
+				"y": 68
+			}
+		]
+	},
+	{
+		"name": "Luigi Circuit",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterLuigiCircuit"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterLuigiCircuit", "$canEnterLuigiCircuitTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterLuigiCircuit"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterLuigiCircuit, $hasLuigi"],
+						"name": "Win in Luigi Circuit with Luigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 47,
+						"y": 207
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterLuigiCircuitTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 194,
+						"y": 207
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Peach Beach",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterPeachBeach"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterPeachBeach", "$canEnterPeachBeachTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterPeachBeach"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterPeachBeach, $hasPeach"],
+						"name": "Win in Peach Beach with Peach"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 47,
+						"y": 344
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterPeachBeachTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 194,
+						"y": 344
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Baby Park",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterBabyPark"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterBabyPark", "$canEnterBabyParkTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterBabyPark"],
+						"name": "Finish as 1st Place"
+					},
+					{
+						"access_rules": ["$canEnterBabyPark, $hasBabyMarioaaAndBabyLuigi"],
+						"name": "Win in Baby Park with Baby Mario and Baby Luigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 47,
+						"y": 481
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterBabyParkTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 194,
+						"y": 481
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Dry Dry Desert",
+		"children": [
+			{
+				"name": "Race",
+				"sections": [
+					{
+						"access_rules": ["$canEnterDryDryDesert"],
+						"name": "Take the lead after Lap 1"
+					},
+					{
+						"access_rules": ["$canEnterDryDryDesert", "$canEnterDryDryDesertTimeTrial"],
+						"name": "Finish the Race"
+					},
+					{
+						"access_rules": ["$canEnterDryDryDesert"],
+						"name": "Finish as 1st Place"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 47,
+						"y": 618
+					}
+				]
+			},
+			{
+				"access_rules": ["$canEnterDryDryDesertTimeTrial"],
+				"visibility_rules": ["$TimeTrialSetting"],
+				"name": "Time Trial",
+				"sections": [
+					{
+						"name": "Beat Time Trial"
+					},
+					{
+						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"name": "Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "course_checks",
+						"x": 194,
+						"y": 618
+					}
+				]
+			}
+		]
+	}
+]
