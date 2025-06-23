@@ -424,27 +424,27 @@ function hasPeteyPiranhaKingBoo()
 end
 
 function hasMarioRedFire()
-	return(has("mario") and has("redfire"))
+	return(has("mario") and has("redfire") and canDriveMediumKart())
 end
 
 function hasLuigiGreenFire()
-	return(has("luigi") and has("greenfire"))
+	return(has("luigi") and has("greenfire") and canDriveMediumKart())
 end
 
 function hasPeachHeartCoach()
-	return(has("peach") and has("heartcoach"))
+	return(has("peach") and has("heartcoach") and canDriveMediumKart())
 end
 
 function hasDaisyBloomCoach()
-	return(has("daisy") and has("bloomcoach"))
+	return(has("daisy") and has("bloomcoach") and canDriveMediumKart())
 end
 
 function hasYoshiTurboYoshi()
-	return(has("yoshi") and has("turboyoshi"))
+	return(has("yoshi") and has("turboyoshi") and canDriveMediumKart())
 end
 
 function hasBirdoTurboBirdo()
-	return(has("birdo") and has("turbobirdo"))
+	return(has("birdo") and has("turbobirdo") and canDriveMediumKart())
 end
 
 function hasBabyMarioGooGooBuggy()
@@ -521,8 +521,10 @@ function canDriveLightKart()
 end
 
 function canDriveMediumKart()
+	medium_drivers_count = 0
 	for i, driver in pairs(medium_drivers) do
 		if has(driver) == true then
+			medium_drivers_count = medium_drivers_count + 1
 			for i, driver in pairs(light_drivers) do
 				if has(driver) == true then
 					return true
@@ -530,6 +532,9 @@ function canDriveMediumKart()
 				end
 			end
 		else
+			if medium_drivers_count >= 2 then
+				return true
+			end
 		end
 	end
 end
