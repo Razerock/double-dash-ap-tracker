@@ -168,6 +168,34 @@
 		]
 	},
 	{
+		"name": "Progressive Time Trial",
+		"type": "progressive",
+        "allow_disabled": false,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"name": "No Time Trial Boost",
+				"img": "/images/cups/timetrial_0.png",
+				"codes": "progressivetimetrialitem, timetrial_0"
+			},
+			{
+				"name": "One Time Trial Boost",
+				"img": "/images/cups/timetrial_1.png",
+				"codes": "timetrial_1"
+			},
+			{
+				"name": "Two Time Trial Boosts",
+				"img": "/images/cups/timetrial_2.png",
+				"codes": "timetrial_2"
+			},
+			{
+				"name": "Three Time Trial Boosts",
+				"img": "/images/cups/timetrial_3.png",
+				"codes": "timetrial_3"
+			}
+		]
+	},
+	{
 		"name": "Progressive Class",
 		"type": "progressive",
         "allow_disabled": false,

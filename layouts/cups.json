@@ -18,7 +18,7 @@
 						"item_size": "64,64",
 						"rows": [
 							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour"],
-							["","progressiveclass","progressivecupskip","progressiveengineupgrade","trophy"]
+							["progressiveclass","progressivecupskip","progressiveengineupgrade","progressivetimetrialitem","trophy"]
 						]
 					}
 				]
