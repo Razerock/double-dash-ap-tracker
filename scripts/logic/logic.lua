@@ -5,6 +5,36 @@ cup_table = {
 	"specialcup"
 }
 
+light_drivers = {
+	"babymario",
+	"babyluigi",
+	"koopa",
+	"paratroopa",
+	"diddykong",
+	"bowserjr.",
+	"toad",
+	"toadette"
+}
+
+medium_drivers = {
+	"mario",
+	"luigi",
+	"peach",
+	"daisy",
+	"yoshi",
+	"birdo",
+	"waluigi"
+}
+
+heavy_drivers = {
+	"donkeykong",
+	"bowser",
+	"wario",
+	"peteypiranha",
+	"kingboo"
+}
+
+
 -- Cup logic
 
 function canEnterMushroomCup()
@@ -438,7 +468,7 @@ function hasKoopaKoopaDasher()
 end
 
 function hasParatroopaParaWing()
-	return(has("paratroopa") and has("parawing"))
+	return(has("paratroopa") and has("para-wing"))
 end
 
 function hasDonkeyKongDKJumbo()
@@ -477,13 +507,40 @@ function GoldParadeKart()
 	return(has("paradekart"))
 end
 
-function GoldLightKart()
+function canDriveLightKart()
+	light_drivers_count = 0
+	for i, driver in pairs(light_drivers) do
+		if has(driver) == true then
+			light_drivers_count = light_drivers_count + 1
+			if light_drivers_count >= 2 then
+				return true
+			end
+		else
+		end
+	end
 end
 
-function GoldMediumKart()
+function canDriveMediumKart()
+	for i, driver in pairs(medium_drivers) do
+		if has(driver) == true then
+			for i, driver in pairs(light_drivers) do
+				if has(driver) == true then
+					return true
+				else
+				end
+			end
+		else
+		end
+	end
 end
 
-function GoldHeavyKart()
+function canDriveHeavyKart()
+	for i, driver in pairs(heavy_drivers) do
+		if has(driver) == true then
+			return true
+		else
+		end
+	end
 end
 
 function TimeTrialSetting()

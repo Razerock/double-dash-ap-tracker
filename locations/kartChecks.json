@@ -149,15 +149,15 @@
 				"name": "Win With King Boo Driving Boo Pipes"
 			},
 			{
-				"access_rules": ["$GoldLightKart"],
+				"access_rules": ["$canDriveLightKart"],
 				"name": "Win Gold With a Light Kart"
 			},
 			{
-				"access_rules": ["$GoldMediumKart"],
+				"access_rules": ["$canDriveMediumKart"],
 				"name": "Win Gold With a Medium Kart"
 			},
 			{
-				"access_rules": ["$GoldHeavyKart"],
+				"access_rules": ["$canDriveHeavyKart"],
 				"name": "Win Gold With a Heavy Kart"
 			},
 			{

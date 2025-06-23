@@ -36,3 +36,4 @@ if PopVersion and PopVersion >= "0.18.0" then
 end
 
 cups_courses = {}
+timetrials = 1
