@@ -4,7 +4,7 @@ cup_table = {
 	"starcup",
 	"specialcup"
 }
-
+ 
 light_drivers = {
 	"babymario",
 	"babyluigi",
