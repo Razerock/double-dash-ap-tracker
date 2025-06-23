@@ -448,27 +448,27 @@ function hasBirdoTurboBirdo()
 end
 
 function hasBabyMarioGooGooBuggy()
-	return(has("babymario") and has("goo-goobuggy"))
+	return(has("babymario") and has("goo-goobuggy")and canDriveLightKart())
 end
 
 function hasBabyLuigiRattleBuggy()
-	return(has("babyluigi") and has("rattlebuggy"))
+	return(has("babyluigi") and has("rattlebuggy") and canDriveLightKart())
 end
 
 function hasToadToadKart()
-	return(has("toad") and has("toadkart"))
+	return(has("toad") and has("toadkart") and canDriveLightKart())
 end
 
 function hasToadetteToadetteKart()
-	return(has("toadette") and has("toadettekart"))
+	return(has("toadette") and has("toadettekart") and canDriveLightKart())
 end
 
 function hasKoopaKoopaDasher()
-	return(has("koopa") and has("koopadasher"))
+	return(has("koopa") and has("koopadasher") and canDriveLightKart())
 end
 
 function hasParatroopaParaWing()
-	return(has("paratroopa") and has("para-wing"))
+	return(has("paratroopa") and has("para-wing") and canDriveLightKart())
 end
 
 function hasDonkeyKongDKJumbo()
