@@ -101,7 +101,7 @@
 				"sections": [
 					{
 						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial"
+						"name": "Beat Time Trial in 2:35"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
@@ -153,7 +153,7 @@
 				"sections": [
 					{
 						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial"
+						"name": "Beat Time Trial in 2:20"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
@@ -209,7 +209,7 @@
 				"sections": [
 					{
 						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial"
+						"name": "Beat Time Trial in 3:05"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
@@ -261,7 +261,7 @@
 				"sections": [
 					{
 						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial"
+						"name": "Beat Time Trial in 3:30"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],

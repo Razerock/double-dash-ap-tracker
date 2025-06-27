@@ -44,8 +44,8 @@ function dump_table(o, depth)
 end
 
 function forceUpdate()
---REMOVED CAUSE I HAVE NO CLUE    local update = Tracker:FindObjectForCode("update")
---REMOVED CAUSE I HAVE NO CLUE    update.Active = not update.Active
+    local update = Tracker:FindObjectForCode("update")
+    update.Active = not update.Active
 end
 
 function onClearHandler(slot_data)
