@@ -240,26 +240,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforbabymario"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -629,26 +609,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforbabyluigi"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforbabyluigi"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -1032,26 +992,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforkoopa"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforkoopa"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -1449,26 +1389,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforparatroopa"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -1853,26 +1773,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballfordiddykong"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -2243,26 +2143,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforbowserjr."
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforbowserjr."
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -2661,26 +2541,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballfortoad"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -3052,26 +2912,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningfortoadette"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballfortoadette"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -3468,26 +3308,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballformario"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -3871,26 +3691,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforluigi"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -4258,26 +4058,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforpeach"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforpeach"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -4674,26 +4454,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballfordaisy"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -5063,26 +4823,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforyoshi"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforyoshi"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -5480,26 +5220,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforbirdo"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -5869,26 +5589,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforwaluigi"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforwaluigi"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -6285,26 +5985,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballfordonkeykong"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -6674,26 +6354,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforbowser"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforbowser"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -7077,26 +6737,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforwario"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforwario"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"
@@ -7494,26 +7134,6 @@
 		]
 	},
 	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforpeteypiranha"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
 		"name": "Fireballs",
 		"type": "progressive",
 		"allow_disabled": true,
@@ -7883,26 +7503,6 @@
 			{
 				"img": "/images/items/lightning.png",
 				"codes": "lightningforkingboo"
-			},
-			{
-				"img_mods": "overlay|images/font/2.png"
-			},
-			{
-				"img_mods": "overlay|images/font/3.png"
-			},
-			{
-				"img_mods": "overlay|images/font/4.png"
-			}
-		]
-	},
-	{
-		"name": "Fireball",
-		"type": "progressive",
-		"allow_disabled": true,
-		"stages": [
-			{
-				"img": "/images/items/fireball.png",
-				"codes": "fireballforkingboo"
 			},
 			{
 				"img_mods": "overlay|images/font/2.png"

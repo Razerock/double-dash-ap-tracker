@@ -91,28 +91,24 @@
 		]
 	},
 	{
-		"name": "Progressive Cup Skip",
+		"name": "Progressive GP Race Skip",
 		"type": "progressive",
         "allow_disabled": false,
 		"initial_stage_idx": 0,
 		"stages": [
 			{
-				"name": "No Race Skip",
 				"img": "/images/cups/no_skips.png",
 				"codes": "progressivegpraceskip, no_skip"
 			},
 			{
-				"name": "One Race Skip",
 				"img": "/images/cups/one_skip.png",
 				"codes": "one_skip"
 			},
 			{
-				"name": "Two Race Skips",
 				"img": "/images/cups/two_skips.png",
 				"codes": "two_skip"
 			},
 			{
-				"name": "Three Race Skips",
 				"img": "/images/cups/three_skips.png",
 				"codes": "three_skip"
 			}
@@ -125,22 +121,18 @@
 		"initial_stage_idx": 0,
 		"stages": [
 			{
-				"name": "No Time Trial Boost",
 				"img": "/images/cups/timetrial_0.png",
 				"codes": "progressivetimetrialitem, timetrial_0"
 			},
 			{
-				"name": "One Time Trial Boost",
 				"img": "/images/cups/timetrial_1.png",
 				"codes": "timetrial_1"
 			},
 			{
-				"name": "Two Time Trial Boosts",
 				"img": "/images/cups/timetrial_2.png",
 				"codes": "timetrial_2"
 			},
 			{
-				"name": "Three Time Trial Boosts",
 				"img": "/images/cups/timetrial_3.png",
 				"codes": "timetrial_3"
 			}
@@ -152,45 +144,38 @@
         "allow_disabled": false,
 		"stages": [
 			{
-				"name": "50cc",
 				"img": "/images/cups/50cc.png",
 				"codes": "progressivecc, 50cc_class"
 			},
 			{
-				"name": "100cc",
 				"img": "/images/cups/100cc.png",
 				"codes": "100cc_class"
 			},
 			{
-				"name": "150cc",
 				"img": "/images/cups/150cc.png",
 				"codes": "150cc_class"
 			},
 			{
-				"name": "Mirror",
 				"img": "/images/cups/mirror.png",
 				"codes": "mirror_class"
 			}
 		]
 	},
 	{
-		"name": "Progressive Engine Upgrade",
+		"name": "Progressive Speed Upgrade",
 		"type": "progressive",
         "allow_disabled": true,
 		"initial_stage_idx": 0,
 		"stages": [
 			{
-				"name": "First Engine Upgrade",
 				"img": "/images/cups/engine_one.png",
 				"codes": "progressivespeedupgrade, engine_one"
 			},
 			{
-				"name": "Second Engine Upgrade",
 				"img": "/images/cups/engine_two.png",
 				"codes": "engine_two"
 			},
 			{
-				"name": "Third Engine Upgrade",
 				"img": "/images/cups/engine_three.png",
 				"codes": "engine_three"
 			}
