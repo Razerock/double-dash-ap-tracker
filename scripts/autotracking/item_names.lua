@@ -1,8 +1,8 @@
 ITEM_NAMES = {
-	[progressiveclass] = "Progressive Class",
-	[progressivecupskip] = "Progressive Cup Skip",
+	[progressivecc] = "Progressive CC",
+	[progressivegpraceskip] = "Progressive GP Race Skip",
 	[progressivetimetrialitem] = "Progressive Time Trial Item",
-	[progressiveengineupgrade] = "Progressive Engine Upgrade",
+	[progressivespeedupgrade] = "Progressive Speed Upgrade",
 	[nothing] = "Nothing",
 	[trophy] = "Trophy",
 	[victory] = "Victory",

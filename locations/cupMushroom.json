@@ -31,27 +31,27 @@
 				"name": "100cc Gold"
 			},
 			{
-				"access_rules": ["$canEnter150cc"],
+				"access_rules": ["$canEnter150cc,[$hasEngineOne]"],
 				"name": "150cc Bronze"
 			},
 			{
-				"access_rules": ["$canEnter150cc"],
+				"access_rules": ["$canEnter150cc,[$hasEngineOne]"],
 				"name": "150cc Silver"
 			},
 			{
-				"access_rules": ["$canEnter150cc"],
+				"access_rules": ["$canEnter150cc,[$hasEngineOne]"],
 				"name": "150cc Gold"
 			},
 			{
-				"access_rules": ["$canEnterMirror"],
+				"access_rules": ["$canEnterMirror,[$hasEngineOne]"],
 				"name": "Mirror Bronze"
 			},
 			{
-				"access_rules": ["$canEnterMirror"],
+				"access_rules": ["$canEnterMirror,[$hasEngineOne]"],
 				"name": "Mirror Silver"
 			},
 			{
-				"access_rules": ["$canEnterMirror"],
+				"access_rules": ["$canEnterMirror,[$hasEngineOne]"],
 				"name": "Mirror Gold"
 			}
 		],
@@ -100,10 +100,12 @@
 				"name": "Time Trial",
 				"sections": [
 					{
+						"access_rules": ["^$timeTrial"],
 						"name": "Beat Time Trial"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"access_rules": ["^$staffTimeTrial"],
 						"name": "Defeat Staff Ghost"
 					}
 				],
@@ -154,10 +156,12 @@
 				"name": "Time Trial",
 				"sections": [
 					{
+						"access_rules": ["^$timeTrial"],
 						"name": "Beat Time Trial"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"access_rules": ["^$staffTimeTrial"],
 						"name": "Defeat Staff Ghost"
 					}
 				],
@@ -208,6 +212,7 @@
 				"name": "Time Trial",
 				"sections": [
 					{
+						"access_rules": ["^$timeTrial"],
 						"name": "Beat Time Trial"
 					},
 					{
@@ -258,10 +263,12 @@
 				"name": "Time Trial",
 				"sections": [
 					{
+						"access_rules": ["^$timeTrial"],
 						"name": "Beat Time Trial"
 					},
 					{
 						"visibility_rules": ["$StaffTimeTrialSetting"],
+						"access_rules": ["^$staffTimeTrial"],
 						"name": "Defeat Staff Ghost"
 					}
 				],

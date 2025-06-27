@@ -36,106 +36,57 @@
 		"initial_stage_idx": 0,
 		"stages": [
 			{
-				"name": "No Trophies",
 				"img": "/images/cups/trophy.png",
 				"img_mods": "overlay|images/font/0.png",
 				"codes": "trophy"
 			},
 			{
-				"name": "One Trophy",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/1.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/1.png"
 			},
 			{
-				"name": "Two Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/2.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/2.png"
 			},
 			{
-				"name": "Three Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/3.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/3.png"
 			},
 			{
-				"name": "Four Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/4.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/4.png"
 			},
 			{
-				"name": "Five Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/5.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/5.png"
 			},
 			{
-				"name": "Six Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/6.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/6.png"
 			},
 			{
-				"name": "Seven Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/7.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/7.png"
 			},
 			{
-				"name": "Eight Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/8.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/8.png"
 			},
 			{
-				"name": "Nine Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/9.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/9.png"
 			},
 			{
-				"name": "Ten Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/10.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/10.png"
 			},
 			{
-				"name": "Eleven Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/11.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/11.png"
 			},
 			{
-				"name": "Twelve Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/12.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/12.png"
 			},
 			{
-				"name": "Thirteen Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/13.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/13.png"
 			},
 			{
-				"name": "Fourteen Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/14.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/14.png"
 			},
 			{
-				"name": "Fifteen Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/15.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/15.png"
 			},
 			{
-				"name": "Sixteen Trophies",
-				"img": "/images/cups/trophy.png",
-				"img_mods": "overlay|images/font/16.png",
-				"codes": "trophy"
+				"img_mods": "overlay|images/font/16.png"
 			}
 		]
 	},
@@ -148,7 +99,7 @@
 			{
 				"name": "No Race Skip",
 				"img": "/images/cups/no_skips.png",
-				"codes": "progressivecupskip, no_skip"
+				"codes": "progressivegpraceskip, no_skip"
 			},
 			{
 				"name": "One Race Skip",
@@ -203,7 +154,7 @@
 			{
 				"name": "50cc",
 				"img": "/images/cups/50cc.png",
-				"codes": "progressiveclass, 50cc_class"
+				"codes": "progressivecc, 50cc_class"
 			},
 			{
 				"name": "100cc",
@@ -231,7 +182,7 @@
 			{
 				"name": "First Engine Upgrade",
 				"img": "/images/cups/engine_one.png",
-				"codes": "progressiveengineupgrade, engine_one"
+				"codes": "progressivespeedupgrade, engine_one"
 			},
 			{
 				"name": "Second Engine Upgrade",

@@ -1,2477 +1,8058 @@
 [
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbabymario"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforbabymario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforbabyluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbabyluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbabyluigi"
-	},
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforkoopa"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforkoopa"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforkoopa"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforkoopa"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforkoopa"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforkoopa"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforkoopa"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforkoopa"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforkoopa"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforkoopa"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforkoopa"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforkoopa"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforkoopa"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforkoopa"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforkoopa"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforkoopa"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforkoopa"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforkoopa"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforkoopa"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforkoopa"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforparatroopa"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforparatroopa"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforparatroopa"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforparatroopa"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforparatroopa"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforparatroopa"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforparatroopa"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforparatroopa"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforparatroopa"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforparatroopa"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforparatroopa"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforparatroopa"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforparatroopa"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforparatroopa"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforparatroopa"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforparatroopa"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforparatroopa"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforparatroopa"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforparatroopa"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforparatroopa"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananafordiddykong"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemfordiddykong"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellfordiddykong"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsfordiddykong"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellfordiddykong"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsfordiddykong"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellfordiddykong"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomfordiddykong"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsfordiddykong"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartfordiddykong"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starfordiddykong"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningfordiddykong"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballfordiddykong"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsfordiddykong"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggfordiddykong"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompfordiddykong"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomfordiddykong"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananafordiddykong"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellfordiddykong"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombfordiddykong"
-	},
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforbowserjr."
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbowserjr."
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbowserjr."
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbowserjr."
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbowserjr."
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbowserjr."
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbowserjr."
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbowserjr."
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbowserjr."
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforbowserjr."
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforbowserjr."
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforbowserjr."
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforbowserjr."
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforbowserjr."
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbowserjr."
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbowserjr."
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbowserjr."
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbowserjr."
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbowserjr."
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbowserjr."
-	},
-	
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananafortoad"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemfortoad"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellfortoad"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsfortoad"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellfortoad"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsfortoad"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellfortoad"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomfortoad"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsfortoad"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartfortoad"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starfortoad"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningfortoad"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballfortoad"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsfortoad"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggfortoad"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompfortoad"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomfortoad"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananafortoad"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellfortoad"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombfortoad"
-	},
-	
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananafortoadette"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemfortoadette"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellfortoadette"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsfortoadette"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellfortoadette"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsfortoadette"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellfortoadette"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomfortoadette"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsfortoadette"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartfortoadette"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starfortoadette"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningfortoadette"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballfortoadette"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsfortoadette"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggfortoadette"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompfortoadette"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomfortoadette"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananafortoadette"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellfortoadette"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombfortoadette"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaformario"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemformario"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellformario"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsformario"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellformario"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsformario"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellformario"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomformario"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsformario"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartformario"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starformario"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningformario"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballformario"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsformario"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggformario"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompformario"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomformario"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaformario"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellformario"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombformario"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforluigi"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforluigi"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforluigi"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforluigi"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforluigi"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforluigi"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforluigi"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforluigi"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforluigi"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforluigi"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforluigi"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforluigi"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforluigi"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforluigi"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforluigi"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforluigi"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforluigi"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforluigi"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforluigi"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforluigi"
-	},
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforkoopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforpeach"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforpeach"
-	},
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforparatroopa"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananafordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananafordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananafordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananafordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombfordaisy"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombfordiddykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforbowserjr."
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananafortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananafortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforyoshi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforyoshi"
-	},
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombfortoad"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananafortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananafortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbirdo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombfortoadette"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombformario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforpeach"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananafordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananafordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombfordaisy"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforyoshi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforwaluigi"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforbirdo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforwaluigi"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananafordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananafordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombfordonkeykong"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforbowser"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
+	
+	
+	
+	{
+		"name": "Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fake Item",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Green Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Red Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Spiny Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Triple Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Heart",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Star",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Lightning",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireball",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Fireballs",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Yoshi Egg",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Chain Chomp",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Golden Mushroom",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Giant Banana",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bowser's Shell",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},
+	{
+		"name": "Bob-Omb",
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforwario"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananafordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananafordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellfordonkeykong"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombfordonkeykong"
-	},
-	
-	
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforpeteypiranha"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
+	},	
 	
 	
 	{
 		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/banana.png",
+				"codes": "bananaforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fake_item.png",
+				"codes": "fakeitemforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell.png",
+				"codes": "greenshellforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/green_shell_triple.png",
+				"codes": "triplegreenshellsforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell.png",
+				"codes": "redshellforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/red_shell_triple.png",
+				"codes": "tripleredshellsforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/spiny_shell.png",
+				"codes": "spinyshellforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom.png",
+				"codes": "mushroomforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/mushroom_triple.png",
+				"codes": "triplemushroomsforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/heart.png",
+				"codes": "heartforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/star.png",
+				"codes": "starforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/lightning.png",
+				"codes": "lightningforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireball.png",
+				"codes": "fireballforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/fireballs.png",
+				"codes": "fireballsforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/yoshi_egg.png",
+				"codes": "yoshieggforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/chain_chomp.png",
+				"codes": "chainchompforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/golden_mushroom.png",
+				"codes": "goldenmushroomforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/giant_banana.png",
+				"codes": "giantbananaforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforbowser"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bowser_shell.png",
+				"codes": "bowser'sshellforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	},
 	{
 		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforbowser"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforwario"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforwario"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforwario"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforwario"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforwario"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforwario"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforwario"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforwario"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforwario"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforwario"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforwario"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforwario"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforwario"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforwario"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforwario"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforwario"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforwario"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforwario"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforwario"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforwario"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforpeteypiranha"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforpeteypiranha"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforpeteypiranha"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforpeteypiranha"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforpeteypiranha"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforpeteypiranha"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforpeteypiranha"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforpeteypiranha"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforpeteypiranha"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforpeteypiranha"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforpeteypiranha"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforpeteypiranha"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforpeteypiranha"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforpeteypiranha"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforpeteypiranha"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforpeteypiranha"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforpeteypiranha"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforpeteypiranha"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforpeteypiranha"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforpeteypiranha"
-	},
-	
-	
-	
-	
-	{
-		"name": "Banana",
-		"type": "toggle",
-		"img": "/images/items/banana.png",
-		"codes": "bananaforkingboo"
-	},
-	{
-		"name": "Fake Item",
-		"type": "toggle",
-		"img": "/images/items/fake_item.png",
-		"codes": "fakeitemforkingboo"
-	},
-	{
-		"name": "Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell.png",
-		"codes": "greenshellforkingboo"
-	},
-	{
-		"name": "Triple Green Shell",
-		"type": "toggle",
-		"img": "/images/items/green_shell_triple.png",
-		"codes": "triplegreenshellsforkingboo"
-	},
-	{
-		"name": "Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell.png",
-		"codes": "redshellforkingboo"
-	},
-	{
-		"name": "Triple Red Shell",
-		"type": "toggle",
-		"img": "/images/items/red_shell_triple.png",
-		"codes": "tripleredshellsforkingboo"
-	},
-	{
-		"name": "Spiny Shell",
-		"type": "toggle",
-		"img": "/images/items/spiny_shell.png",
-		"codes": "spinyshellforkingboo"
-	},
-	{
-		"name": "Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom.png",
-		"codes": "mushroomforkingboo"
-	},
-	{
-		"name": "Triple Mushroom",
-		"type": "toggle",
-		"img": "/images/items/mushroom_triple.png",
-		"codes": "triplemushroomsforkingboo"
-	},
-	{
-		"name": "Heart",
-		"type": "toggle",
-		"img": "/images/items/heart.png",
-		"codes": "heartforkingboo"
-	},
-	{
-		"name": "Star",
-		"type": "toggle",
-		"img": "/images/items/star.png",
-		"codes": "starforkingboo"
-	},
-	{
-		"name": "Lightning",
-		"type": "toggle",
-		"img": "/images/items/lightning.png",
-		"codes": "lightningforkingboo"
-	},
-	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforkingboo"
-	},
-	{
-		"name": "Fireballs",
-		"type": "toggle",
-		"img": "/images/items/fireballs.png",
-		"codes": "fireballsforkingboo"
-	},
-	{
-		"name": "Yoshi Egg",
-		"type": "toggle",
-		"img": "/images/items/yoshi_egg.png",
-		"codes": "yoshieggforkingboo"
-	},
-	{
-		"name": "Chain Chomp",
-		"type": "toggle",
-		"img": "/images/items/chain_chomp.png",
-		"codes": "chainchompforkingboo"
-	},
-	{
-		"name": "Golden Mushroom",
-		"type": "toggle",
-		"img": "/images/items/golden_mushroom.png",
-		"codes": "goldenmushroomforkingboo"
-	},
-	{
-		"name": "Giant Banana",
-		"type": "toggle",
-		"img": "/images/items/giant_banana.png",
-		"codes": "giantbananaforkingboo"
-	},
-	{
-		"name": "Bowser's Shell",
-		"type": "toggle",
-		"img": "/images/items/bowser_shell.png",
-		"codes": "bowser'sshellforkingboo"
-	},
-	{
-		"name": "Bob-Omb",
-		"type": "toggle",
-		"img": "/images/items/bob-omb.png",
-		"codes": "bob-ombforkingboo"
+		"type": "progressive",
+		"allow_disabled": true,
+		"stages": [
+			{
+				"img": "/images/items/bob-omb.png",
+				"codes": "bob-ombforkingboo"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			}
+		]
 	}
 ]

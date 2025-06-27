@@ -34,11 +34,85 @@ heavy_drivers = {
 	"kingboo"
 }
 
+all_drivers = {
+	"babymario",
+	"babyluigi",
+	"koopa",
+	"paratroopa",
+	"diddykong",
+	"bowserjr.",
+	"toad",
+	"toadette",
+	"mario",
+	"luigi",
+	"peach",
+	"daisy",
+	"yoshi",
+	"birdo",
+	"waluigi",
+	"donkeykong",
+	"bowser",
+	"wario",
+	"peteypiranha",
+	"kingboo"
+}
 
 -- Cup logic
 
 function canEnterMushroomCup()
 	return (has("mushroomcup"))
+end
+
+function timeTrial()
+	if progCount("progressivespeedupgrade") >= 1 or progCount("progressivetimetrialitem") >= 1 then
+		return true
+	else
+		return AccessibilityLevel.SequenceBreak
+	end
+end
+
+function staffTimeTrial()
+	if progCount("progressivespeedupgrade") >= 1 and progCount("progressivetimetrialitem") >= 1 or progCount("progressivespeedupgrade") >= 2 or progCount("progressivetimetrialitem") >= 2 then
+		return true
+	else
+		return AccessibilityLevel.SequenceBreak
+	end
+end
+
+function hasEngineOne()
+	return (has("progressivespeedupgrade"))
+end
+
+function hasEngineTwo()
+	if progCount("progressivespeedupgrade") >= 2 then
+		return true
+	else
+	end
+end
+
+function hasEngineThree()
+	if progCount("progressivespeedupgrade") >= 3 then
+		return true
+	else
+	end
+end
+
+function hasTimeTrialOne()
+	return (has("progressivetimetrialitem"))
+end
+
+function hasTimeTrialTwo()
+	if progCount("progressivetimetrialitem") >= 2 then
+		return true
+	else
+	end
+end
+
+function hasTimeTrialThree()
+	if progCount("progressivetimetrialitem") >= 3 then
+		return true
+	else
+	end
 end
 
 function canEnterFlowerCup()
@@ -64,6 +138,7 @@ end
 function canEnterMirror()
 	return(has("mirror_class"))
 end
+
 
 -- Course logic
 

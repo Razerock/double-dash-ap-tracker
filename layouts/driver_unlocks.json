@@ -37,7 +37,7 @@
 										"redshellforbabymario"
 									],
 									[
-										"fireballforbabymario",
+										"spinyshellforbabymario",
 										"fireballsforbabymario",
 										"triplemushroomsforbabymario",
 										"triplegreenshellsforbabymario",
@@ -45,8 +45,8 @@
 									],
 									[
 										"lightningforbabymario",
-										"spinyshellforbabymario",
 										"starforbabymario",
+										"goldenmushroomforbabymario",
 										"heartforbabymario",
 										"yoshieggforbabymario"
 									],
@@ -54,8 +54,7 @@
 										"giantbananaforbabymario",
 										"bowser'sshellforbabymario",
 										"chainchompforbabymario",
-										"bob-ombforbabymario",
-										"goldenmushroomforbabymario"
+										"bob-ombforbabymario"
 									]
 								]
 							},
@@ -86,7 +85,7 @@
 										"redshellforbabyluigi"
 									],
 									[
-										"fireballforbabyluigi",
+										"spinyshellforbabyluigi",
 										"fireballsforbabyluigi",
 										"triplemushroomsforbabyluigi",
 										"triplegreenshellsforbabyluigi",
@@ -94,8 +93,8 @@
 									],
 									[
 										"lightningforbabyluigi",
-										"spinyshellforbabyluigi",
 										"starforbabyluigi",
+										"goldenmushroomforbabyluigi",
 										"heartforbabyluigi",
 										"yoshieggforbabyluigi"
 									],
@@ -103,8 +102,7 @@
 										"giantbananaforbabyluigi",
 										"bowser'sshellforbabyluigi",
 										"chainchompforbabyluigi",
-										"bob-ombforbabyluigi",
-										"goldenmushroomforbabyluigi"
+										"bob-ombforbabyluigi"
 									]
 								]
 							},
@@ -135,7 +133,7 @@
 										"redshellfordiddykong"
 									],
 									[
-										"fireballfordiddykong",
+										"spinyshellfordiddykong",
 										"fireballsfordiddykong",
 										"triplemushroomsfordiddykong",
 										"triplegreenshellsfordiddykong",
@@ -143,8 +141,8 @@
 									],
 									[
 										"lightningfordiddykong",
-										"spinyshellfordiddykong",
 										"starfordiddykong",
+										"goldenmushroomfordiddykong",
 										"heartfordiddykong",
 										"yoshieggfordiddykong"
 									],
@@ -152,8 +150,7 @@
 										"giantbananafordiddykong",
 										"bowser'sshellfordiddykong",
 										"chainchompfordiddykong",
-										"bob-ombfordiddykong",
-										"goldenmushroomfordiddykong"
+										"bob-ombfordiddykong"
 									]
 								]
 							}
@@ -191,7 +188,7 @@
 										"redshellforkoopa"
 									],
 									[
-										"fireballforkoopa",
+										"spinyshellforkoopa",
 										"fireballsforkoopa",
 										"triplemushroomsforkoopa",
 										"triplegreenshellsforkoopa",
@@ -199,8 +196,8 @@
 									],
 									[
 										"lightningforkoopa",
-										"spinyshellforkoopa",
 										"starforkoopa",
+										"goldenmushroomforkoopa",
 										"heartforkoopa",
 										"yoshieggforkoopa"
 									],
@@ -208,8 +205,7 @@
 										"giantbananaforkoopa",
 										"bowser'sshellforkoopa",
 										"chainchompforkoopa",
-										"bob-ombforkoopa",
-										"goldenmushroomforkoopa"
+										"bob-ombforkoopa"
 									]
 								]
 							},
@@ -240,7 +236,7 @@
 										"redshellforparatroopa"
 									],
 									[
-										"fireballforparatroopa",
+										"spinyshellforparatroopa",
 										"fireballsforparatroopa",
 										"triplemushroomsforparatroopa",
 										"triplegreenshellsforparatroopa",
@@ -248,8 +244,8 @@
 									],
 									[
 										"lightningforparatroopa",
-										"spinyshellforparatroopa",
 										"starforparatroopa",
+										"goldenmushroomforparatroopa",
 										"heartforparatroopa",
 										"yoshieggforparatroopa"
 									],
@@ -257,8 +253,7 @@
 										"giantbananaforparatroopa",
 										"bowser'sshellforparatroopa",
 										"chainchompforparatroopa",
-										"bob-ombforparatroopa",
-										"goldenmushroomforparatroopa"
+										"bob-ombforparatroopa"
 									]
 								]
 							},
@@ -289,7 +284,7 @@
 										"redshellforbowserjr."
 									],
 									[
-										"fireballforbowserjr.",
+										"spinyshellforbowserjr.",
 										"fireballsforbowserjr.",
 										"triplemushroomsforbowserjr.",
 										"triplegreenshellsforbowserjr.",
@@ -297,8 +292,8 @@
 									],
 									[
 										"lightningforbowserjr.",
-										"spinyshellforbowserjr.",
 										"starforbowserjr.",
+										"goldenmushroomforbowserjr.",
 										"heartforbowserjr.",
 										"yoshieggforbowserjr."
 									],
@@ -306,8 +301,7 @@
 										"giantbananaforbowserjr.",
 										"bowser'sshellforbowserjr.",
 										"chainchompforbowserjr.",
-										"bob-ombforbowserjr.",
-										"goldenmushroomforbowserjr."
+										"bob-ombforbowserjr."
 									]
 								]
 							}
@@ -345,7 +339,7 @@
 										"redshellfortoad"
 									],
 									[
-										"fireballfortoad",
+										"spinyshellfortoad",
 										"fireballsfortoad",
 										"triplemushroomsfortoad",
 										"triplegreenshellsfortoad",
@@ -353,8 +347,8 @@
 									],
 									[
 										"lightningfortoad",
-										"spinyshellfortoad",
 										"starfortoad",
+										"goldenmushroomfortoad",
 										"heartfortoad",
 										"yoshieggfortoad"
 									],
@@ -362,8 +356,7 @@
 										"giantbananafortoad",
 										"bowser'sshellfortoad",
 										"chainchompfortoad",
-										"bob-ombfortoad",
-										"goldenmushroomfortoad"
+										"bob-ombfortoad"
 									]
 								]
 							},
@@ -394,7 +387,7 @@
 										"redshellfortoadette"
 									],
 									[
-										"fireballfortoadette",
+										"spinyshellfortoadette",
 										"fireballsfortoadette",
 										"triplemushroomsfortoadette",
 										"triplegreenshellsfortoadette",
@@ -402,8 +395,8 @@
 									],
 									[
 										"lightningfortoadette",
-										"spinyshellfortoadette",
 										"starfortoadette",
+										"goldenmushroomfortoadette",
 										"heartfortoadette",
 										"yoshieggfortoadette"
 									],
@@ -411,8 +404,7 @@
 										"giantbananafortoadette",
 										"bowser'sshellfortoadette",
 										"chainchompfortoadette",
-										"bob-ombfortoadette",
-										"goldenmushroomfortoadette"
+										"bob-ombfortoadette"
 									]
 								]
 							}
@@ -455,7 +447,7 @@
 										"redshellformario"
 									],
 									[
-										"fireballformario",
+										"spinyshellformario",
 										"fireballsformario",
 										"triplemushroomsformario",
 										"triplegreenshellsformario",
@@ -463,8 +455,8 @@
 									],
 									[
 										"lightningformario",
-										"spinyshellformario",
 										"starformario",
+										"goldenmushroomformario",
 										"heartformario",
 										"yoshieggformario"
 									],
@@ -472,8 +464,7 @@
 										"giantbananaformario",
 										"bowser'sshellformario",
 										"chainchompformario",
-										"bob-ombformario",
-										"goldenmushroomformario"
+										"bob-ombformario"
 									]
 								]
 							},
@@ -504,7 +495,7 @@
 										"redshellforluigi"
 									],
 									[
-										"fireballforluigi",
+										"spinyshellforluigi",
 										"fireballsforluigi",
 										"triplemushroomsforluigi",
 										"triplegreenshellsforluigi",
@@ -512,8 +503,8 @@
 									],
 									[
 										"lightningforluigi",
-										"spinyshellforluigi",
 										"starforluigi",
+										"goldenmushroomforluigi",
 										"heartforluigi",
 										"yoshieggforluigi"
 									],
@@ -521,8 +512,7 @@
 										"giantbananaforluigi",
 										"bowser'sshellforluigi",
 										"chainchompforluigi",
-										"bob-ombforluigi",
-										"goldenmushroomforluigi"
+										"bob-ombforluigi"
 									]
 								]
 							},
@@ -553,7 +543,7 @@
 										"redshellforwaluigi"
 									],
 									[
-										"fireballforwaluigi",
+										"spinyshellforwaluigi",
 										"fireballsforwaluigi",
 										"triplemushroomsforwaluigi",
 										"triplegreenshellsforwaluigi",
@@ -561,8 +551,8 @@
 									],
 									[
 										"lightningforwaluigi",
-										"spinyshellforwaluigi",
 										"starforwaluigi",
+										"goldenmushroomforwaluigi",
 										"heartforwaluigi",
 										"yoshieggforwaluigi"
 									],
@@ -570,8 +560,7 @@
 										"giantbananaforwaluigi",
 										"bowser'sshellforwaluigi",
 										"chainchompforwaluigi",
-										"bob-ombforwaluigi",
-										"goldenmushroomforwaluigi"
+										"bob-ombforwaluigi"
 									]
 								]
 							}
@@ -609,7 +598,7 @@
 										"redshellforpeach"
 									],
 									[
-										"fireballforpeach",
+										"spinyshellforpeach",
 										"fireballsforpeach",
 										"triplemushroomsforpeach",
 										"triplegreenshellsforpeach",
@@ -617,8 +606,8 @@
 									],
 									[
 										"lightningforpeach",
-										"spinyshellforpeach",
 										"starforpeach",
+										"goldenmushroomforpeach",
 										"heartforpeach",
 										"yoshieggforpeach"
 									],
@@ -626,8 +615,7 @@
 										"giantbananaforpeach",
 										"bowser'sshellforpeach",
 										"chainchompforpeach",
-										"bob-ombforpeach",
-										"goldenmushroomforpeach"
+										"bob-ombforpeach"
 									]
 								]
 							},
@@ -658,7 +646,7 @@
 										"redshellfordaisy"
 									],
 									[
-										"fireballfordaisy",
+										"spinyshellfordaisy",
 										"fireballsfordaisy",
 										"triplemushroomsfordaisy",
 										"triplegreenshellsfordaisy",
@@ -666,8 +654,8 @@
 									],
 									[
 										"lightningfordaisy",
-										"spinyshellfordaisy",
 										"starfordaisy",
+										"goldenmushroomfordaisy",
 										"heartfordaisy",
 										"yoshieggfordaisy"
 									],
@@ -675,8 +663,7 @@
 										"giantbananafordaisy",
 										"bowser'sshellfordaisy",
 										"chainchompfordaisy",
-										"bob-ombfordaisy",
-										"goldenmushroomfordaisy"
+										"bob-ombfordaisy"
 									]
 								]
 							}
@@ -714,7 +701,7 @@
 										"redshellforyoshi"
 									],
 									[
-										"fireballforyoshi",
+										"spinyshellforyoshi",
 										"fireballsforyoshi",
 										"triplemushroomsforyoshi",
 										"triplegreenshellsforyoshi",
@@ -722,8 +709,8 @@
 									],
 									[
 										"lightningforyoshi",
-										"spinyshellforyoshi",
 										"starforyoshi",
+										"goldenmushroomforyoshi",
 										"heartforyoshi",
 										"yoshieggforyoshi"
 									],
@@ -731,8 +718,7 @@
 										"giantbananaforyoshi",
 										"bowser'sshellforyoshi",
 										"chainchompforyoshi",
-										"bob-ombforyoshi",
-										"goldenmushroomforyoshi"
+										"bob-ombforyoshi"
 									]
 								]
 							},
@@ -763,7 +749,7 @@
 										"redshellforbirdo"
 									],
 									[
-										"fireballforbirdo",
+										"spinyshellforbirdo",
 										"fireballsforbirdo",
 										"triplemushroomsforbirdo",
 										"triplegreenshellsforbirdo",
@@ -771,8 +757,8 @@
 									],
 									[
 										"lightningforbirdo",
-										"spinyshellforbirdo",
 										"starforbirdo",
+										"goldenmushroomforbirdo",
 										"heartforbirdo",
 										"yoshieggforbirdo"
 									],
@@ -780,8 +766,7 @@
 										"giantbananaforbirdo",
 										"bowser'sshellforbirdo",
 										"chainchompforbirdo",
-										"bob-ombforbirdo",
-										"goldenmushroomforbirdo"
+										"bob-ombforbirdo"
 									]
 								]
 							}
@@ -824,7 +809,7 @@
 										"redshellfordonkeykong"
 									],
 									[
-										"fireballfordonkeykong",
+										"spinyshellfordonkeykong",
 										"fireballsfordonkeykong",
 										"triplemushroomsfordonkeykong",
 										"triplegreenshellsfordonkeykong",
@@ -832,8 +817,8 @@
 									],
 									[
 										"lightningfordonkeykong",
-										"spinyshellfordonkeykong",
 										"starfordonkeykong",
+										"goldenmushroomfordonkeykong",
 										"heartfordonkeykong",
 										"yoshieggfordonkeykong"
 									],
@@ -841,8 +826,7 @@
 										"giantbananafordonkeykong",
 										"bowser'sshellfordonkeykong",
 										"chainchompfordonkeykong",
-										"bob-ombfordonkeykong",
-										"goldenmushroomfordonkeykong"
+										"bob-ombfordonkeykong"
 									]
 								]
 							},
@@ -873,7 +857,7 @@
 										"redshellforbowser"
 									],
 									[
-										"fireballforbowser",
+										"spinyshellforbowser",
 										"fireballsforbowser",
 										"triplemushroomsforbowser",
 										"triplegreenshellsforbowser",
@@ -881,8 +865,8 @@
 									],
 									[
 										"lightningforbowser",
-										"spinyshellforbowser",
 										"starforbowser",
+										"goldenmushroomforbowser",
 										"heartforbowser",
 										"yoshieggforbowser"
 									],
@@ -890,8 +874,7 @@
 										"giantbananaforbowser",
 										"bowser'sshellforbowser",
 										"chainchompforbowser",
-										"bob-ombforbowser",
-										"goldenmushroomforbowser"
+										"bob-ombforbowser"
 									]
 								]
 							},
@@ -922,7 +905,7 @@
 										"redshellforwario"
 									],
 									[
-										"fireballforwario",
+										"spinyshellforwario",
 										"fireballsforwario",
 										"triplemushroomsforwario",
 										"triplegreenshellsforwario",
@@ -930,8 +913,8 @@
 									],
 									[
 										"lightningforwario",
-										"spinyshellforwario",
 										"starforwario",
+										"goldenmushroomforwario",
 										"heartforwario",
 										"yoshieggforwario"
 									],
@@ -939,8 +922,7 @@
 										"giantbananaforwario",
 										"bowser'sshellforwario",
 										"chainchompforwario",
-										"bob-ombforwario",
-										"goldenmushroomforwario"
+										"bob-ombforwario"
 									]
 								]
 							}
@@ -978,7 +960,7 @@
 										"redshellforkingboo"
 									],
 									[
-										"fireballforkingboo",
+										"spinyshellforkingboo",
 										"fireballsforkingboo",
 										"triplemushroomsforkingboo",
 										"triplegreenshellsforkingboo",
@@ -986,8 +968,8 @@
 									],
 									[
 										"lightningforkingboo",
-										"spinyshellforkingboo",
 										"starforkingboo",
+										"goldenmushroomforkingboo",
 										"heartforkingboo",
 										"yoshieggforkingboo"
 									],
@@ -995,8 +977,7 @@
 										"giantbananaforkingboo",
 										"bowser'sshellforkingboo",
 										"chainchompforkingboo",
-										"bob-ombforkingboo",
-										"goldenmushroomforkingboo"
+										"bob-ombforkingboo"
 									]
 								]
 							},
@@ -1027,7 +1008,7 @@
 										"redshellforpeteypiranha"
 									],
 									[
-										"fireballforpeteypiranha",
+										"spinyshellforpeteypiranha",
 										"fireballsforpeteypiranha",
 										"triplemushroomsforpeteypiranha",
 										"triplegreenshellsforpeteypiranha",
@@ -1035,8 +1016,8 @@
 									],
 									[
 										"lightningforpeteypiranha",
-										"spinyshellforpeteypiranha",
 										"starforpeteypiranha",
+										"goldenmushroomforpeteypiranha",
 										"heartforpeteypiranha",
 										"yoshieggforpeteypiranha"
 									],
@@ -1044,8 +1025,7 @@
 										"giantbananaforpeteypiranha",
 										"bowser'sshellforpeteypiranha",
 										"chainchompforpeteypiranha",
-										"bob-ombforpeteypiranha",
-										"goldenmushroomforpeteypiranha"
+										"bob-ombforpeteypiranha"
 									]
 								]
 							}
