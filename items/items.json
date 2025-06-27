@@ -72,12 +72,6 @@
 		"codes": "lightningforeverybody"
 	},
 	{
-		"name": "Fireball",
-		"type": "toggle",
-		"img": "/images/items/fireball.png",
-		"codes": "fireballforeverybody"
-	},
-	{
 		"name": "Fireballs",
 		"type": "toggle",
 		"img": "/images/items/fireballs.png",
