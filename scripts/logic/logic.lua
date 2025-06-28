@@ -624,7 +624,7 @@ function canDriveHeavyKart()
 end
 
 function TimeTrialSetting()
-	return(timetrials==1 or timetrials==2)
+	return(timetrials>=1)
 end
 
 function StaffTimeTrialSetting()

@@ -57,224 +57,154 @@
 		],
 		"map_locations": [
 			{
+				"size": 30,
 				"map": "course_checks",
-				"x": 842,
-				"y": 68
+				"x": 729,
+				"y": 48
 			}
 		]
 	},
 	{
 		"name": "Wario Colosseum",
-		"children": [
+		"sections": [
 			{
-				"name": "Race",
-				"sections": [
-					{
-						"access_rules": ["$canEnterWarioColosseum"],
-						"name": "Take the lead after Lap 1"
-					},
-					{
-						"access_rules": ["$canEnterWarioColosseum","$canEnterWarioColosseumTimeTrial"],
-						"name": "Finish the Race"
-					},
-					{
-						"access_rules": ["$canEnterWarioColosseum"],
-						"name": "Finish as 1st Place"
-					},
-					{
-						"access_rules": ["$canEnterWarioColosseum, $hasWario"],
-						"name": "Win in Wario Colosseum with Wario"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 727,
-						"y": 207
-					}
-				]
+				"access_rules": ["$canEnterWarioColosseum"],
+				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterWarioColosseumTimeTrial"],
+				"access_rules": ["$canEnterWarioColosseum","$canEnterWarioColosseumTimeTrial"],
+				"name": "Finish the Race"
+			},
+			{
+				"access_rules": ["$canEnterWarioColosseum"],
+				"name": "Finish as 1st Place"
+			},
+			{
+				"access_rules": ["$canEnterWarioColosseum, $hasWario"],
+				"name": "Win in Wario Colosseum with Wario"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
-				"name": "Time Trial",
-				"sections": [
-					{
-						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial in 2:35"
-					},
-					{
-						"visibility_rules": ["$StaffTimeTrialSetting"],
-						"access_rules": ["^$staffTimeTrial"],
-						"name": "Defeat Staff Ghost"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 876,
-						"y": 207
-					}
-				]
+				"access_rules": ["$canEnterWarioColosseumTimeTrial,^$timeTrial"],
+				"name": "Beat Time Trial in 2:35"
+			},
+			{
+				"visibility_rules": ["$StaffTimeTrialSetting"],
+				"access_rules": ["$canEnterWarioColosseumTimeTrial,^$staffTimeTrial"],
+				"name": "Defeat Staff Ghost"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 760,
+				"y": 126
 			}
 		]
 	},
 	{
 		"name": "Dino Dino Jungle",
-		"children": [
+		"sections": [
 			{
-				"name": "Race",
-				"sections": [
-					{
-						"access_rules": ["$canEnterDinoDinoJungle"],
-						"name": "Take the lead after Lap 1"
-					},
-					{
-						"access_rules": ["$canEnterDinoDinoJungle","$canEnterDinoDinoJungleTimeTrial"],
-						"name": "Finish the Race"
-					},
-					{
-						"access_rules": ["$canEnterDinoDinoJungle"],
-						"name": "Finish as 1st Place"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 727,
-						"y": 344
-					}
-				]
+				"access_rules": ["$canEnterDinoDinoJungle"],
+				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterDinoDinoJungleTimeTrial"],
+				"access_rules": ["$canEnterDinoDinoJungle","$canEnterDinoDinoJungleTimeTrial"],
+				"name": "Finish the Race"
+			},
+			{
+				"access_rules": ["$canEnterDinoDinoJungle"],
+				"name": "Finish as 1st Place"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
-				"name": "Time Trial",
-				"sections": [
-					{
-						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial in 2:20"
-					},
-					{
-						"visibility_rules": ["$StaffTimeTrialSetting"],
-						"access_rules": ["^$staffTimeTrial"],
-						"name": "Defeat Staff Ghost"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 876,
-						"y": 344
-					}
-				]
+				"access_rules": ["$canEnterDinoDinoJungleTimeTrial,^$timeTrial"],
+				"name": "Beat Time Trial in 2:20"
+			},
+			{
+				"visibility_rules": ["$StaffTimeTrialSetting"],
+				"access_rules": ["$canEnterDinoDinoJungleTimeTrial,^$staffTimeTrial"],
+				"name": "Defeat Staff Ghost"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 760,
+				"y": 200
 			}
 		]
 	},
 	{
 		"name": "Bowser's Castle",
-		"children": [
+		"sections": [
 			{
-				"name": "Race",
-				"sections": [
-					{
-						"access_rules": ["$canEnterDinoDinoJungle"],
-						"name": "Take the lead after Lap 1"
-					},
-					{
-						"access_rules": ["$canEnterDinoDinoJungle", "$canEnterBowsersCastleTimeTrial"],
-						"name": "Finish the Race"
-					},
-					{
-						"access_rules": ["$canEnterDinoDinoJungle"],
-						"name": "Finish as 1st Place"
-					},
-					{
-						"access_rules": ["$canEnterDinoDinoJungle, $hasBowser"],
-						"name": "Win in Bowser's Castle with Bowser"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 727,
-						"y": 481
-					}
-				]
+				"access_rules": ["$canEnterDinoDinoJungle"],
+				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterBowsersCastleTimeTrial"],
+				"access_rules": ["$canEnterDinoDinoJungle", "$canEnterBowsersCastleTimeTrial"],
+				"name": "Finish the Race"
+			},
+			{
+				"access_rules": ["$canEnterDinoDinoJungle"],
+				"name": "Finish as 1st Place"
+			},
+			{
+				"access_rules": ["$canEnterDinoDinoJungle, $hasBowser"],
+				"name": "Win in Bowser's Castle with Bowser"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
-				"name": "Time Trial",
-				"sections": [
-					{
-						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial in 3:05"
-					},
-					{
-						"visibility_rules": ["$StaffTimeTrialSetting"],
-						"access_rules": ["^$staffTimeTrial"],
-						"name": "Defeat Staff Ghost"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 876,
-						"y": 481
-					}
-				]
+				"access_rules": ["$canEnterBowsersCastleTimeTrial,^$timeTrial"],
+				"name": "Beat Time Trial in 3:05"
+			},
+			{
+				"visibility_rules": ["$StaffTimeTrialSetting"],
+				"access_rules": ["$canEnterBowsersCastleTimeTrial,^$staffTimeTrial"],
+				"name": "Defeat Staff Ghost"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 760,
+				"y": 275
 			}
 		]
 	},
 	{
 		"name": "Rainbow Road",
-		"children": [
+		"sections": [
 			{
-				"name": "Race",
-				"sections": [
-					{
-						"access_rules": ["$canEnterRainbowRoad"],
-						"name": "Take the lead after Lap 1"
-					},
-					{
-						"access_rules": ["$canEnterRainbowRoad","$canEnterRainbowRoadTimeTrial"],
-						"name": "Finish the Race"
-					},
-					{
-						"access_rules": ["$canEnterRainbowRoad"],
-						"name": "Finish as 1st Place"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 727,
-						"y": 618
-					}
-				]
+				"access_rules": ["$canEnterRainbowRoad"],
+				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterRainbowRoadTimeTrial"],
+				"access_rules": ["$canEnterRainbowRoad","$canEnterRainbowRoadTimeTrial"],
+				"name": "Finish the Race"
+			},
+			{
+				"access_rules": ["$canEnterRainbowRoad"],
+				"name": "Finish as 1st Place"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
-				"name": "Time Trial",
-				"sections": [
-					{
-						"access_rules": ["^$timeTrial"],
-						"name": "Beat Time Trial in 3:30"
-					},
-					{
-						"visibility_rules": ["$StaffTimeTrialSetting"],
-						"name": "Defeat Staff Ghost"
-					}
-				],
-				"map_locations": [
-					{
-						"map": "course_checks",
-						"x": 876,
-						"y": 618
-					}
-				]
+				"access_rules": ["$canEnterRainbowRoadTimeTrial,^$timeTrial"],
+				"name": "Beat Time Trial in 3:30"
+			},
+			{
+				"visibility_rules": ["$StaffTimeTrialSetting"],
+				"access_rules": ["$canEnterMushroomCityTimeTrial,^$staffTimeTrial"],
+				"name": "Defeat Staff Ghost"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "course_checks",
+				"x": 760,
+				"y": 351
 			}
 		]
 	}
