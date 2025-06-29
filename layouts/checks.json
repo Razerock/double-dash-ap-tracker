@@ -1,0 +1,21 @@
+{
+	"checks": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Course Checks",
+				"content": {
+					"type": "map",
+					"maps": ["course_checks"]
+				}
+			},
+			{
+				"title": "Driver Checks",
+				"content": {
+					"type": "map",
+					"maps": ["driver_checks"]
+				}
+			}
+		]
+	}
+}

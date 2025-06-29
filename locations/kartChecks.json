@@ -1,43 +1,151 @@
 [
 	{
-		"name": "Driver Pairings",
+		"name": "Mario and Luigi",
 		"sections": [
 			{
 				"access_rules": ["$hasMarioLuigi"],
 				"name": "Win With Mario and Luigi"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 58,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Peach and Daisy",
+		"sections": [
 			{
 				"access_rules": ["$hasPeachDaisy"],
 				"name": "Win With Peach and Daisy"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 161,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Yoshi and Birdo",
+		"sections": [
 			{
 				"access_rules": ["$hasYoshiBirdo"],
 				"name": "Win With Yoshi and Birdo"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 269,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Baby Mario and Baby Luigi",
+		"sections": [
 			{
 				"access_rules": ["$hasBabyMarioBabyLuigi"],
 				"name": "Win With Baby Mario and Baby Luigi"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 377,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Toad and Toadette",
+		"sections": [
 			{
 				"access_rules": ["$hasToadToadette"],
 				"name": "Win With Toad and Toadette"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 485,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Koopa and Paratroopa",
+		"sections": [
 			{
 				"access_rules": ["$hasKoopaParatroopa"],
 				"name": "Win With Koopa and Paratroopa"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 588,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Donkey Kong and Diddy Kong",
+		"sections": [
 			{
 				"access_rules": ["$hasDonkeyKongDiddyKong"],
 				"name": "Win With Donkey Kong and Diddy Kong"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 695,
+				"y": 72
+			}
+		]
+	},
+	{
+		"name": "Bowser and Bowser Jr.",
+		"sections": [
 			{
 				"access_rules": ["$hasBowserBowserJr"],
 				"name": "Win With Bowser and Bowser Jr."
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 58,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Wario and Waluigi",
+		"sections": [
 			{
 				"access_rules": ["$hasWarioWaluigi"],
 				"name": "Win With Wario and Waluigi"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 161,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Petey Piranha and King Boo",
+		"sections": [
 			{
 				"access_rules": ["$hasPeteyPiranhaKingBoo"],
 				"name": "Win With Petey Piranha and King Boo"
@@ -45,60 +153,191 @@
 		],
 		"map_locations": [
 			{
-				"map": "course_checks",
-				"x": 425,
-				"y": 408,
-				"size": 13
+				"map": "driver_checks",
+				"x": 269,
+				"y": 158
 			}
 		]
 	},
 	{
-		"name": "Driver and Kart Checks 1",
+		"name": "Mario Driving Red Fire",
 		"sections": [
 			{
 				"access_rules": ["$hasMarioRedFire"],
 				"name": "Win With Mario Driving Red Fire"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 377,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Luigi Driving Green Fire",
+		"sections": [
 			{
 				"access_rules": ["$hasLuigiGreenFire"],
 				"name": "Win With Luigi Driving Green Fire"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 485,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Peach Driving Heart Coach",
+		"sections": [
 			{
 				"access_rules": ["$hasPeachHeartCoach"],
 				"name": "Win With Peach Driving Heart Coach"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 588,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Daisy Driving Bloom Coach",
+		"sections": [
 			{
 				"access_rules": ["$hasDaisyBloomCoach"],
 				"name": "Win With Daisy Driving Bloom Coach"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 695,
+				"y": 158
+			}
+		]
+	},
+	{
+		"name": "Yoshi Driving Turbo Yoshi",
+		"sections": [
 			{
 				"access_rules": ["$hasYoshiTurboYoshi"],
 				"name": "Win With Yoshi Driving Turbo Yoshi"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 58,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Birdo Driving Turbo Birdo",
+		"sections": [
 			{
 				"access_rules": ["$hasBirdoTurboBirdo"],
 				"name": "Win With Birdo Driving Turbo Birdo"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 161,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Baby Mario Driving Goo-Goo Buggy",
+		"sections": [
 			{
 				"access_rules": ["$hasBabyMarioGooGooBuggy"],
 				"name": "Win With Baby Mario Driving Goo-Goo Buggy"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 269,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Baby Luigi Driving Rattle Buggy",
+		"sections": [
 			{
 				"access_rules": ["$hasBabyLuigiRattleBuggy"],
 				"name": "Win With Baby Luigi Driving Rattle Buggy"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 377,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Toad Driving Toad Kart",
+		"sections": [
 			{
 				"access_rules": ["$hasToadToadKart"],
 				"name": "Win With Toad Driving Toad Kart"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 485,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Toadette Driving Toadette Kart",
+		"sections": [
 			{
 				"access_rules": ["$hasToadetteToadetteKart"],
 				"name": "Win With Toadette Driving Toadette Kart"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 588,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Koopa Driving Koopa Dasher",
+		"sections": [
 			{
 				"access_rules": ["$hasKoopaKoopaDasher"],
 				"name": "Win With Koopa Driving Koopa Dasher"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 695,
+				"y": 242
+			}
+		]
+	},
+	{
+		"name": "Paratroopa Driving Para-Wing",
+		"sections": [
 			{
 				"access_rules": ["$hasParatroopaParaWing"],
 				"name": "Win With Paratroopa Driving Para-Wing"
@@ -106,60 +345,143 @@
 		],
 		"map_locations": [
 			{
-				"map": "course_checks",
-				"x": 440,
-				"y": 408,
-				"size": 13
+				"map": "driver_checks",
+				"x": 58,
+				"y": 326
 			}
 		]
 	},
 	{
-		"name": "Driver and Kart Checks 2",
+		"name": "Donkey Kong Driving DK Jumbo",
 		"sections": [
 			{
 				"access_rules": ["$hasDonkeyKongDKJumbo"],
 				"name": "Win With Donkey Kong Driving DK Jumbo"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 161,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Diddy Kong Driving Barrel Train",
+		"sections": [
 			{
 				"access_rules": ["$hasDiddyKongBarrelTrain"],
 				"name": "Win With Diddy Kong Driving Barrel Train"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 269,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Bowser Driving Koopa King",
+		"sections": [
 			{
 				"access_rules": ["$hasBowserKoopaKing"],
 				"name": "Win With Bowser Driving Koopa King"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 377,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Bowser Jr. Driving Bullet Blaster",
+		"sections": [
 			{
 				"access_rules": ["$hasBowserJrBulletBlaster"],
 				"name": "Win With Bowser Jr. Driving Bullet Blaster"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 485,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Wario Driving Wario Car",
+		"sections": [
 			{
 				"access_rules": ["$hasWarioWarioCar"],
 				"name": "Win With Wario Driving Wario Car"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 588,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Waluigi Driving Waluigi Racer",
+		"sections": [
 			{
 				"access_rules": ["$hasWaluigiWaluigiRacer"],
 				"name": "Win With Waluigi Driving Waluigi Racer"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 695,
+				"y": 326
+			}
+		]
+	},
+	{
+		"name": "Petey Piranha Driving Piranha Pipes",
+		"sections": [
 			{
 				"access_rules": ["$hasPeteyPiranhaPiranhaPipes"],
 				"name": "Win With Petey Piranha Driving Piranha Pipes"
-			},
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 113,
+				"y": 410
+			}
+		]
+	},
+	{
+		"name": "King Boo Driving Boo Pipes",
+		"sections": [
 			{
 				"access_rules": ["$hasKingBooBooPipes"],
 				"name": "Win With King Boo Driving Boo Pipes"
-			},
+			}
+		],
+		"map_locations": [
 			{
-				"access_rules": ["$canDriveLightKart"],
-				"name": "Win Gold With a Light Kart"
-			},
-			{
-				"access_rules": ["$canDriveMediumKart"],
-				"name": "Win Gold With a Medium Kart"
-			},
-			{
-				"access_rules": ["$canDriveHeavyKart"],
-				"name": "Win Gold With a Heavy Kart"
-			},
+				"map": "driver_checks",
+				"x": 223,
+				"y": 410
+			}
+		]
+	},
+	{
+		"name": "Gold With Parade Kart",
+		"sections": [
 			{
 				"access_rules": ["$GoldParadeKart"],
 				"name": "Win Gold With Parade Kart"
@@ -167,10 +489,57 @@
 		],
 		"map_locations": [
 			{
-				"map": "course_checks",
-				"x": 455,
-				"y": 408,
-				"size": 13
+				"map": "driver_checks",
+				"x": 333,
+				"y": 410
+			}
+		]
+	},
+	{
+		"name": "Gold With a Light Kart",
+		"sections": [
+			{
+				"access_rules": ["$canDriveLightKart"],
+				"name": "Win Gold With a Light Kart"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 437,
+				"y": 410
+			}
+		]
+	},
+	{
+		"name": "Gold With a Medium Kart",
+		"sections": [
+			{
+				"access_rules": ["$canDriveMediumKart"],
+				"name": "Win Gold With a Medium Kart"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 538,
+				"y": 410
+			}
+		]
+	},
+	{
+		"name": "Gold With a Heavy Kart",
+		"sections": [
+			{
+				"access_rules": ["$canDriveHeavyKart"],
+				"name": "Win Gold With a Heavy Kart"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 643,
+				"y": 410
 			}
 		]
 	}

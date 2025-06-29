@@ -44,10 +44,10 @@
 						"type": "tabbed",
 						"tabs": [
 							{
-								"title": "Course Checks",
+								"title": "Checks",
 								"content": {
-									"type": "map",
-									"maps": ["course_checks"]
+									"type": "layout",
+									"key": "checks"
 								}
 							},
 							{

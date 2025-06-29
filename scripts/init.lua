@@ -27,6 +27,7 @@ Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/cups.json")
 Tracker:AddLayouts("layouts/karts.json")
 Tracker:AddLayouts("layouts/driver_unlocks.json")
+Tracker:AddLayouts("layouts/checks.json")
 
 
 if Tracker.ActiveVariantUID == "trackerSlim" then
