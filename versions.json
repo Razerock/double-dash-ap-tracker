@@ -1,0 +1,46 @@
+{
+    "versions": [
+         {
+            "package_version": "0.2.3",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.2.zip",
+            "sha256": "b9db78bd68c5d4ff31f13ff43c60a1199896c8733eb252d91f98262925801d16",
+            "changelog": [
+                "added the update function"
+            ]
+        },
+        {
+            "package_version": "0.2.2",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.2.zip",
+            "sha256": "b9db78bd68c5d4ff31f13ff43c60a1199896c8733eb252d91f98262925801d16",
+            "changelog": [
+                "added an additional tab to make driver+kart checks easier to follow"
+            ]
+        },
+        {
+            "package_version": "0.2.1",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.1.zip",
+            "sha256": "1a5d71ae2ebee696bf4b4a0dccfa46511d8d9e09928150389154fad82d965a7b",
+            "changelog": [
+                "Changed the course check graphic a bit to reduce size",
+                "Add Slim version",
+                "Added the time you need to beat for time trial checks"
+            ]
+        },
+        {
+            "package_version": "0.2.0",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.0.zip",
+            "sha256": "c58cacac39d3c9e22f68b0853b937dec3a4d7c55225db0536d2191e47b82e75c",
+            "changelog": [
+                "This release introduces basic logic that isnt 100% accurate to the AP world, but mostly accurate."
+            ]
+        },
+        {
+            "package_version": "0.1.0",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.1.0.zip",
+            "sha256": "0d7045d146f4f3a2be039aad88a4a4bad59c4cbd2478ae5a606a5a569c532e34",
+            "changelog": [
+                "No logic tracking yet, just unlocks"
+            ]
+        }
+    ]
+}
