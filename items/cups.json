@@ -87,6 +87,102 @@
 			},
 			{
 				"img_mods": "overlay|images/font/16.png"
+			},
+			{
+				"img_mods": "overlay|images/font/17.png"
+			},
+			{
+				"img_mods": "overlay|images/font/18.png"
+			},
+			{
+				"img_mods": "overlay|images/font/19.png"
+			},
+			{
+				"img_mods": "overlay|images/font/20.png"
+			},
+			{
+				"img_mods": "overlay|images/font/21.png"
+			},
+			{
+				"img_mods": "overlay|images/font/22.png"
+			},
+			{
+				"img_mods": "overlay|images/font/23.png"
+			},
+			{
+				"img_mods": "overlay|images/font/24.png"
+			},
+			{
+				"img_mods": "overlay|images/font/25.png"
+			},
+			{
+				"img_mods": "overlay|images/font/26.png"
+			},
+			{
+				"img_mods": "overlay|images/font/27.png"
+			},
+			{
+				"img_mods": "overlay|images/font/28.png"
+			},
+			{
+				"img_mods": "overlay|images/font/29.png"
+			},
+			{
+				"img_mods": "overlay|images/font/30.png"
+			},
+			{
+				"img_mods": "overlay|images/font/31.png"
+			},
+			{
+				"img_mods": "overlay|images/font/32.png"
+			},
+			{
+				"img_mods": "overlay|images/font/33.png"
+			},
+			{
+				"img_mods": "overlay|images/font/34.png"
+			},
+			{
+				"img_mods": "overlay|images/font/35.png"
+			},
+			{
+				"img_mods": "overlay|images/font/36.png"
+			},
+			{
+				"img_mods": "overlay|images/font/37.png"
+			},
+			{
+				"img_mods": "overlay|images/font/38.png"
+			},
+			{
+				"img_mods": "overlay|images/font/39.png"
+			},
+			{
+				"img_mods": "overlay|images/font/40.png"
+			},
+			{
+				"img_mods": "overlay|images/font/41.png"
+			},
+			{
+				"img_mods": "overlay|images/font/42.png"
+			},
+			{
+				"img_mods": "overlay|images/font/43.png"
+			},
+			{
+				"img_mods": "overlay|images/font/44.png"
+			},
+			{
+				"img_mods": "overlay|images/font/45.png"
+			},
+			{
+				"img_mods": "overlay|images/font/46.png"
+			},
+			{
+				"img_mods": "overlay|images/font/47.png"
+			},
+			{
+				"img_mods": "overlay|images/font/48.png"
 			}
 		]
 	},
@@ -125,7 +221,7 @@
 				"codes": "progressivetimetrialitem, timetrial_0"
 			},
 			{
-				"img": "/images/cups/timetrial_1.png",
+				"img": "/images/cups/timetrial_2.png",
 				"codes": "timetrial_1"
 			},
 			{
