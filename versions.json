@@ -3,7 +3,7 @@
          {
             "package_version": "0.2.4",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.4.zip",
-            "sha256": "08d22581758926e0ae59b90417b1d59bb2409a57da7482f7187add31ca3818d7",
+            "sha256": "5084b37d5c8d06b06da865dc6fbd2168b79a760019073c71af04231918366d2a",
             "changelog": [
                 "fix bowser castle logic"
             ]
