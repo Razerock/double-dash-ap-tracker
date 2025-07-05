@@ -1,6 +1,14 @@
 {
     "versions": [
          {
+            "package_version": "0.2.5",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.5.zip",
+            "sha256": "01ff4f71e1a329c69c989d2a66c56a30e29f1e82869992ee59f70c968e3eb1e3",
+            "changelog": [
+                "fix dry dry desert time trial typo"
+            ]
+        },
+        {
             "package_version": "0.2.4",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.4.zip",
             "sha256": "5084b37d5c8d06b06da865dc6fbd2168b79a760019073c71af04231918366d2a",
