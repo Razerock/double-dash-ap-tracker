@@ -140,19 +140,19 @@
 		"name": "Bowser's Castle",
 		"sections": [
 			{
-				"access_rules": ["$canEnterDinoDinoJungle"],
+				"access_rules": ["$canEnterBowsersCastle"],
 				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterDinoDinoJungle", "$canEnterBowsersCastleTimeTrial"],
+				"access_rules": ["$canEnterBowsersCastle", "$canEnterBowsersCastleTimeTrial"],
 				"name": "Finish the Race"
 			},
 			{
-				"access_rules": ["$canEnterDinoDinoJungle"],
+				"access_rules": ["$canEnterBowsersCastle"],
 				"name": "Finish as 1st Place"
 			},
 			{
-				"access_rules": ["$canEnterDinoDinoJungle, $hasBowser"],
+				"access_rules": ["$canEnterBowsersCastle, $hasBowser"],
 				"name": "Win in Bowser's Castle with Bowser"
 			},
 			{
