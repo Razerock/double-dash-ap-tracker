@@ -1,6 +1,14 @@
 {
     "versions": [
          {
+            "package_version": "0.2.6",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.6.zip",
+            "sha256": "a1936f0317c59523f35ac6e4dbbf4be1d3285d18bfed8c9153b86536e2374e2d",
+            "changelog": [
+                "fixed progressive time trial icons"
+            ]
+        },
+        {
             "package_version": "0.2.5",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.5.zip",
             "sha256": "01ff4f71e1a329c69c989d2a66c56a30e29f1e82869992ee59f70c968e3eb1e3",
