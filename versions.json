@@ -1,6 +1,14 @@
 {
     "versions": [
          {
+            "package_version": "0.2.8",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.8.zip",
+            "sha256": "8d9110f85c2d91d20ba656aa9d9ab18a236db9ba48a9f25dcb644c8bd93cc282",
+            "changelog": [
+                "added parade kart check"
+            ]
+         },
+         {
             "package_version": "0.2.7",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.7.zip",
             "sha256": "9f1d2dd68254daf682c7146a919bde00fd4d387c09432c66f3ea68290aedd677",
@@ -76,4 +84,5 @@
         }
     ]
 }
+
 
