@@ -480,6 +480,22 @@
 		]
 	},
 	{
+		"name": "Gold With Parade Kart",
+		"sections": [
+			{
+				"access_rules": ["$GoldParadeKart"],
+				"name": "Win Gold With Parade Kart"
+			}
+		],
+		"map_locations": [
+			{
+				"map": "driver_checks",
+				"x": 333,
+				"y": 410
+			}
+		]
+	},
+	{
 		"name": "Gold With a Light Kart",
 		"sections": [
 			{
