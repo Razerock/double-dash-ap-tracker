@@ -196,7 +196,7 @@
 			},
 			{
 				"visibility_rules": ["$StaffTimeTrialSetting"],
-				"access_rules": ["$canEnterMushroomCityTimeTrial,^$staffTimeTrial"],
+				"access_rules": ["$canEnterRainbowRoadTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
 			}
 		],
