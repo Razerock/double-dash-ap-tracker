@@ -1,6 +1,14 @@
 {
     "versions": [
          {
+            "package_version": "0.2.9",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.9.zip",
+            "sha256": "8c1f8f095452da81ec9490bbc16256d2b8d73d38afb813544cf9d2b9b138b189",
+            "changelog": [
+                "fixed rainbow road staff tt logic"
+            ]
+         },
+        {
             "package_version": "0.2.8",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/0.2.8.zip",
             "sha256": "8d9110f85c2d91d20ba656aa9d9ab18a236db9ba48a9f25dcb644c8bd93cc282",
@@ -84,5 +92,6 @@
         }
     ]
 }
+
 
 
