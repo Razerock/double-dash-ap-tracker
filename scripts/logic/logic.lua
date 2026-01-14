@@ -551,7 +551,7 @@ function hasDonkeyKongDKJumbo()
 end
 
 function hasDiddyKongBarrelTrain()
-	return(has("diddykong") and has("barreltrain"))
+	return(has("diddykong") and has("barreltrain") and canDriveLightKart())
 end
 
 function hasBowserKoopaKing()
@@ -559,7 +559,7 @@ function hasBowserKoopaKing()
 end
 
 function hasBowserJrBulletBlaster()
-	return(has("bowserjr.") and has("bulletblaster"))
+	return(has("bowserjr.") and has("bulletblaster") and canDriveLightKart())
 end
 
 function hasWarioWarioCar()
@@ -567,7 +567,7 @@ function hasWarioWarioCar()
 end
 
 function hasWaluigiWaluigiRacer()
-	return(has("waluigi") and has("waluigiracer"))
+	return(has("waluigi") and has("waluigiracer") and canDriveMediumKart())
 end
 
 function hasPeteyPiranhaPiranhaPipes()
