@@ -4,7 +4,6 @@ require("scripts/autotracking/location_mapping")
 require("scripts/autotracking/hints_mapping")
 
 CUR_INDEX = -1
---SLOT_DATA = nil
 
 SLOT_DATA = {}
 
@@ -79,8 +78,10 @@ end
 function onClear(slot_data)
     cups_courses = slot_data["cups_courses"]
     timetrials = slot_data["time_trials"]
+    trophy_requirement = slot_data["trophy_requirement"]
+    Tracker:FindObjectForCode("trophygoal").CurrentStage = trophy_requirement
     --SLOT_DATA = slot_data
-    -- print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
+    --print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do

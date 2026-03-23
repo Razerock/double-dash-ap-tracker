@@ -80,6 +80,14 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"access_rules": ["$canEnterLuigiCircuit, $canEnter100cc"],
+				"name": "Last Curve Shortcut Box"
+			},			
+			{
+				"access_rules": ["$canEnterLuigiCircuit, $canEnter100cc"],
+				"name": "Chomp Shortcut Box"
+			},
+			{
 				"access_rules": ["$canEnterLuigiCircuit, $hasLuigi"],
 				"name": "Win in Luigi Circuit with Luigi"
 			},
@@ -116,6 +124,18 @@
 			{
 				"access_rules": ["$canEnterPeachBeach"],
 				"name": "Finish as 1st Place"
+			},
+			{
+				"access_rules": ["$canEnterPeachBeach"],
+				"name": "Hidden Pipe Box"
+			},			
+			{
+				"access_rules": ["$canEnterPeachBeach"],
+				"name": "Beach Jump Box"
+			},
+			{
+				"access_rules": ["$canEnterPeachBeach"],
+				"name": "Fountain Box"
 			},
 			{
 				"access_rules": ["$canEnterPeachBeach, $hasPeach"],
@@ -156,7 +176,7 @@
 				"name": "Finish as 1st Place"
 			},
 			{
-				"access_rules": ["$canEnterBabyPark, $hasBabyMarioaaAndBabyLuigi"],
+				"access_rules": ["$canEnterBabyPark, $hasBabyMarioAndBabyLuigi"],
 				"name": "Win in Baby Park with Baby Mario and Baby Luigi"
 			},
 			{

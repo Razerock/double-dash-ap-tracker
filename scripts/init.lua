@@ -1,5 +1,12 @@
 ENABLE_DEBUG_LOG = true
-
+cups_courses = {
+    {0,1,2,3},
+    {4,5,6,7},
+    {8,9,10,11},
+    {12,13,14,15}
+}
+timetrials = 2
+trophy_requirement = 10
 --Items
 Tracker:AddItems("items/drivers.json")
 Tracker:AddItems("items/items.json")
@@ -42,5 +49,3 @@ if PopVersion and PopVersion >= "0.18.0" then
 	ScriptHost:LoadScript("scripts/autotracking.lua")
 end
 
-cups_courses = {}
-timetrials = 2

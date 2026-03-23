@@ -80,6 +80,10 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"access_rules": ["$canEnterWarioColosseum"],
+				"name": "Great Jump Box"
+			},
+			{
 				"access_rules": ["$canEnterWarioColosseum, $hasWario"],
 				"name": "Win in Wario Colosseum with Wario"
 			},
@@ -118,9 +122,13 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"access_rules": ["$canEnterDinoDinoJungle"],
+				"name": "Bridge Side Box"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
 				"access_rules": ["$canEnterDinoDinoJungleTimeTrial,^$timeTrial"],
-				"name": "Beat Time Trial in 2:20"
+				"name": "Beat Time Trial in 2:25"
 			},
 			{
 				"visibility_rules": ["$StaffTimeTrialSetting"],

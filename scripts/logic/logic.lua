@@ -4,7 +4,7 @@ cup_table = {
 	"starcup",
 	"specialcup"
 }
- 
+
 light_drivers = {
 	"babymario",
 	"babyluigi",
@@ -189,7 +189,7 @@ function canEnterBabyPark()
 	end
 end
 
-function hasBabyMarioaaAndBabyLuigi()
+function hasBabyMarioAndBabyLuigi()
 	return(has("babymario") and has("babyluigi"))
 end
 

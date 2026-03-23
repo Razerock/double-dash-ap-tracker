@@ -80,6 +80,18 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"access_rules": ["$canEnterMushroomBridge"],
+				"name": "Pipe Box"
+			},
+			{
+				"access_rules": ["$canEnterMushroomBridge"],
+				"name": "Sidewalk Box"
+			},
+			{
+				"access_rules": ["$canEnterMushroomBridge"],
+				"name": "Bridge Box"
+			},
+			{
 				"visibility_rules": ["$TimeTrialSetting"],
 				"access_rules": ["$canEnterMushroomBridgeTimeTrial,^$timeTrial"],
 				"name": "Beat Time Trial in 1:40"
@@ -152,13 +164,17 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"access_rules": ["$canEnterDaisyCruiser"],
+				"name": "Cargo Area Box"
+			},
+			{
 				"access_rules": ["$canEnterDaisyCruiser, $hasDaisy"],
 				"name": "Win in Daisy Cruiser with Daisy"
 			},
 			{
 				"visibility_rules": ["$TimeTrialSetting"],
 				"access_rules": ["$canEnterDaisyCruiserTimeTrial,^$timeTrial"],
-				"name": "Beat Time Trial in 2:00"
+				"name": "Beat Time Trial in 2:05"
 			},
 			{
 				"visibility_rules": ["$StaffTimeTrialSetting"],

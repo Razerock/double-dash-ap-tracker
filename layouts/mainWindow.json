@@ -39,7 +39,7 @@
 					]
 				},
 				{
-					"type": "tabbed",
+					"type": "dock",
 					"content": {
 						"type": "tabbed",
 						"tabs": [

@@ -186,6 +186,163 @@
 			}
 		]
 	},
+{
+		"name": "Trophy Goal",
+		"type": "progressive",
+		"allow_disabled": false,
+		"initial_stage_idx": 0,
+		"stages": [
+			{
+				"img": "/images/cups/trophygoal.png",
+				"img_mods": "overlay|images/font/0.png",
+				"codes": "trophygoal"
+			},
+			{
+				"img_mods": "overlay|images/font/1.png"
+			},
+			{
+				"img_mods": "overlay|images/font/2.png"
+			},
+			{
+				"img_mods": "overlay|images/font/3.png"
+			},
+			{
+				"img_mods": "overlay|images/font/4.png"
+			},
+			{
+				"img_mods": "overlay|images/font/5.png"
+			},
+			{
+				"img_mods": "overlay|images/font/6.png"
+			},
+			{
+				"img_mods": "overlay|images/font/7.png"
+			},
+			{
+				"img_mods": "overlay|images/font/8.png"
+			},
+			{
+				"img_mods": "overlay|images/font/9.png"
+			},
+			{
+				"img_mods": "overlay|images/font/10.png"
+			},
+			{
+				"img_mods": "overlay|images/font/11.png"
+			},
+			{
+				"img_mods": "overlay|images/font/12.png"
+			},
+			{
+				"img_mods": "overlay|images/font/13.png"
+			},
+			{
+				"img_mods": "overlay|images/font/14.png"
+			},
+			{
+				"img_mods": "overlay|images/font/15.png"
+			},
+			{
+				"img_mods": "overlay|images/font/16.png"
+			},
+			{
+				"img_mods": "overlay|images/font/17.png"
+			},
+			{
+				"img_mods": "overlay|images/font/18.png"
+			},
+			{
+				"img_mods": "overlay|images/font/19.png"
+			},
+			{
+				"img_mods": "overlay|images/font/20.png"
+			},
+			{
+				"img_mods": "overlay|images/font/21.png"
+			},
+			{
+				"img_mods": "overlay|images/font/22.png"
+			},
+			{
+				"img_mods": "overlay|images/font/23.png"
+			},
+			{
+				"img_mods": "overlay|images/font/24.png"
+			},
+			{
+				"img_mods": "overlay|images/font/25.png"
+			},
+			{
+				"img_mods": "overlay|images/font/26.png"
+			},
+			{
+				"img_mods": "overlay|images/font/27.png"
+			},
+			{
+				"img_mods": "overlay|images/font/28.png"
+			},
+			{
+				"img_mods": "overlay|images/font/29.png"
+			},
+			{
+				"img_mods": "overlay|images/font/30.png"
+			},
+			{
+				"img_mods": "overlay|images/font/31.png"
+			},
+			{
+				"img_mods": "overlay|images/font/32.png"
+			},
+			{
+				"img_mods": "overlay|images/font/33.png"
+			},
+			{
+				"img_mods": "overlay|images/font/34.png"
+			},
+			{
+				"img_mods": "overlay|images/font/35.png"
+			},
+			{
+				"img_mods": "overlay|images/font/36.png"
+			},
+			{
+				"img_mods": "overlay|images/font/37.png"
+			},
+			{
+				"img_mods": "overlay|images/font/38.png"
+			},
+			{
+				"img_mods": "overlay|images/font/39.png"
+			},
+			{
+				"img_mods": "overlay|images/font/40.png"
+			},
+			{
+				"img_mods": "overlay|images/font/41.png"
+			},
+			{
+				"img_mods": "overlay|images/font/42.png"
+			},
+			{
+				"img_mods": "overlay|images/font/43.png"
+			},
+			{
+				"img_mods": "overlay|images/font/44.png"
+			},
+			{
+				"img_mods": "overlay|images/font/45.png"
+			},
+			{
+				"img_mods": "overlay|images/font/46.png"
+			},
+			{
+				"img_mods": "overlay|images/font/47.png"
+			},
+			{
+				"img_mods": "overlay|images/font/48.png"
+			}
+		]
+	},
 	{
 		"name": "Progressive GP Race Skip",
 		"type": "progressive",
