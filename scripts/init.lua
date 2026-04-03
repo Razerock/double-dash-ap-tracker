@@ -7,6 +7,7 @@ cups_courses = {
 }
 timetrials = 2
 trophy_requirement = 10
+itembox_locations = 0
 --Items
 Tracker:AddItems("items/drivers.json")
 Tracker:AddItems("items/items.json")

@@ -80,10 +80,12 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterLuigiCircuit, $canEnter100cc"],
 				"name": "Last Curve Shortcut Box"
 			},			
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterLuigiCircuit, $canEnter100cc"],
 				"name": "Chomp Shortcut Box"
 			},
@@ -126,14 +128,17 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterPeachBeach"],
 				"name": "Hidden Pipe Box"
 			},			
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterPeachBeach"],
 				"name": "Beach Jump Box"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterPeachBeach"],
 				"name": "Fountain Box"
 			},

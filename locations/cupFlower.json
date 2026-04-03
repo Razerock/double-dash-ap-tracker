@@ -80,14 +80,17 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterMushroomBridge"],
 				"name": "Pipe Box"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterMushroomBridge"],
 				"name": "Sidewalk Box"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterMushroomBridge"],
 				"name": "Bridge Box"
 			},
@@ -164,6 +167,7 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterDaisyCruiser"],
 				"name": "Cargo Area Box"
 			},

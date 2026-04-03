@@ -623,6 +623,10 @@ function canDriveHeavyKart()
 	end
 end
 
+function ItemBoxLocationSetting()
+	return(itembox_locations>=1)
+end
+
 function TimeTrialSetting()
 	return(timetrials>=1)
 end

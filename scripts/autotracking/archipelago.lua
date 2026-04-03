@@ -79,6 +79,7 @@ function onClear(slot_data)
     cups_courses = slot_data["cups_courses"]
     timetrials = slot_data["time_trials"]
     trophy_requirement = slot_data["trophy_requirement"]
+    itembox_locations = slot_data["item_boxes_as_locations"]
     Tracker:FindObjectForCode("trophygoal").CurrentStage = trophy_requirement
     --SLOT_DATA = slot_data
     --print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))

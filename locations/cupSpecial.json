@@ -80,6 +80,7 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterWarioColosseum"],
 				"name": "Great Jump Box"
 			},
@@ -122,6 +123,7 @@
 				"name": "Finish as 1st Place"
 			},
 			{
+				"visibility_rules": ["$ItemBoxLocationSetting"],
 				"access_rules": ["$canEnterDinoDinoJungle"],
 				"name": "Bridge Side Box"
 			},
