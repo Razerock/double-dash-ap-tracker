@@ -130,7 +130,7 @@
 			{
 				"visibility_rules": ["$TimeTrialSetting"],
 				"access_rules": ["$canEnterDinoDinoJungleTimeTrial,^$timeTrial"],
-				"name": "Beat Time Trial in 2:25"
+				"name": "Beat Time Trial in 2:20"
 			},
 			{
 				"visibility_rules": ["$StaffTimeTrialSetting"],
