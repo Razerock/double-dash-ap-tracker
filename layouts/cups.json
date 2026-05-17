@@ -11,7 +11,7 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"margin": "32,16,32,0",
+						"margin": "16,5",
 						"item_margin": "2, 2",
 						"item_h_alignment": "center",
 						"h_alignment": "left",
@@ -25,7 +25,7 @@
 			}
 		]
 	},
-	"cups_grid_slim": {
+	"cups_grid_vertical": {
 		"type": "array",
 		"orientation": "vertical",
 		"margin": "0,0",
@@ -37,14 +37,15 @@
 				"content": [
 					{
 						"type": "itemgrid",
-						"margin": "32,0,32,0",
+						"margin": "0,0",
 						"item_margin": "2, 2",
 						"item_h_alignment": "center",
 						"h_alignment": "left",
-						"item_size": "48,48",
+						"item_size": "32,32",
 						"rows": [
 							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour"],
-							["progressivecc","progressivegpraceskip","progressivespeedupgrade","progressivetimetrialitem","trophy","trophygoal"]
+							["progressivecc","progressivegpraceskip","progressivespeedupgrade","progressivetimetrialitem","trophy"],
+							["","","trophygoal"]
 						]
 					}
 				]

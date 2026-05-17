@@ -13,7 +13,6 @@ Tracker:AddItems("items/drivers.json")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/cups.json")
 Tracker:AddItems("items/karts.json")
-Tracker:AddItems("items/driver_unlocks.json")
 
 -- Logic
 ScriptHost:LoadScript("scripts/logic/logic.lua")
@@ -31,15 +30,13 @@ Tracker:AddLocations("locations/cupSpecial.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/drivers.json")
-Tracker:AddLayouts("layouts/items.json")
 Tracker:AddLayouts("layouts/cups.json")
 Tracker:AddLayouts("layouts/karts.json")
-Tracker:AddLayouts("layouts/driver_unlocks.json")
 Tracker:AddLayouts("layouts/checks.json")
 
 
-if Tracker.ActiveVariantUID == "trackerSlim" then
-	Tracker:AddLayouts("layouts/mainWindowSlim.json")
+if Tracker.ActiveVariantUID == "trackerVertical" then
+    Tracker:AddLayouts("layouts/mainWindowVertical.json")
 else 
 	Tracker:AddLayouts("layouts/mainWindow.json")
 end
