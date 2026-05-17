@@ -13,6 +13,7 @@ Tracker:AddItems("items/drivers.json")
 Tracker:AddItems("items/items.json")
 Tracker:AddItems("items/cups.json")
 Tracker:AddItems("items/karts.json")
+Tracker:AddItems("items/settings.json")
 
 -- Logic
 ScriptHost:LoadScript("scripts/logic/logic.lua")

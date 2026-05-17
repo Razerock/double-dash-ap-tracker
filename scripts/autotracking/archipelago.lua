@@ -314,9 +314,11 @@ function onBounce(value)
     end
 
     local tabs = TAB_MAPPING[value["data"]["mkdd_course_name"]]
-    if tabs then
-        for _, tab in ipairs(tabs) do
-            Tracker:UiHint("ActivateTab", tab)
+    if has("auto_tab_on") then
+        if tabs then
+            for _, tab in ipairs(tabs) do
+                Tracker:UiHint("ActivateTab", tab)
+            end
         end
     end
 end

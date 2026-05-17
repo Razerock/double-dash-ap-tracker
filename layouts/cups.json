@@ -17,7 +17,7 @@
 						"h_alignment": "left",
 						"item_size": "64,64",
 						"rows": [
-							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour"],
+							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour", "auto_tab_setting"],
 							["progressivecc","progressivegpraceskip","progressivespeedupgrade","progressivetimetrialitem","trophy","trophygoal"]
 						]
 					}
@@ -45,7 +45,7 @@
 						"rows": [
 							["mushroomcup", "flowercup", "starcup", "specialcup","allcuptour"],
 							["progressivecc","progressivegpraceskip","progressivespeedupgrade","progressivetimetrialitem","trophy"],
-							["","","trophygoal"]
+							["","","trophygoal","","auto_tab_setting"]
 						]
 					}
 				]
