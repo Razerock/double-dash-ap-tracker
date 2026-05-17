@@ -1,0 +1,119 @@
+{
+	"courses": {
+		"type": "tabbed",
+		"tabs": [
+			{
+				"title": "Baby Park",
+				"content": {
+					"type": "map",
+					"maps": ["baby_park_map"]
+				}
+			},
+			{
+				"title": "Bowsers Castle",
+				"content": {
+					"type": "map",
+					"maps": ["bowsers_castle_map"]
+				}
+			},
+			{
+				"title": "Daisy Cruiser",
+				"content": {
+					"type": "map",
+					"maps": ["daisy_cruiser_map"]
+				}
+			},
+			{
+				"title": "Dino Dino Jungle",
+				"content": {
+					"type": "map",
+					"maps": ["dino_dino_jungle_map"]
+				}
+			},
+			{
+				"title": "DK Mountain",
+				"content": {
+					"type": "map",
+					"maps": ["dk_mountain_map"]
+				}
+			},
+			{
+				"title": "Dry Dry Desert",
+				"content": {
+					"type": "map",
+					"maps": ["dry_dry_desert_map"]
+				}
+			},
+			{
+				"title": "Luigi Circuit",
+				"content": {
+					"type": "map",
+					"maps": ["luigi_circuit_map"]
+				}
+			},
+			{
+				"title": "Mario Circuit",
+				"content": {
+					"type": "map",
+					"maps": ["mario_circuit_map"]
+				}
+			},
+			{
+				"title": "Mushroom Bridge",
+				"content": {
+					"type": "map",
+					"maps": ["mushroom_bridge_map"]
+				}
+			},
+			{
+				"title": "Mushroom City",
+				"content": {
+					"type": "map",
+					"maps": ["mushroom_city_map"]
+				}
+			},
+			{
+				"title": "Peach Beach",
+				"content": {
+					"type": "map",
+					"maps": ["peach_beach_map"]
+				}
+			},
+			{
+				"title": "Rainbow Road",
+				"content": {
+					"type": "map",
+					"maps": ["rainbow_road_map"]
+				}
+			},
+			{
+				"title": "Sherbet Land",
+				"content": {
+					"type": "map",
+					"maps": ["sherbet_land_map"]
+				}
+			},
+			{
+				"title": "Waluigi Stadium",
+				"content": {
+					"type": "map",
+					"maps": ["waluigi_stadium_map"]
+				}
+			},
+			{
+				"title": "Wario Colosseum",
+				"content": {
+					"type": "map",
+					"maps": ["wario_colosseum_map"]
+				}
+			},
+			{
+				"title": "Yoshi Circuit",
+				"content": {
+					"type": "map",
+					"maps": ["yoshi_circuit_map"]
+				}
+			}
+		]
+	}
+}

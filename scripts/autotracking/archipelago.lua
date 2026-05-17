@@ -2,6 +2,7 @@
 require("scripts/autotracking/item_mapping")
 require("scripts/autotracking/location_mapping")
 require("scripts/autotracking/hints_mapping")
+require("scripts/autotracking/tab_mapping")
 
 CUR_INDEX = -1
 
@@ -41,6 +42,8 @@ function dump_table(o, depth)
         return tostring(o)
     end
 end
+
+
 
 function forceUpdate()
     local update = Tracker:FindObjectForCode("update")
@@ -297,6 +300,27 @@ function updateHints(locationID, status) -->
     -- end
 end
 
+function onBounce(value)
+    local slots = value["slots"]
+    -- Lua does not support `slots ~= {Archipelago.PlayerNumber}`, so check the first and second values in the table.
+    if not slots or not (slots[1] == Archipelago.PlayerNumber and slots[2] == nil) then
+        -- All Bounced messages to be processed by this tracker are expected to target the player's slot specifically.
+        return
+    end
+
+    local data = value["data"]
+    if not data then
+        return
+    end
+
+    local tabs = TAB_MAPPING[value["data"]["mkdd_course_name"]]
+    if tabs then
+        for _, tab in ipairs(tabs) do
+            Tracker:UiHint("ActivateTab", tab)
+        end
+    end
+end
+
 -- ScriptHost:AddWatchForCode("settings autofill handler", "autofill_settings", autoFill)
 Archipelago:AddClearHandler("clear handler", onClearHandler)
 Archipelago:AddItemHandler("item handler", onItem)
@@ -304,6 +328,9 @@ Archipelago:AddLocationHandler("location handler", onLocation)
 
 Archipelago:AddSetReplyHandler("notify handler", onNotify)
 Archipelago:AddRetrievedHandler("notify launch handler", onNotifyLaunch)
+Archipelago:AddBouncedHandler("bounce handler", onBounce)
+
+
 
 
 

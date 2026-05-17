@@ -33,7 +33,7 @@ Tracker:AddLayouts("layouts/drivers.json")
 Tracker:AddLayouts("layouts/cups.json")
 Tracker:AddLayouts("layouts/karts.json")
 Tracker:AddLayouts("layouts/checks.json")
-
+Tracker:AddLayouts("layouts/courses.json")
 
 if Tracker.ActiveVariantUID == "trackerVertical" then
     Tracker:AddLayouts("layouts/mainWindowVertical.json")

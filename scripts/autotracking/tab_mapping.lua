@@ -1,0 +1,19 @@
+TAB_MAPPING = {
+    ["Menu"] = {"Overview", "Course Checks"},
+    ["Baby Park"] = {"Courses", "Baby Park"},
+    ["Bowsers Castle"] = {"Courses", "Bowsers Castle"},
+    ["Daisy Cruiser"] = {"Courses", "Daisy Cruiser"},
+    ["Dino Dino Jungle"] = {"Courses", "Dino Dino Jungle"},
+    ["DK Mountain"] = {"Courses", "DK Mountain"},
+    ["Dry Dry Desert"] = {"Courses", "Dry Dry Desert"},
+    ["Luigi Circuit"] = {"Courses", "Luigi Circuit"},
+    ["Mario Circuit"] = {"Courses", "Mario Circuit"},
+    ["Mushroom Bridge"] = {"Courses", "Mushroom Bridge"},
+    ["Mushroom City"] = {"Courses", "Mushroom City"},
+    ["Peach Beach"] = {"Courses", "Peach Beach"},
+    ["Rainbow Road"] = {"Courses", "Rainbow Road"},
+    ["Sherbet Land"] = {"Courses", "Sherbet Land"},
+    ["Waluigi Stadium"] = {"Courses", "Waluigi Stadium"},
+    ["Wario Colosseum"] = {"Courses", "Wario Colosseum"},
+    ["Yoshi Circuit"] = {"Courses", "Yoshi Circuit"}
+}
