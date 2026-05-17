@@ -4,4 +4,4 @@
 
 This tracker is tracking your unlocks aswell as your available checks with basic logic.
 
-![Preview screenshot of the pack](images/preview.png)
+![Preview screenshot of the pack](https://github.com/Razerock/double-dash-ap-tracker/blob/versions/preview.png)
