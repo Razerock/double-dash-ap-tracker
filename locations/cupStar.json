@@ -65,7 +65,7 @@
 		]
 	},
 	{
-		"name": "Sherbet Land",
+		"name": "Sherbet Land Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterSherbetLand"],
@@ -99,7 +99,7 @@
 		]
 	},
 	{
-		"name": "Mushroom City",
+		"name": "Mushroom City Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterMushroomCity"],
@@ -133,7 +133,7 @@
 		]
 	},
 	{
-		"name": "Yoshi Circuit",
+		"name": "Yoshi Circuit Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterYoshiCircuit"],
@@ -171,7 +171,7 @@
 		]
 	},
 	{
-		"name": "DK Mountain",
+		"name": "DK Mountain Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterDKMountain"],

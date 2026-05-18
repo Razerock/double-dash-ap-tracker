@@ -65,7 +65,7 @@
 		]
 	},
 	{
-		"name": "Mushroom Bridge",
+		"name": "Mushroom Bridge Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterMushroomBridge"],
@@ -78,21 +78,6 @@
 			{
 				"access_rules": ["$canEnterMushroomBridge"],
 				"name": "Finish as 1st Place"
-			},
-			{
-				"visibility_rules": ["$ItemBoxLocationSetting"],
-				"access_rules": ["$canEnterMushroomBridge"],
-				"name": "Pipe Box"
-			},
-			{
-				"visibility_rules": ["$ItemBoxLocationSetting"],
-				"access_rules": ["$canEnterMushroomBridge"],
-				"name": "Sidewalk Box"
-			},
-			{
-				"visibility_rules": ["$ItemBoxLocationSetting"],
-				"access_rules": ["$canEnterMushroomBridge"],
-				"name": "Bridge Box"
 			},
 			{
 				"visibility_rules": ["$TimeTrialSetting"],
@@ -114,7 +99,7 @@
 		]
 	},
 	{
-		"name": "Mario Circuit",
+		"name": "Mario Circuit Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterMarioCircuit"],
@@ -152,7 +137,7 @@
 		]
 	},
 	{
-		"name": "Daisy Cruiser",
+		"name": "Daisy Cruiser Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterDaisyCruiser"],
@@ -165,11 +150,6 @@
 			{
 				"access_rules": ["$canEnterDaisyCruiser"],
 				"name": "Finish as 1st Place"
-			},
-			{
-				"visibility_rules": ["$ItemBoxLocationSetting"],
-				"access_rules": ["$canEnterDaisyCruiser"],
-				"name": "Cargo Area Box"
 			},
 			{
 				"access_rules": ["$canEnterDaisyCruiser, $hasDaisy"],
@@ -195,7 +175,7 @@
 		]
 	},
 	{
-		"name": "Waluigi Stadium",
+		"name": "Waluigi Stadium Race",
 		"sections": [
 			{
 				"access_rules": ["$canEnterWaluigiStadium"],
