@@ -623,8 +623,25 @@ function canDriveHeavyKart()
 	end
 end
 
-function ItemBoxLocationSetting()
-	return(itembox_locations>=1)
+--Checks for the Boxsanity setting
+--Interesting Item Boxes = 1
+--Box Groups = 2
+--Every Box = 3
+function ItemBoxesInteresting()
+	return(item_boxes_as_locations>=1)
+end
+
+function ItemBoxesGroups()
+	return(item_boxes_as_locations==2)
+end
+
+function ItemBoxesSanity()
+	return(item_boxes_as_locations==3)
+end
+
+--Checks if the custom item boxes option is enabled
+function CustomItemBoxes()
+	return(add_custom_item_boxes>=1)
 end
 
 function TimeTrialSetting()

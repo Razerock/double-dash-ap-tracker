@@ -82,10 +82,12 @@ function onClear(slot_data)
     cups_courses = slot_data["cups_courses"]
     timetrials = slot_data["time_trials"]
     trophy_requirement = slot_data["trophy_requirement"]
-    itembox_locations = slot_data["item_boxes_as_locations"]
+    item_boxes_as_locations = slot_data["item_boxes_as_locations"]
+    add_custom_item_boxes = slot_data["add_custom_item_boxes"]
     Tracker:FindObjectForCode("trophygoal").CurrentStage = trophy_requirement
     --SLOT_DATA = slot_data
     --print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
+    print(string.format("called onClear, item box setting:\n%s", item_boxes_as_locations))
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do
