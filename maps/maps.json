@@ -15,7 +15,7 @@
 		"name": "baby_park_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/BabyPark.jpg"
+		"img": "images/coursemaps/BabyPark.png"
 	},
 	{
 		"name": "bowsers_castle_map",
@@ -27,7 +27,7 @@
 		"name": "daisy_cruiser_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/DaisyCruiser.jpg"
+		"img": "images/coursemaps/DaisyCruiser.png"
 	},
 	{
 		"name": "dino_dino_jungle_map",
@@ -39,72 +39,72 @@
 		"name": "dk_mountain_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/DKMountain.jpg"
+		"img": "images/coursemaps/DKMountain.png"
 	},
 	{
 		"name": "dry_dry_desert_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/DryDryDesert.jpg"
+		"img": "images/coursemaps/DryDryDesert.png"
 	},
 	{
 		"name": "luigi_circuit_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/LuigiCircuit.jpg"
+		"img": "images/coursemaps/LuigiCircuit.png"
 	},
 	{
 		"name": "mario_circuit_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/MarioCircuit.jpg"
+		"img": "images/coursemaps/MarioCircuit.png"
 	},
 	{
 		"name": "mushroom_bridge_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/MushroomBridge.jpg"
+		"img": "images/coursemaps/MushroomBridge.png"
 	},
 	{
 		"name": "mushroom_city_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/MushroomCity.jpg"
+		"img": "images/coursemaps/MushroomCity.png"
 	},
 	{
 		"name": "peach_beach_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/PeachBeach.jpg"
+		"img": "images/coursemaps/PeachBeach.png"
 	},
 	{
 		"name": "rainbow_road_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/RainbowRoad.jpg"
+		"img": "images/coursemaps/RainbowRoad.png"
 	},
 	{
 		"name": "sherbet_land_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/SherbetLand.jpg"
+		"img": "images/coursemaps/SherbetLand.png"
 	},
 	{
 		"name": "waluigi_stadium_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/WaluigiStadium.jpg"
+		"img": "images/coursemaps/WaluigiStadium.png"
 	},
 	{
 		"name": "wario_colosseum_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/WarioColosseum.jpg"
+		"img": "images/coursemaps/WarioColosseum.png"
 	},
 	{
 		"name": "yoshi_circuit_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/YoshiCircuit.jpg"
+		"img": "images/coursemaps/YoshiCircuit.png"
 	}
 ]
