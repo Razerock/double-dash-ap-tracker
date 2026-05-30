@@ -8,9 +8,9 @@ cups_courses = {
 timetrials = 2
 trophy_requirement = 10
 --SET ALL THIS TO 0 WHEN YOU ARE DONE TESTING
-item_boxes_as_locations = 2
-shortcuts_as_locations = 0
-add_custom_item_boxes = 1
+item_boxes_as_locations = 0
+shortcuts_as_locations = 1
+add_custom_item_boxes = 0
 --READ ABOVE YOU IDIOT
 --Items
 Tracker:AddItems("items/drivers.json")

@@ -35,28 +35,142 @@ heavy_drivers = {
 }
 
 all_drivers = {
-	"babymario",
-	"babyluigi",
-	"koopa",
-	"paratroopa",
-	"diddykong",
-	"bowserjr.",
-	"toad",
-	"toadette",
 	"mario",
-	"luigi",
 	"peach",
-	"daisy",
 	"yoshi",
+	"babymario",
+	"toad",
+	"luigi",
+	"daisy",
 	"birdo",
-	"waluigi",
+	"babyluigi",
+	"toadette",
+	"koopa",
 	"donkeykong",
 	"bowser",
 	"wario",
-	"peteypiranha",
-	"kingboo"
+	"kingboo",
+	"paratroopa",
+	"diddykong",
+	"bowserjr.",
+	"waluigi",
+	"peteypiranha"
 }
 
+mushroomitem = {
+	"mushroomformario",
+	"mushroomforpeach",
+	"mushroomforyoshi",
+	"mushroomforbabymario",
+	"mushroomfortoad",
+	"mushroomforluigi",
+	"mushroomfordaisy",
+	"mushroomforbirdo",
+	"mushroomforbabyluigi",
+	"mushroomfortoadette",
+	"mushroomforkoopa",
+	"mushroomfordonkeykong",
+	"mushroomforbowser",
+	"mushroomforwario",
+	"mushroomforkingboo",
+	"mushroomforparatroopa",
+	"mushroomfordiddykong",
+	"mushroomforbowserjr.",
+	"mushroomforwaluigi",
+	"mushroomforpeteypiranha"
+}
+
+triplemushroomitem = {
+	"triplemushroomformario",
+	"triplemushroomforpeach",
+	"triplemushroomforyoshi",
+	"triplemushroomforbabymario",
+	"triplemushroomfortoad",
+	"triplemushroomforluigi",
+	"triplemushroomfordaisy",
+	"triplemushroomforbirdo",
+	"triplemushroomforbabyluigi",
+	"triplemushroomfortoadette",
+	"triplemushroomforkoopa",
+	"triplemushroomfordonkeykong",
+	"triplemushroomforbowser",
+	"triplemushroomforwario",
+	"triplemushroomforkingboo",
+	"triplemushroomforparatroopa",
+	"triplemushroomfordiddykong",
+	"triplemushroomforbowserjr.",
+	"triplemushroomforwaluigi",
+	"triplemushroomforpeteypiranha"
+}
+
+goldenmushroomitem = {
+	"goldenmushroomformario",
+	"goldenmushroomforpeach",
+	"goldenmushroomforyoshi",
+	"goldenmushroomforbabymario",
+	"goldenmushroomfortoad",
+	"goldenmushroomforluigi",
+	"goldenmushroomfordaisy",
+	"goldenmushroomforbirdo",
+	"goldenmushroomforbabyluigi",
+	"goldenmushroomfortoadette",
+	"goldenmushroomforkoopa",
+	"goldenmushroomfordonkeykong",
+	"goldenmushroomforbowser",
+	"goldenmushroomforwario",
+	"goldenmushroomforkingboo",
+	"goldenmushroomforparatroopa",
+	"goldenmushroomfordiddykong",
+	"goldenmushroomforbowserjr.",
+	"goldenmushroomforwaluigi",
+	"goldenmushroomforpeteypiranha"
+}
+
+chainchompitem = {
+	"chainchompformario",
+	"chainchompforpeach",
+	"chainchompforyoshi",
+	"chainchompforbabymario",
+	"chainchompfortoad",
+	"chainchompforluigi",
+	"chainchompfordaisy",
+	"chainchompforbirdo",
+	"chainchompforbabyluigi",
+	"chainchompfortoadette",
+	"chainchompforkoopa",
+	"chainchompfordonkeykong",
+	"chainchompforbowser",
+	"chainchompforwario",
+	"chainchompforkingboo",
+	"chainchompforparatroopa",
+	"chainchompfordiddykong",
+	"chainchompforbowserjr.",
+	"chainchompforwaluigi",
+	"chainchompforpeteypiranha"
+}
+
+staritem = {
+	"starformario",
+	"starforpeach",
+	"starforyoshi",
+	"starforbabymario",
+	"starfortoad",
+	"starforluigi",
+	"starfordaisy",
+	"starforbirdo",
+	"starforbabyluigi",
+	"starfortoadette",
+	"starforkoopa",
+	"starfordonkeykong",
+	"starforbowser",
+	"starforwario",
+	"starforkingboo",
+	"starforparatroopa",
+	"starfordiddykong",
+	"starforbowserjr.",
+	"starforwaluigi",
+	"starforpeteypiranha"
+}
 -- Cup logic
 
 function canEnterMushroomCup()
@@ -650,4 +764,53 @@ end
 
 function StaffTimeTrialSetting()
 	return(timetrials==2)
+end
+
+function ShortcutChecks()
+	return(shortcuts_as_locations>=1)
+end
+
+function hasMushroom()
+	if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+		return true
+	else
+		for i, driver in pairs(all_drivers) do
+			if has(all_drivers[i]) and has(mushroomitem[i]) then
+				return true
+			elseif has(all_drivers[i]) and has(triplemushroomitem[i]) then
+				return true
+			elseif has(all_drivers[i]) and has(goldenmushroomitem[i]) then
+				return true
+			elseif has(all_drivers[i]) and has(staritem[i]) then
+				return true
+			else
+			end
+		end
+	end
+end
+
+function hasStar()
+	if has("starforeveryone") then
+		return true
+	else
+		for i, driver in pairs(all_drivers) do
+			if has(all_drivers[i]) and has(staritem[i]) then
+				return true
+			else
+			end
+		end
+	end
+end
+
+function hasChainChomp()
+	if has("chainchompforeveryone") then
+		return true
+	else
+		for i, driver in pairs(all_drivers) do
+			if has(all_drivers[i]) and has(chainchompitem[i]) then
+				return true
+			else
+			end
+		end
+	end
 end

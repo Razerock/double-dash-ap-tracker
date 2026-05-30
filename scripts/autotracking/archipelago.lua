@@ -87,7 +87,7 @@ function onClear(slot_data)
     Tracker:FindObjectForCode("trophygoal").CurrentStage = trophy_requirement
     --SLOT_DATA = slot_data
     --print(string.format("called onClear, slot_data:\n%s", dump_table(slot_data)))
-    print(string.format("called onClear, item box setting:\n%s", item_boxes_as_locations))
+    --print(string.format("called onClear, item box setting:\n%s", item_boxes_as_locations))
     CUR_INDEX = -1
     -- reset locations
     for _, location_array in pairs(LOCATION_MAPPING) do

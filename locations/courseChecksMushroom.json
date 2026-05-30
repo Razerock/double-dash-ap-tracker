@@ -580,6 +580,42 @@
 		"access_rules": ["$canEnterDryDryDesert"],
 		"children": [
 			{
+				"name": "First Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasStar"],
+						"name": "Survive Sand Pit"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "dry_dry_desert_map",
+						"x": 310,
+						"y": 198
+					}
+				]
+			},
+			{
+				"name": "Second Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom"],
+						"name": "Last Sign Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "dry_dry_desert_map",
+						"x": 132,
+						"y": 273
+					}
+				]
+			},
+			{
 				"name": "Sphinx",
 				"visibility_rules": ["$CustomItemBoxes"],
 				"sections": [

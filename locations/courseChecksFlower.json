@@ -4,6 +4,24 @@
 		"access_rules": ["$canEnterMushroomBridge"],
 		"children": [
 			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom"],
+						"name": "Toad House Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_bridge_map",
+						"x": 105,
+						"y": 213
+					}
+				]
+			},
+			{
 				"name": "Pipe",
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -229,6 +247,24 @@
 		"access_rules": ["$canEnterMarioCircuit"],
 		"children": [
 			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom","$hasChainChomp"],
+						"name": "Chain Chomp Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mario_circuit_map",
+						"x": 150,
+						"y": 85
+					}
+				]
+			},
+			{
 				"name": "Start",
 				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -348,6 +384,23 @@
 		"name": "Daisy Cruiser",
 		"access_rules": ["$canEnterDaisyCruiser"],
 		"children": [
+			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"name": "Pool Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "daisy_cruiser_map",
+						"x": 167,
+						"y": 260
+					}
+				]
+			},
 			{
 				"name": "Cargo Area",
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
@@ -523,6 +576,24 @@
 		"name": "Waluigi Stadium",
 		"access_rules": ["$canEnterWaluigiStadium"],
 		"children": [
+			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom"],
+						"name": "Pond Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 223,
+						"y": 338
+					}
+				]
+			},
 			{
 				"name": "First Jump",
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
