@@ -92,7 +92,7 @@
 	{
 		"name": "Banana for Bowser Jr.",
 		"type": "toggle",
-		"codes": "bananaforbowserjr"
+		"codes": "bananaforbowserjr."
 	},
 	{
 		"name": "Banana for Waluigi",
@@ -197,7 +197,7 @@
 	{
 		"name": "Fake Item for Bowser Jr.",
 		"type": "toggle",
-		"codes": "fakeitemforbowserjr"
+		"codes": "fakeitemforbowserjr."
 	},
 	{
 		"name": "Fake Item for Waluigi",
@@ -302,7 +302,7 @@
 	{
 		"name": "Green Shell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "greenshellforbowserjr"
+		"codes": "greenshellforbowserjr."
 	},
 	{
 		"name": "Green Shell for Waluigi",
@@ -317,7 +317,7 @@
 	{
 		"name": "Triple Green Shell",
 		"type": "toggle",
-		"codes": "triplegreenshellsforeverybody"
+		"codes": "triplegreenshellforeverybody"
 	},
 	{
 		"name": "Triple Green Shell for Mario",
@@ -407,7 +407,7 @@
 	{
 		"name": "Triple Green Shell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "triplegreenshellforbowserjr"
+		"codes": "triplegreenshellforbowserjr."
 	},
 	{
 		"name": "Triple Green Shell for Waluigi",
@@ -512,7 +512,7 @@
 	{
 		"name": "Red Shell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "redshellforbowserjr"
+		"codes": "redshellforbowserjr."
 	},
 	{
 		"name": "Red Shell for Waluigi",
@@ -527,7 +527,7 @@
 	{
 		"name": "Triple Red Shell",
 		"type": "toggle",
-		"codes": "tripleredshellsforeverybody"
+		"codes": "tripleredshellforeverybody"
 	},
 	{
 		"name": "Triple Red Shell for Mario",
@@ -617,7 +617,7 @@
 	{
 		"name": "Triple Red Shell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "tripleredshellforbowserjr"
+		"codes": "tripleredshellforbowserjr."
 	},
 	{
 		"name": "Triple Red Shell for Waluigi",
@@ -722,7 +722,7 @@
 	{
 		"name": "Spiny Shell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "spinyshellforbowserjr"
+		"codes": "spinyshellforbowserjr."
 	},
 	{
 		"name": "Spiny Shell for Waluigi",
@@ -827,7 +827,7 @@
 	{
 		"name": "Mushroom for Bowser Jr.",
 		"type": "toggle",
-		"codes": "mushroomforbowserjr"
+		"codes": "mushroomforbowserjr."
 	},
 	{
 		"name": "Mushroom for Waluigi",
@@ -842,7 +842,7 @@
 	{
 		"name": "Triple Mushroom",
 		"type": "toggle",
-		"codes": "triplemushroomsforeverybody"
+		"codes": "triplemushroomforeverybody"
 	},
 	{
 		"name": "Triple Mushroom for Mario",
@@ -932,7 +932,7 @@
 	{
 		"name": "Triple Mushroom for Bowser Jr.",
 		"type": "toggle",
-		"codes": "triplemushroomforbowserjr"
+		"codes": "triplemushroomforbowserjr."
 	},
 	{
 		"name": "Triple Mushroom for Waluigi",
@@ -1037,7 +1037,7 @@
 	{
 		"name": "Heart for Bowser Jr.",
 		"type": "toggle",
-		"codes": "heartforbowserjr"
+		"codes": "heartforbowserjr."
 	},
 	{
 		"name": "Heart for Waluigi",
@@ -1142,7 +1142,7 @@
 	{
 		"name": "Star for Bowser Jr.",
 		"type": "toggle",
-		"codes": "starforbowserjr"
+		"codes": "starforbowserjr."
 	},
 	{
 		"name": "Star for Waluigi",
@@ -1247,7 +1247,7 @@
 	{
 		"name": "Lightning for Bowser Jr.",
 		"type": "toggle",
-		"codes": "lightningforbowserjr"
+		"codes": "lightningforbowserjr."
 	},
 	{
 		"name": "Lightning for Waluigi",
@@ -1352,7 +1352,7 @@
 	{
 		"name": "Fireballs for Bowser Jr.",
 		"type": "toggle",
-		"codes": "fireballsforbowserjr"
+		"codes": "fireballsforbowserjr."
 	},
 	{
 		"name": "Fireballs for Waluigi",
@@ -1457,7 +1457,7 @@
 	{
 		"name": "Yoshi Egg for Bowser Jr.",
 		"type": "toggle",
-		"codes": "yoshieggforbowserjr"
+		"codes": "yoshieggforbowserjr."
 	},
 	{
 		"name": "Yoshi Egg for Waluigi",
@@ -1562,7 +1562,7 @@
 	{
 		"name": "Chain Chomp for Bowser Jr.",
 		"type": "toggle",
-		"codes": "chainchompforbowserjr"
+		"codes": "chainchompforbowserjr."
 	},
 	{
 		"name": "Chain Chomp for Waluigi",
@@ -1667,7 +1667,7 @@
 	{
 		"name": "Golden Mushroom for Bowser Jr.",
 		"type": "toggle",
-		"codes": "goldenmushroomforbowserjr"
+		"codes": "goldenmushroomforbowserjr."
 	},
 	{
 		"name": "Golden Mushroom for Waluigi",
@@ -1772,7 +1772,7 @@
 	{
 		"name": "Giant Banana for Bowser Jr.",
 		"type": "toggle",
-		"codes": "giantbananaforbowserjr"
+		"codes": "giantbananaforbowserjr."
 	},
 	{
 		"name": "Giant Banana for Waluigi",
@@ -1877,7 +1877,7 @@
 	{
 		"name": "Bowser'sshell for Bowser Jr.",
 		"type": "toggle",
-		"codes": "bowser'sshellforbowserjr"
+		"codes": "bowser'sshellforbowserjr."
 	},
 	{
 		"name": "Bowser'sshell for Waluigi",
@@ -1982,7 +1982,7 @@
 	{
 		"name": "Bob-Omb for Bowser Jr.",
 		"type": "toggle",
-		"codes": "bob-ombforbowserjr"
+		"codes": "bob-ombforbowserjr."
 	},
 	{
 		"name": "Bob-Omb for Waluigi",
