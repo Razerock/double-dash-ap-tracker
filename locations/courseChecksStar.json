@@ -4,6 +4,23 @@
 		"access_rules": ["$canEnterSherbetLand"],
 		"children": [
 			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"name": "Last Turn Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 147,
+						"y": 340
+					}
+				]
+			},
+			{
 				"name": "Under Freezie",
 				"visibility_rules": ["$CustomItemBoxes"],
 				"sections": [
@@ -223,6 +240,24 @@
 		"access_rules": ["$canEnterMushroomCity"],
 		"children": [
 			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom"],
+						"name": "Bridge Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 145,
+						"y": 240
+					}
+				]
+			},
+			{
 				"name": "Alley",
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -351,19 +386,35 @@
 				]
 			},
 			{
-				"name": "Last Straight Left Lane",
+				"name": "Last Straight",
 				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
-						"name": "Box 1",
+						"name": "Left Lane Box 1",
 						"visibility_rules": ["$ItemBoxesSanity"]
 					},
 					{
-						"name": "Box 2",
+						"name": "Left Lane Box 2",
 						"visibility_rules": ["$ItemBoxesSanity"]
 					},
 					{
-						"name": "Boxes",
+						"name": "Left Lane Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					},
+					{
+						"name": "Right Lane Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Right Lane Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Right Lane Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Right Lane Boxes",
 						"visibility_rules": ["$ItemBoxesGroups"]
 					}
 				],
@@ -372,36 +423,6 @@
 						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 125,
-						"y": 240
-					}
-				]
-			},
-			{
-				"name": "Last Straight Right Lane",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
-				"sections": [
-					{
-						"name": "Box 1",
-						"visibility_rules": ["$ItemBoxesSanity"]
-					},
-					{
-						"name": "Box 2",
-						"visibility_rules": ["$ItemBoxesSanity"]
-					},
-					{
-						"name": "Box 3",
-						"visibility_rules": ["$ItemBoxesSanity"]
-					},
-					{
-						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
-					}
-				],
-				"map_locations": [
-					{
-						"size": 16,
-						"map": "mushroom_city_map",
-						"x": 145,
 						"y": 240
 					}
 				]
@@ -476,6 +497,42 @@
 		"name": "Yoshi Circuit",
 		"access_rules": ["$canEnterYoshiCircuit"],
 		"children": [
+			{
+				"name": "First Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom","$hasChainChomp"],
+						"name": "Arc Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "yoshi_circuit_map",
+						"x": 155,
+						"y": 243
+					}
+				]
+			},
+			{
+				"name": "Second Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom","$hasChainChomp"],
+						"name": "Tunnel Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "yoshi_circuit_map",
+						"x": 227,
+						"y": 74
+					}
+				]
+			},
 			{
 				"name": "First Turn",
 				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
@@ -614,6 +671,7 @@
 			},
 			{
 				"name": "Tunnel Shortcut",
+				"access_rules": ["$hasMushroom","$hasChainChomp"],
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
@@ -682,6 +740,23 @@
 		"name": "DK Mountain",
 		"access_rules": ["$canEnterDKMountain"],
 		"children": [
+			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"name": "Hairpin Turn Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "dk_mountain_map",
+						"x": 205,
+						"y": 200
+					}
+				]
+			},
 			{
 				"name": "After Cannon",
 				"visibility_rules": ["$CustomItemBoxes"],
