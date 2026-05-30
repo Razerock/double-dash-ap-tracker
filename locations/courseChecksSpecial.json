@@ -589,5 +589,477 @@
 				]
 			}
 		]
+	},
+	{
+		"name": "Bowsers Castle",
+		"access_rules": ["$canEnterBowsersCastle"],
+		"children": [
+			{
+				"name": "Behind Start",
+				"visibility_rules": ["$CustomItemBoxes"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 310,
+						"y": 345
+					}
+				]
+			},
+			{
+				"name": "Entrance",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 280,
+						"y": 190
+					}
+				]
+			},
+			{
+				"name": "Lava Room Left",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 200,
+						"y": 132
+					}
+				]
+			},
+			{
+				"name": "Lava Room Right",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 170,
+						"y": 132
+					}
+				]
+			},
+			{
+				"name": "Spinning Fire",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 184,
+						"y": 281
+					}
+				]
+			},
+			{
+				"name": "Balcon",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 210,
+						"y": 335
+					}
+				]
+			},
+			{
+				"name": "Cannon Room First",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 140,
+						"y": 370
+					}
+				]
+			},
+			{
+				"name": "Cannon Room Second",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 140,
+						"y": 390
+					}
+				]
+			}
+		]
+	},
+	{
+		"name": "Rainbow Road",
+		"access_rules": ["$canEnterRainbowRoad"],
+		"children": [
+			{
+				"name": "Under Jump",
+				"visibility_rules": ["$CustomItemBoxes"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 175,
+						"y": 232
+					}
+				]
+			},
+			{
+				"name": "Downhill",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 195,
+						"y": 135
+					}
+				]
+			},
+			{
+				"name": "U-turn",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 207,
+						"y": 177
+					}
+				]
+			},
+			{
+				"name": "Spiral",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 81,
+						"y": 340
+					}
+				]
+			},
+			{
+				"name": "After Spiral",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 131,
+						"y": 376
+					}
+				]
+			},
+			{
+				"name": "Big Pipe",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 295,
+						"y": 360
+					}
+				]
+			},
+			{
+				"name": "Last Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "rainbow_road_map",
+						"x": 95,
+						"y": 85
+					}
+				]
+			}
+		]
 	}
 ]

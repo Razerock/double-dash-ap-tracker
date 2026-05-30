@@ -21,7 +21,7 @@
 		"name": "bowsers_castle_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/BowsersCastle.jpg"
+		"img": "images/coursemaps/BowsersCastle.png"
 	},
 	{
 		"name": "daisy_cruiser_map",
