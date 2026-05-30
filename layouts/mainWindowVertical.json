@@ -59,6 +59,13 @@
 									"type": "layout",
 									"key": "checks"
 								}
+							},
+							{
+								"title": "Courses",
+								"content": {
+									"type": "layout",
+									"key": "courses"
+								}
 							}
 						]
 					}
