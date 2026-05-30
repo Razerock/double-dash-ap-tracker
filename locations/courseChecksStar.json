@@ -217,5 +217,259 @@
 				]
 			}
 		]
+	},
+	{
+		"name": "Mushroom City",
+		"access_rules": ["$canEnterMushroomCity"],
+		"children": [
+			{
+				"name": "Alley",
+				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 170,
+						"y": 145
+					}
+				]
+			},
+			{
+				"name": "Crossroad",
+				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 133,
+						"y": 200
+					}
+				]
+			},
+			{
+				"name": "Follow Cars",
+				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 127,
+						"y": 315
+					}
+				]
+			},
+			{
+				"name": "First Block",
+				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 200,
+						"y": 195
+					}
+				]
+			},
+			{
+				"name": "Start",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 150,
+						"y": 80
+					}
+				]
+			},
+			{
+				"name": "Outer Route",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 63,
+						"y": 200
+					}
+				]
+			},
+			{
+				"name": "Last Straight Left Lane",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 125,
+						"y": 240
+					}
+				]
+			},
+			{
+				"name": "Last Straight Right Lane",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 145,
+						"y": 240
+					}
+				]
+			},
+			{
+				"name": "After City",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 65,
+						"y": 340
+					}
+				]
+			},
+			{
+				"name": "Ramp",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "mushroom_city_map",
+						"x": 145,
+						"y": 315
+					}
+				]
+			}
+		]
 	}
 ]
