@@ -810,5 +810,9 @@ function hasChainChomp()
 end
 
 function hasNotSlowKarts()
-	return(faster_50cc_100cc>=1 or has("100cc_class") or has("150cc_class") or has("mirror_class"))
+	if has("100cc_class") or has("150cc_class") or has("mirror_class") then
+		return true
+	else
+		return(faster_50cc_100cc>=1)
+	end
 end

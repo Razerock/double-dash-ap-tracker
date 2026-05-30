@@ -207,7 +207,7 @@
 			},
 			{
 				"name": "Bridge Top",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
