@@ -7,9 +7,9 @@ cups_courses = {
 }
 timetrials = 2
 trophy_requirement = 10
-item_boxes_as_locations = 0
-shortcuts_as_locations = 0
-add_custom_item_boxes = 0
+item_boxes_as_locations = 1
+shortcuts_as_locations = 1
+add_custom_item_boxes = 1
 faster_50cc_100cc = 0
 --Items
 Tracker:AddItems("items/drivers.json")
