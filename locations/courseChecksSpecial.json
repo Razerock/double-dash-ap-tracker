@@ -354,6 +354,41 @@
 		"access_rules": ["$canEnterDinoDinoJungle"],
 		"children": [
 			{
+				"name": "First Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"name": "Bridge Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "dino_dino_jungle_map",
+						"x": 286,
+						"y": 308
+					}
+				]
+			},
+			{
+				"name": "Second Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom","$hasChainChomp"],
+						"name": "Cave Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "dino_dino_jungle_map",
+						"x": 125,
+						"y": 328
+					}
+				]
+			},
+			{
 				"name": "Cave Shortcut",
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -594,6 +629,24 @@
 		"name": "Bowsers Castle",
 		"access_rules": ["$canEnterBowsersCastle"],
 		"children": [
+			{
+				"name": "Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"sections": [
+					{
+						"access_rules": ["$hasMushroom"],
+						"name": "Cannon Room Shortcut"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "bowsers_castle_map",
+						"x": 81,
+						"y": 364
+					}
+				]
+			},
 			{
 				"name": "Behind Start",
 				"visibility_rules": ["$CustomItemBoxes"],
