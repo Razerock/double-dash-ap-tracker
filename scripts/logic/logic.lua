@@ -628,7 +628,7 @@ end
 --Box Groups = 2
 --Every Box = 3
 function ItemBoxesInteresting()
-	return(item_boxes_as_locations>=1)
+	return(item_boxes_as_locations==1)
 end
 
 function ItemBoxesGroups()

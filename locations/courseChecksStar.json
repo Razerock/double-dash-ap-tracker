@@ -184,7 +184,7 @@
 			},
 			{
 				"name": "On Ice",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
@@ -204,7 +204,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -224,7 +224,7 @@
 		"children": [
 			{
 				"name": "Alley",
-				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box"
@@ -241,7 +241,7 @@
 			},
 			{
 				"name": "Crossroad",
-				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box"
@@ -614,7 +614,7 @@
 			},
 			{
 				"name": "Tunnel Shortcut",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
@@ -626,7 +626,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -684,7 +684,7 @@
 		"children": [
 			{
 				"name": "After Cannon",
-				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$CustomItemBoxes"],
 				"sections": [
 					{
 						"name": "Box"

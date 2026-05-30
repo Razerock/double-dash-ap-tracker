@@ -154,7 +154,7 @@
 			},
 			{
 				"name": "100cc Chomp Shortcut",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"access_rules": ["$canEnter100cc"],
 				"sections": [
 					{
@@ -167,7 +167,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -181,7 +181,7 @@
 			},
 			{
 				"name": "100cc Last Turn Shortcut",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"access_rules": ["$canEnter100cc"],
 				"sections": [
 					{
@@ -194,7 +194,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -324,7 +324,7 @@
 			},
 			{
 				"name": "Beach Jump",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
@@ -336,7 +336,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -434,7 +434,7 @@
 			},
 			{
 				"name": "Fountain",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
@@ -446,7 +446,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -598,7 +598,7 @@
 			},
 			{
 				"name": "Between Pokeys",
-				"visibility_rules": ["$ItemBoxesInteresting"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box"
@@ -615,7 +615,7 @@
 			},
 			{
 				"name": "Last Pokeys",
-				"visibility_rules": ["$ItemBoxesInteresting"],
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
