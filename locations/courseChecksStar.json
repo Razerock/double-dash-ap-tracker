@@ -680,7 +680,7 @@
 	},
 	{
 		"name": "DK Mountain",
-		"access_rules": ["$canEnterYoshiCircuit"],
+		"access_rules": ["$canEnterDKMountain"],
 		"children": [
 			{
 				"name": "After Cannon",

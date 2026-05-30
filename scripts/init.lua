@@ -35,6 +35,7 @@ Tracker:AddLocations("locations/cupSpecial.json")
 Tracker:AddLocations("locations/courseChecksMushroom.json")
 Tracker:AddLocations("locations/courseChecksFlower.json")
 Tracker:AddLocations("locations/courseChecksStar.json")
+Tracker:AddLocations("locations/courseChecksSpecial.json")
 
 -- Layout
 Tracker:AddLayouts("layouts/drivers.json")

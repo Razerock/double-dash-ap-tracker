@@ -1,0 +1,352 @@
+[
+	{
+		"name": "Wario Colosseum",
+		"access_rules": ["$canEnterWarioColosseum"],
+		"children": [
+			{
+				"name": "First Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 253,
+						"y": 260
+					}
+				]
+			},
+			{
+				"name": "Second Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 270,
+						"y": 130
+					}
+				]
+			},
+			{
+				"name": "Cage Top",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 170,
+						"y": 230
+					}
+				]
+			},
+			{
+				"name": "Before Big Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 220,
+						"y": 110
+					}
+				]
+			},
+			{
+				"name": "After Spiral",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 160,
+						"y": 250
+					}
+				]
+			},
+			{
+				"name": "Wide Curve",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 225,
+						"y": 240
+					}
+				]
+			},
+			{
+				"name": "Before Pit",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 163,
+						"y": 386
+					}
+				]
+			},
+			{
+				"name": "Pit Left",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 127,
+						"y": 229
+					}
+				]
+			},
+			{
+				"name": "Pit Right",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 197,
+						"y": 279
+					}
+				]
+			},
+			{
+				"name": "Pit Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 149,
+						"y": 272
+					}
+				]
+			},
+			{
+				"name": "After Pit",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 6",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 171,
+						"y": 118
+					}
+				]
+			},
+			{
+				"name": "Last Jump",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "wario_colosseum_map",
+						"x": 60,
+						"y": 300
+					}
+				]
+			}
+		]
+	}
+]
