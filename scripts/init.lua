@@ -7,11 +7,10 @@ cups_courses = {
 }
 timetrials = 2
 trophy_requirement = 10
---SET ALL THIS TO 0 WHEN YOU ARE DONE TESTING
 item_boxes_as_locations = 0
-shortcuts_as_locations = 1
+shortcuts_as_locations = 0
 add_custom_item_boxes = 0
---READ ABOVE YOU IDIOT
+faster_50cc_100cc = 0
 --Items
 Tracker:AddItems("items/drivers.json")
 Tracker:AddItems("items/items.json")
