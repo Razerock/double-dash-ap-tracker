@@ -33,7 +33,7 @@
 		"name": "dino_dino_jungle_map",
 		"location_size": 24,
 		"location_border_thickness": 2, 
-		"img": "images/coursemaps/DinoDinoJungle.jpg"
+		"img": "images/coursemaps/DinoDinoJungle.png"
 	},
 	{
 		"name": "dk_mountain_map",
