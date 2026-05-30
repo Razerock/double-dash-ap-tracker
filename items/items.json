@@ -5,9 +5,209 @@
 		"codes": "bananaforeverybody"
 	},
 	{
+		"name": "Banana for Mario",
+		"type": "toggle",
+		"codes": "bananaformario"
+	},
+	{
+		"name": "Banana for Peach",
+		"type": "toggle",
+		"codes": "bananaforpeach"
+	},
+	{
+		"name": "Banana for Yoshi",
+		"type": "toggle",
+		"codes": "bananaforyoshi"
+	},
+	{
+		"name": "Banana for Baby Mario",
+		"type": "toggle",
+		"codes": "bananaforbabymario"
+	},
+	{
+		"name": "Banana for Toad",
+		"type": "toggle",
+		"codes": "bananafortoad"
+	},
+	{
+		"name": "Banana for Luigi",
+		"type": "toggle",
+		"codes": "bananaforluigi"
+	},
+	{
+		"name": "Banana for Daisy",
+		"type": "toggle",
+		"codes": "bananafordaisy"
+	},
+	{
+		"name": "Banana for Birdo",
+		"type": "toggle",
+		"codes": "bananaforbirdo"
+	},
+	{
+		"name": "Banana for Baby Luigi",
+		"type": "toggle",
+		"codes": "bananaforbabyluigi"
+	},
+	{
+		"name": "Banana for Toadette",
+		"type": "toggle",
+		"codes": "bananafortoadette"
+	},
+	{
+		"name": "Banana for Koopa",
+		"type": "toggle",
+		"codes": "bananaforkoopa"
+	},
+	{
+		"name": "Banana for Donkey Kong",
+		"type": "toggle",
+		"codes": "bananafordonkeykong"
+	},
+	{
+		"name": "Banana for Bowser",
+		"type": "toggle",
+		"codes": "bananaforbowser"
+	},
+	{
+		"name": "Banana for Wario",
+		"type": "toggle",
+		"codes": "bananaforwario"
+	},
+	{
+		"name": "Banana for King Boo",
+		"type": "toggle",
+		"codes": "bananaforkingboo"
+	},
+	{
+		"name": "Banana for Paratroopa",
+		"type": "toggle",
+		"codes": "bananaforparatroopa"
+	},
+	{
+		"name": "Banana for Diddy Kong",
+		"type": "toggle",
+		"codes": "bananafordiddykong"
+	},
+	{
+		"name": "Banana for Bowser Jr.",
+		"type": "toggle",
+		"codes": "bananaforbowserjr"
+	},
+	{
+		"name": "Banana for Waluigi",
+		"type": "toggle",
+		"codes": "bananaforwaluigi"
+	},
+	{
+		"name": "Banana for Petey Piranha",
+		"type": "toggle",
+		"codes": "bananaforpeteypiranha"
+	},
+	{
 		"name": "Fake Item",
 		"type": "toggle",
 		"codes": "fakeitemforeverybody"
+	},
+	{
+		"name": "Fake Item for Mario",
+		"type": "toggle",
+		"codes": "fakeitemformario"
+	},
+	{
+		"name": "Fake Item for Peach",
+		"type": "toggle",
+		"codes": "fakeitemforpeach"
+	},
+	{
+		"name": "Fake Item for Yoshi",
+		"type": "toggle",
+		"codes": "fakeitemforyoshi"
+	},
+	{
+		"name": "Fake Item for Baby Mario",
+		"type": "toggle",
+		"codes": "fakeitemforbabymario"
+	},
+	{
+		"name": "Fake Item for Toad",
+		"type": "toggle",
+		"codes": "fakeitemfortoad"
+	},
+	{
+		"name": "Fake Item for Luigi",
+		"type": "toggle",
+		"codes": "fakeitemforluigi"
+	},
+	{
+		"name": "Fake Item for Daisy",
+		"type": "toggle",
+		"codes": "fakeitemfordaisy"
+	},
+	{
+		"name": "Fake Item for Birdo",
+		"type": "toggle",
+		"codes": "fakeitemforbirdo"
+	},
+	{
+		"name": "Fake Item for Baby Luigi",
+		"type": "toggle",
+		"codes": "fakeitemforbabyluigi"
+	},
+	{
+		"name": "Fake Item for Toadette",
+		"type": "toggle",
+		"codes": "fakeitemfortoadette"
+	},
+	{
+		"name": "Fake Item for Koopa",
+		"type": "toggle",
+		"codes": "fakeitemforkoopa"
+	},
+	{
+		"name": "Fake Item for Donkey Kong",
+		"type": "toggle",
+		"codes": "fakeitemfordonkeykong"
+	},
+	{
+		"name": "Fake Item for Bowser",
+		"type": "toggle",
+		"codes": "fakeitemforbowser"
+	},
+	{
+		"name": "Fake Item for Wario",
+		"type": "toggle",
+		"codes": "fakeitemforwario"
+	},
+	{
+		"name": "Fake Item for King Boo",
+		"type": "toggle",
+		"codes": "fakeitemforkingboo"
+	},
+	{
+		"name": "Fake Item for Paratroopa",
+		"type": "toggle",
+		"codes": "fakeitemforparatroopa"
+	},
+	{
+		"name": "Fake Item for Diddy Kong",
+		"type": "toggle",
+		"codes": "fakeitemfordiddykong"
+	},
+	{
+		"name": "Fake Item for Bowser Jr.",
+		"type": "toggle",
+		"codes": "fakeitemforbowserjr"
+	},
+	{
+		"name": "Fake Item for Waluigi",
+		"type": "toggle",
+		"codes": "fakeitemforwaluigi"
+	},
+	{
+		"name": "Fake Item for Petey Piranha",
+		"type": "toggle",
+		"codes": "fakeitemforpeteypiranha"
 	},
 	{
 		"name": "Green Shell",
@@ -15,9 +215,209 @@
 		"codes": "greenshellforeverybody"
 	},
 	{
+		"name": "Green Shell for Mario",
+		"type": "toggle",
+		"codes": "greenshellformario"
+	},
+	{
+		"name": "Green Shell for Peach",
+		"type": "toggle",
+		"codes": "greenshellforpeach"
+	},
+	{
+		"name": "Green Shell for Yoshi",
+		"type": "toggle",
+		"codes": "greenshellforyoshi"
+	},
+	{
+		"name": "Green Shell for Baby Mario",
+		"type": "toggle",
+		"codes": "greenshellforbabymario"
+	},
+	{
+		"name": "Green Shell for Toad",
+		"type": "toggle",
+		"codes": "greenshellfortoad"
+	},
+	{
+		"name": "Green Shell for Luigi",
+		"type": "toggle",
+		"codes": "greenshellforluigi"
+	},
+	{
+		"name": "Green Shell for Daisy",
+		"type": "toggle",
+		"codes": "greenshellfordaisy"
+	},
+	{
+		"name": "Green Shell for Birdo",
+		"type": "toggle",
+		"codes": "greenshellforbirdo"
+	},
+	{
+		"name": "Green Shell for Baby Luigi",
+		"type": "toggle",
+		"codes": "greenshellforbabyluigi"
+	},
+	{
+		"name": "Green Shell for Toadette",
+		"type": "toggle",
+		"codes": "greenshellfortoadette"
+	},
+	{
+		"name": "Green Shell for Koopa",
+		"type": "toggle",
+		"codes": "greenshellforkoopa"
+	},
+	{
+		"name": "Green Shell for Donkey Kong",
+		"type": "toggle",
+		"codes": "greenshellfordonkeykong"
+	},
+	{
+		"name": "Green Shell for Bowser",
+		"type": "toggle",
+		"codes": "greenshellforbowser"
+	},
+	{
+		"name": "Green Shell for Wario",
+		"type": "toggle",
+		"codes": "greenshellforwario"
+	},
+	{
+		"name": "Green Shell for King Boo",
+		"type": "toggle",
+		"codes": "greenshellforkingboo"
+	},
+	{
+		"name": "Green Shell for Paratroopa",
+		"type": "toggle",
+		"codes": "greenshellforparatroopa"
+	},
+	{
+		"name": "Green Shell for Diddy Kong",
+		"type": "toggle",
+		"codes": "greenshellfordiddykong"
+	},
+	{
+		"name": "Green Shell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "greenshellforbowserjr"
+	},
+	{
+		"name": "Green Shell for Waluigi",
+		"type": "toggle",
+		"codes": "greenshellforwaluigi"
+	},
+	{
+		"name": "Green Shell for Petey Piranha",
+		"type": "toggle",
+		"codes": "greenshellforpeteypiranha"
+	},
+	{
 		"name": "Triple Green Shell",
 		"type": "toggle",
 		"codes": "triplegreenshellsforeverybody"
+	},
+	{
+		"name": "Triple Green Shell for Mario",
+		"type": "toggle",
+		"codes": "triplegreenshellformario"
+	},
+	{
+		"name": "Triple Green Shell for Peach",
+		"type": "toggle",
+		"codes": "triplegreenshellforpeach"
+	},
+	{
+		"name": "Triple Green Shell for Yoshi",
+		"type": "toggle",
+		"codes": "triplegreenshellforyoshi"
+	},
+	{
+		"name": "Triple Green Shell for Baby Mario",
+		"type": "toggle",
+		"codes": "triplegreenshellforbabymario"
+	},
+	{
+		"name": "Triple Green Shell for Toad",
+		"type": "toggle",
+		"codes": "triplegreenshellfortoad"
+	},
+	{
+		"name": "Triple Green Shell for Luigi",
+		"type": "toggle",
+		"codes": "triplegreenshellforluigi"
+	},
+	{
+		"name": "Triple Green Shell for Daisy",
+		"type": "toggle",
+		"codes": "triplegreenshellfordaisy"
+	},
+	{
+		"name": "Triple Green Shell for Birdo",
+		"type": "toggle",
+		"codes": "triplegreenshellforbirdo"
+	},
+	{
+		"name": "Triple Green Shell for Baby Luigi",
+		"type": "toggle",
+		"codes": "triplegreenshellforbabyluigi"
+	},
+	{
+		"name": "Triple Green Shell for Toadette",
+		"type": "toggle",
+		"codes": "triplegreenshellfortoadette"
+	},
+	{
+		"name": "Triple Green Shell for Koopa",
+		"type": "toggle",
+		"codes": "triplegreenshellforkoopa"
+	},
+	{
+		"name": "Triple Green Shell for Donkey Kong",
+		"type": "toggle",
+		"codes": "triplegreenshellfordonkeykong"
+	},
+	{
+		"name": "Triple Green Shell for Bowser",
+		"type": "toggle",
+		"codes": "triplegreenshellforbowser"
+	},
+	{
+		"name": "Triple Green Shell for Wario",
+		"type": "toggle",
+		"codes": "triplegreenshellforwario"
+	},
+	{
+		"name": "Triple Green Shell for King Boo",
+		"type": "toggle",
+		"codes": "triplegreenshellforkingboo"
+	},
+	{
+		"name": "Triple Green Shell for Paratroopa",
+		"type": "toggle",
+		"codes": "triplegreenshellforparatroopa"
+	},
+	{
+		"name": "Triple Green Shell for Diddy Kong",
+		"type": "toggle",
+		"codes": "triplegreenshellfordiddykong"
+	},
+	{
+		"name": "Triple Green Shell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "triplegreenshellforbowserjr"
+	},
+	{
+		"name": "Triple Green Shell for Waluigi",
+		"type": "toggle",
+		"codes": "triplegreenshellforwaluigi"
+	},
+	{
+		"name": "Triple Green Shell for Petey Piranha",
+		"type": "toggle",
+		"codes": "triplegreenshellforpeteypiranha"
 	},
 	{
 		"name": "Red Shell",
@@ -25,14 +425,314 @@
 		"codes": "redshellforeverybody"
 	},
 	{
+		"name": "Red Shell for Mario",
+		"type": "toggle",
+		"codes": "redshellformario"
+	},
+	{
+		"name": "Red Shell for Peach",
+		"type": "toggle",
+		"codes": "redshellforpeach"
+	},
+	{
+		"name": "Red Shell for Yoshi",
+		"type": "toggle",
+		"codes": "redshellforyoshi"
+	},
+	{
+		"name": "Red Shell for Baby Mario",
+		"type": "toggle",
+		"codes": "redshellforbabymario"
+	},
+	{
+		"name": "Red Shell for Toad",
+		"type": "toggle",
+		"codes": "redshellfortoad"
+	},
+	{
+		"name": "Red Shell for Luigi",
+		"type": "toggle",
+		"codes": "redshellforluigi"
+	},
+	{
+		"name": "Red Shell for Daisy",
+		"type": "toggle",
+		"codes": "redshellfordaisy"
+	},
+	{
+		"name": "Red Shell for Birdo",
+		"type": "toggle",
+		"codes": "redshellforbirdo"
+	},
+	{
+		"name": "Red Shell for Baby Luigi",
+		"type": "toggle",
+		"codes": "redshellforbabyluigi"
+	},
+	{
+		"name": "Red Shell for Toadette",
+		"type": "toggle",
+		"codes": "redshellfortoadette"
+	},
+	{
+		"name": "Red Shell for Koopa",
+		"type": "toggle",
+		"codes": "redshellforkoopa"
+	},
+	{
+		"name": "Red Shell for Donkey Kong",
+		"type": "toggle",
+		"codes": "redshellfordonkeykong"
+	},
+	{
+		"name": "Red Shell for Bowser",
+		"type": "toggle",
+		"codes": "redshellforbowser"
+	},
+	{
+		"name": "Red Shell for Wario",
+		"type": "toggle",
+		"codes": "redshellforwario"
+	},
+	{
+		"name": "Red Shell for King Boo",
+		"type": "toggle",
+		"codes": "redshellforkingboo"
+	},
+	{
+		"name": "Red Shell for Paratroopa",
+		"type": "toggle",
+		"codes": "redshellforparatroopa"
+	},
+	{
+		"name": "Red Shell for Diddy Kong",
+		"type": "toggle",
+		"codes": "redshellfordiddykong"
+	},
+	{
+		"name": "Red Shell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "redshellforbowserjr"
+	},
+	{
+		"name": "Red Shell for Waluigi",
+		"type": "toggle",
+		"codes": "redshellforwaluigi"
+	},
+	{
+		"name": "Red Shell for Petey Piranha",
+		"type": "toggle",
+		"codes": "redshellforpeteypiranha"
+	},
+	{
 		"name": "Triple Red Shell",
 		"type": "toggle",
 		"codes": "tripleredshellsforeverybody"
 	},
 	{
+		"name": "Triple Red Shell for Mario",
+		"type": "toggle",
+		"codes": "tripleredshellformario"
+	},
+	{
+		"name": "Triple Red Shell for Peach",
+		"type": "toggle",
+		"codes": "tripleredshellforpeach"
+	},
+	{
+		"name": "Triple Red Shell for Yoshi",
+		"type": "toggle",
+		"codes": "tripleredshellforyoshi"
+	},
+	{
+		"name": "Triple Red Shell for Baby Mario",
+		"type": "toggle",
+		"codes": "tripleredshellforbabymario"
+	},
+	{
+		"name": "Triple Red Shell for Toad",
+		"type": "toggle",
+		"codes": "tripleredshellfortoad"
+	},
+	{
+		"name": "Triple Red Shell for Luigi",
+		"type": "toggle",
+		"codes": "tripleredshellforluigi"
+	},
+	{
+		"name": "Triple Red Shell for Daisy",
+		"type": "toggle",
+		"codes": "tripleredshellfordaisy"
+	},
+	{
+		"name": "Triple Red Shell for Birdo",
+		"type": "toggle",
+		"codes": "tripleredshellforbirdo"
+	},
+	{
+		"name": "Triple Red Shell for Baby Luigi",
+		"type": "toggle",
+		"codes": "tripleredshellforbabyluigi"
+	},
+	{
+		"name": "Triple Red Shell for Toadette",
+		"type": "toggle",
+		"codes": "tripleredshellfortoadette"
+	},
+	{
+		"name": "Triple Red Shell for Koopa",
+		"type": "toggle",
+		"codes": "tripleredshellforkoopa"
+	},
+	{
+		"name": "Triple Red Shell for Donkey Kong",
+		"type": "toggle",
+		"codes": "tripleredshellfordonkeykong"
+	},
+	{
+		"name": "Triple Red Shell for Bowser",
+		"type": "toggle",
+		"codes": "tripleredshellforbowser"
+	},
+	{
+		"name": "Triple Red Shell for Wario",
+		"type": "toggle",
+		"codes": "tripleredshellforwario"
+	},
+	{
+		"name": "Triple Red Shell for King Boo",
+		"type": "toggle",
+		"codes": "tripleredshellforkingboo"
+	},
+	{
+		"name": "Triple Red Shell for Paratroopa",
+		"type": "toggle",
+		"codes": "tripleredshellforparatroopa"
+	},
+	{
+		"name": "Triple Red Shell for Diddy Kong",
+		"type": "toggle",
+		"codes": "tripleredshellfordiddykong"
+	},
+	{
+		"name": "Triple Red Shell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "tripleredshellforbowserjr"
+	},
+	{
+		"name": "Triple Red Shell for Waluigi",
+		"type": "toggle",
+		"codes": "tripleredshellforwaluigi"
+	},
+	{
+		"name": "Triple Red Shell for Petey Piranha",
+		"type": "toggle",
+		"codes": "tripleredshellforpeteypiranha"
+	},
+	{
 		"name": "Spiny Shell",
 		"type": "toggle",
 		"codes": "spinyshellforeverybody"
+	},
+	{
+		"name": "Spiny Shell for Mario",
+		"type": "toggle",
+		"codes": "spinyshellformario"
+	},
+	{
+		"name": "Spiny Shell for Peach",
+		"type": "toggle",
+		"codes": "spinyshellforpeach"
+	},
+	{
+		"name": "Spiny Shell for Yoshi",
+		"type": "toggle",
+		"codes": "spinyshellforyoshi"
+	},
+	{
+		"name": "Spiny Shell for Baby Mario",
+		"type": "toggle",
+		"codes": "spinyshellforbabymario"
+	},
+	{
+		"name": "Spiny Shell for Toad",
+		"type": "toggle",
+		"codes": "spinyshellfortoad"
+	},
+	{
+		"name": "Spiny Shell for Luigi",
+		"type": "toggle",
+		"codes": "spinyshellforluigi"
+	},
+	{
+		"name": "Spiny Shell for Daisy",
+		"type": "toggle",
+		"codes": "spinyshellfordaisy"
+	},
+	{
+		"name": "Spiny Shell for Birdo",
+		"type": "toggle",
+		"codes": "spinyshellforbirdo"
+	},
+	{
+		"name": "Spiny Shell for Baby Luigi",
+		"type": "toggle",
+		"codes": "spinyshellforbabyluigi"
+	},
+	{
+		"name": "Spiny Shell for Toadette",
+		"type": "toggle",
+		"codes": "spinyshellfortoadette"
+	},
+	{
+		"name": "Spiny Shell for Koopa",
+		"type": "toggle",
+		"codes": "spinyshellforkoopa"
+	},
+	{
+		"name": "Spiny Shell for Donkey Kong",
+		"type": "toggle",
+		"codes": "spinyshellfordonkeykong"
+	},
+	{
+		"name": "Spiny Shell for Bowser",
+		"type": "toggle",
+		"codes": "spinyshellforbowser"
+	},
+	{
+		"name": "Spiny Shell for Wario",
+		"type": "toggle",
+		"codes": "spinyshellforwario"
+	},
+	{
+		"name": "Spiny Shell for King Boo",
+		"type": "toggle",
+		"codes": "spinyshellforkingboo"
+	},
+	{
+		"name": "Spiny Shell for Paratroopa",
+		"type": "toggle",
+		"codes": "spinyshellforparatroopa"
+	},
+	{
+		"name": "Spiny Shell for Diddy Kong",
+		"type": "toggle",
+		"codes": "spinyshellfordiddykong"
+	},
+	{
+		"name": "Spiny Shell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "spinyshellforbowserjr"
+	},
+	{
+		"name": "Spiny Shell for Waluigi",
+		"type": "toggle",
+		"codes": "spinyshellforwaluigi"
+	},
+	{
+		"name": "Spiny Shell for Petey Piranha",
+		"type": "toggle",
+		"codes": "spinyshellforpeteypiranha"
 	},
 	{
 		"name": "Mushroom",
@@ -250,6 +950,106 @@
 		"codes": "heartforeverybody"
 	},
 	{
+		"name": "Heart for Mario",
+		"type": "toggle",
+		"codes": "heartformario"
+	},
+	{
+		"name": "Heart for Peach",
+		"type": "toggle",
+		"codes": "heartforpeach"
+	},
+	{
+		"name": "Heart for Yoshi",
+		"type": "toggle",
+		"codes": "heartforyoshi"
+	},
+	{
+		"name": "Heart for Baby Mario",
+		"type": "toggle",
+		"codes": "heartforbabymario"
+	},
+	{
+		"name": "Heart for Toad",
+		"type": "toggle",
+		"codes": "heartfortoad"
+	},
+	{
+		"name": "Heart for Luigi",
+		"type": "toggle",
+		"codes": "heartforluigi"
+	},
+	{
+		"name": "Heart for Daisy",
+		"type": "toggle",
+		"codes": "heartfordaisy"
+	},
+	{
+		"name": "Heart for Birdo",
+		"type": "toggle",
+		"codes": "heartforbirdo"
+	},
+	{
+		"name": "Heart for Baby Luigi",
+		"type": "toggle",
+		"codes": "heartforbabyluigi"
+	},
+	{
+		"name": "Heart for Toadette",
+		"type": "toggle",
+		"codes": "heartfortoadette"
+	},
+	{
+		"name": "Heart for Koopa",
+		"type": "toggle",
+		"codes": "heartforkoopa"
+	},
+	{
+		"name": "Heart for Donkey Kong",
+		"type": "toggle",
+		"codes": "heartfordonkeykong"
+	},
+	{
+		"name": "Heart for Bowser",
+		"type": "toggle",
+		"codes": "heartforbowser"
+	},
+	{
+		"name": "Heart for Wario",
+		"type": "toggle",
+		"codes": "heartforwario"
+	},
+	{
+		"name": "Heart for King Boo",
+		"type": "toggle",
+		"codes": "heartforkingboo"
+	},
+	{
+		"name": "Heart for Paratroopa",
+		"type": "toggle",
+		"codes": "heartforparatroopa"
+	},
+	{
+		"name": "Heart for Diddy Kong",
+		"type": "toggle",
+		"codes": "heartfordiddykong"
+	},
+	{
+		"name": "Heart for Bowser Jr.",
+		"type": "toggle",
+		"codes": "heartforbowserjr"
+	},
+	{
+		"name": "Heart for Waluigi",
+		"type": "toggle",
+		"codes": "heartforwaluigi"
+	},
+	{
+		"name": "Heart for Petey Piranha",
+		"type": "toggle",
+		"codes": "heartforpeteypiranha"
+	},
+	{
 		"name": "Star",
 		"type": "toggle",
 		"codes": "starforeverybody"
@@ -360,14 +1160,314 @@
 		"codes": "lightningforeverybody"
 	},
 	{
+		"name": "Lightning for Mario",
+		"type": "toggle",
+		"codes": "lightningformario"
+	},
+	{
+		"name": "Lightning for Peach",
+		"type": "toggle",
+		"codes": "lightningforpeach"
+	},
+	{
+		"name": "Lightning for Yoshi",
+		"type": "toggle",
+		"codes": "lightningforyoshi"
+	},
+	{
+		"name": "Lightning for Baby Mario",
+		"type": "toggle",
+		"codes": "lightningforbabymario"
+	},
+	{
+		"name": "Lightning for Toad",
+		"type": "toggle",
+		"codes": "lightningfortoad"
+	},
+	{
+		"name": "Lightning for Luigi",
+		"type": "toggle",
+		"codes": "lightningforluigi"
+	},
+	{
+		"name": "Lightning for Daisy",
+		"type": "toggle",
+		"codes": "lightningfordaisy"
+	},
+	{
+		"name": "Lightning for Birdo",
+		"type": "toggle",
+		"codes": "lightningforbirdo"
+	},
+	{
+		"name": "Lightning for Baby Luigi",
+		"type": "toggle",
+		"codes": "lightningforbabyluigi"
+	},
+	{
+		"name": "Lightning for Toadette",
+		"type": "toggle",
+		"codes": "lightningfortoadette"
+	},
+	{
+		"name": "Lightning for Koopa",
+		"type": "toggle",
+		"codes": "lightningforkoopa"
+	},
+	{
+		"name": "Lightning for Donkey Kong",
+		"type": "toggle",
+		"codes": "lightningfordonkeykong"
+	},
+	{
+		"name": "Lightning for Bowser",
+		"type": "toggle",
+		"codes": "lightningforbowser"
+	},
+	{
+		"name": "Lightning for Wario",
+		"type": "toggle",
+		"codes": "lightningforwario"
+	},
+	{
+		"name": "Lightning for King Boo",
+		"type": "toggle",
+		"codes": "lightningforkingboo"
+	},
+	{
+		"name": "Lightning for Paratroopa",
+		"type": "toggle",
+		"codes": "lightningforparatroopa"
+	},
+	{
+		"name": "Lightning for Diddy Kong",
+		"type": "toggle",
+		"codes": "lightningfordiddykong"
+	},
+	{
+		"name": "Lightning for Bowser Jr.",
+		"type": "toggle",
+		"codes": "lightningforbowserjr"
+	},
+	{
+		"name": "Lightning for Waluigi",
+		"type": "toggle",
+		"codes": "lightningforwaluigi"
+	},
+	{
+		"name": "Lightning for Petey Piranha",
+		"type": "toggle",
+		"codes": "lightningforpeteypiranha"
+	},
+	{
 		"name": "Fireballs",
 		"type": "toggle",
 		"codes": "fireballsforeverybody"
 	},
 	{
+		"name": "Fireballs for Mario",
+		"type": "toggle",
+		"codes": "fireballsformario"
+	},
+	{
+		"name": "Fireballs for Peach",
+		"type": "toggle",
+		"codes": "fireballsforpeach"
+	},
+	{
+		"name": "Fireballs for Yoshi",
+		"type": "toggle",
+		"codes": "fireballsforyoshi"
+	},
+	{
+		"name": "Fireballs for Baby Mario",
+		"type": "toggle",
+		"codes": "fireballsforbabymario"
+	},
+	{
+		"name": "Fireballs for Toad",
+		"type": "toggle",
+		"codes": "fireballsfortoad"
+	},
+	{
+		"name": "Fireballs for Luigi",
+		"type": "toggle",
+		"codes": "fireballsforluigi"
+	},
+	{
+		"name": "Fireballs for Daisy",
+		"type": "toggle",
+		"codes": "fireballsfordaisy"
+	},
+	{
+		"name": "Fireballs for Birdo",
+		"type": "toggle",
+		"codes": "fireballsforbirdo"
+	},
+	{
+		"name": "Fireballs for Baby Luigi",
+		"type": "toggle",
+		"codes": "fireballsforbabyluigi"
+	},
+	{
+		"name": "Fireballs for Toadette",
+		"type": "toggle",
+		"codes": "fireballsfortoadette"
+	},
+	{
+		"name": "Fireballs for Koopa",
+		"type": "toggle",
+		"codes": "fireballsforkoopa"
+	},
+	{
+		"name": "Fireballs for Donkey Kong",
+		"type": "toggle",
+		"codes": "fireballsfordonkeykong"
+	},
+	{
+		"name": "Fireballs for Bowser",
+		"type": "toggle",
+		"codes": "fireballsforbowser"
+	},
+	{
+		"name": "Fireballs for Wario",
+		"type": "toggle",
+		"codes": "fireballsforwario"
+	},
+	{
+		"name": "Fireballs for King Boo",
+		"type": "toggle",
+		"codes": "fireballsforkingboo"
+	},
+	{
+		"name": "Fireballs for Paratroopa",
+		"type": "toggle",
+		"codes": "fireballsforparatroopa"
+	},
+	{
+		"name": "Fireballs for Diddy Kong",
+		"type": "toggle",
+		"codes": "fireballsfordiddykong"
+	},
+	{
+		"name": "Fireballs for Bowser Jr.",
+		"type": "toggle",
+		"codes": "fireballsforbowserjr"
+	},
+	{
+		"name": "Fireballs for Waluigi",
+		"type": "toggle",
+		"codes": "fireballsforwaluigi"
+	},
+	{
+		"name": "Fireballs for Petey Piranha",
+		"type": "toggle",
+		"codes": "fireballsforpeteypiranha"
+	},
+	{
 		"name": "Yoshi Egg",
 		"type": "toggle",
 		"codes": "yoshieggforeverybody"
+	},
+	{
+		"name": "Yoshi Egg for Mario",
+		"type": "toggle",
+		"codes": "yoshieggformario"
+	},
+	{
+		"name": "Yoshi Egg for Peach",
+		"type": "toggle",
+		"codes": "yoshieggforpeach"
+	},
+	{
+		"name": "Yoshi Egg for Yoshi",
+		"type": "toggle",
+		"codes": "yoshieggforyoshi"
+	},
+	{
+		"name": "Yoshi Egg for Baby Mario",
+		"type": "toggle",
+		"codes": "yoshieggforbabymario"
+	},
+	{
+		"name": "Yoshi Egg for Toad",
+		"type": "toggle",
+		"codes": "yoshieggfortoad"
+	},
+	{
+		"name": "Yoshi Egg for Luigi",
+		"type": "toggle",
+		"codes": "yoshieggforluigi"
+	},
+	{
+		"name": "Yoshi Egg for Daisy",
+		"type": "toggle",
+		"codes": "yoshieggfordaisy"
+	},
+	{
+		"name": "Yoshi Egg for Birdo",
+		"type": "toggle",
+		"codes": "yoshieggforbirdo"
+	},
+	{
+		"name": "Yoshi Egg for Baby Luigi",
+		"type": "toggle",
+		"codes": "yoshieggforbabyluigi"
+	},
+	{
+		"name": "Yoshi Egg for Toadette",
+		"type": "toggle",
+		"codes": "yoshieggfortoadette"
+	},
+	{
+		"name": "Yoshi Egg for Koopa",
+		"type": "toggle",
+		"codes": "yoshieggforkoopa"
+	},
+	{
+		"name": "Yoshi Egg for Donkey Kong",
+		"type": "toggle",
+		"codes": "yoshieggfordonkeykong"
+	},
+	{
+		"name": "Yoshi Egg for Bowser",
+		"type": "toggle",
+		"codes": "yoshieggforbowser"
+	},
+	{
+		"name": "Yoshi Egg for Wario",
+		"type": "toggle",
+		"codes": "yoshieggforwario"
+	},
+	{
+		"name": "Yoshi Egg for King Boo",
+		"type": "toggle",
+		"codes": "yoshieggforkingboo"
+	},
+	{
+		"name": "Yoshi Egg for Paratroopa",
+		"type": "toggle",
+		"codes": "yoshieggforparatroopa"
+	},
+	{
+		"name": "Yoshi Egg for Diddy Kong",
+		"type": "toggle",
+		"codes": "yoshieggfordiddykong"
+	},
+	{
+		"name": "Yoshi Egg for Bowser Jr.",
+		"type": "toggle",
+		"codes": "yoshieggforbowserjr"
+	},
+	{
+		"name": "Yoshi Egg for Waluigi",
+		"type": "toggle",
+		"codes": "yoshieggforwaluigi"
+	},
+	{
+		"name": "Yoshi Egg for Petey Piranha",
+		"type": "toggle",
+		"codes": "yoshieggforpeteypiranha"
 	},
 	{
 		"name": "Chain Chomp",
@@ -585,13 +1685,313 @@
 		"codes": "giantbananaforeverybody"
 	},
 	{
+		"name": "Giant Banana for Mario",
+		"type": "toggle",
+		"codes": "giantbananaformario"
+	},
+	{
+		"name": "Giant Banana for Peach",
+		"type": "toggle",
+		"codes": "giantbananaforpeach"
+	},
+	{
+		"name": "Giant Banana for Yoshi",
+		"type": "toggle",
+		"codes": "giantbananaforyoshi"
+	},
+	{
+		"name": "Giant Banana for Baby Mario",
+		"type": "toggle",
+		"codes": "giantbananaforbabymario"
+	},
+	{
+		"name": "Giant Banana for Toad",
+		"type": "toggle",
+		"codes": "giantbananafortoad"
+	},
+	{
+		"name": "Giant Banana for Luigi",
+		"type": "toggle",
+		"codes": "giantbananaforluigi"
+	},
+	{
+		"name": "Giant Banana for Daisy",
+		"type": "toggle",
+		"codes": "giantbananafordaisy"
+	},
+	{
+		"name": "Giant Banana for Birdo",
+		"type": "toggle",
+		"codes": "giantbananaforbirdo"
+	},
+	{
+		"name": "Giant Banana for Baby Luigi",
+		"type": "toggle",
+		"codes": "giantbananaforbabyluigi"
+	},
+	{
+		"name": "Giant Banana for Toadette",
+		"type": "toggle",
+		"codes": "giantbananafortoadette"
+	},
+	{
+		"name": "Giant Banana for Koopa",
+		"type": "toggle",
+		"codes": "giantbananaforkoopa"
+	},
+	{
+		"name": "Giant Banana for Donkey Kong",
+		"type": "toggle",
+		"codes": "giantbananafordonkeykong"
+	},
+	{
+		"name": "Giant Banana for Bowser",
+		"type": "toggle",
+		"codes": "giantbananaforbowser"
+	},
+	{
+		"name": "Giant Banana for Wario",
+		"type": "toggle",
+		"codes": "giantbananaforwario"
+	},
+	{
+		"name": "Giant Banana for King Boo",
+		"type": "toggle",
+		"codes": "giantbananaforkingboo"
+	},
+	{
+		"name": "Giant Banana for Paratroopa",
+		"type": "toggle",
+		"codes": "giantbananaforparatroopa"
+	},
+	{
+		"name": "Giant Banana for Diddy Kong",
+		"type": "toggle",
+		"codes": "giantbananafordiddykong"
+	},
+	{
+		"name": "Giant Banana for Bowser Jr.",
+		"type": "toggle",
+		"codes": "giantbananaforbowserjr"
+	},
+	{
+		"name": "Giant Banana for Waluigi",
+		"type": "toggle",
+		"codes": "giantbananaforwaluigi"
+	},
+	{
+		"name": "Giant Banana for Petey Piranha",
+		"type": "toggle",
+		"codes": "giantbananaforpeteypiranha"
+	},
+	{
 		"name": "Bowser's Shell",
 		"type": "toggle",
 		"codes": "bowser'sshellforeverybody"
 	},
 	{
+		"name": "Bowser'sshell for Mario",
+		"type": "toggle",
+		"codes": "bowser'sshellformario"
+	},
+	{
+		"name": "Bowser'sshell for Peach",
+		"type": "toggle",
+		"codes": "bowser'sshellforpeach"
+	},
+	{
+		"name": "Bowser'sshell for Yoshi",
+		"type": "toggle",
+		"codes": "bowser'sshellforyoshi"
+	},
+	{
+		"name": "Bowser'sshell for Baby Mario",
+		"type": "toggle",
+		"codes": "bowser'sshellforbabymario"
+	},
+	{
+		"name": "Bowser'sshell for Toad",
+		"type": "toggle",
+		"codes": "bowser'sshellfortoad"
+	},
+	{
+		"name": "Bowser'sshell for Luigi",
+		"type": "toggle",
+		"codes": "bowser'sshellforluigi"
+	},
+	{
+		"name": "Bowser'sshell for Daisy",
+		"type": "toggle",
+		"codes": "bowser'sshellfordaisy"
+	},
+	{
+		"name": "Bowser'sshell for Birdo",
+		"type": "toggle",
+		"codes": "bowser'sshellforbirdo"
+	},
+	{
+		"name": "Bowser'sshell for Baby Luigi",
+		"type": "toggle",
+		"codes": "bowser'sshellforbabyluigi"
+	},
+	{
+		"name": "Bowser'sshell for Toadette",
+		"type": "toggle",
+		"codes": "bowser'sshellfortoadette"
+	},
+	{
+		"name": "Bowser'sshell for Koopa",
+		"type": "toggle",
+		"codes": "bowser'sshellforkoopa"
+	},
+	{
+		"name": "Bowser'sshell for Donkey Kong",
+		"type": "toggle",
+		"codes": "bowser'sshellfordonkeykong"
+	},
+	{
+		"name": "Bowser'sshell for Bowser",
+		"type": "toggle",
+		"codes": "bowser'sshellforbowser"
+	},
+	{
+		"name": "Bowser'sshell for Wario",
+		"type": "toggle",
+		"codes": "bowser'sshellforwario"
+	},
+	{
+		"name": "Bowser'sshell for King Boo",
+		"type": "toggle",
+		"codes": "bowser'sshellforkingboo"
+	},
+	{
+		"name": "Bowser'sshell for Paratroopa",
+		"type": "toggle",
+		"codes": "bowser'sshellforparatroopa"
+	},
+	{
+		"name": "Bowser'sshell for Diddy Kong",
+		"type": "toggle",
+		"codes": "bowser'sshellfordiddykong"
+	},
+	{
+		"name": "Bowser'sshell for Bowser Jr.",
+		"type": "toggle",
+		"codes": "bowser'sshellforbowserjr"
+	},
+	{
+		"name": "Bowser'sshell for Waluigi",
+		"type": "toggle",
+		"codes": "bowser'sshellforwaluigi"
+	},
+	{
+		"name": "Bowser'sshell for Petey Piranha",
+		"type": "toggle",
+		"codes": "bowser'sshellforpeteypiranha"
+	},
+	{
 		"name": "Bob-Omb",
 		"type": "toggle",
 		"codes": "bob-ombforeverybody"
+	},
+	{
+		"name": "Bob-Omb for Mario",
+		"type": "toggle",
+		"codes": "bob-ombformario"
+	},
+	{
+		"name": "Bob-Omb for Peach",
+		"type": "toggle",
+		"codes": "bob-ombforpeach"
+	},
+	{
+		"name": "Bob-Omb for Yoshi",
+		"type": "toggle",
+		"codes": "bob-ombforyoshi"
+	},
+	{
+		"name": "Bob-Omb for Baby Mario",
+		"type": "toggle",
+		"codes": "bob-ombforbabymario"
+	},
+	{
+		"name": "Bob-Omb for Toad",
+		"type": "toggle",
+		"codes": "bob-ombfortoad"
+	},
+	{
+		"name": "Bob-Omb for Luigi",
+		"type": "toggle",
+		"codes": "bob-ombforluigi"
+	},
+	{
+		"name": "Bob-Omb for Daisy",
+		"type": "toggle",
+		"codes": "bob-ombfordaisy"
+	},
+	{
+		"name": "Bob-Omb for Birdo",
+		"type": "toggle",
+		"codes": "bob-ombforbirdo"
+	},
+	{
+		"name": "Bob-Omb for Baby Luigi",
+		"type": "toggle",
+		"codes": "bob-ombforbabyluigi"
+	},
+	{
+		"name": "Bob-Omb for Toadette",
+		"type": "toggle",
+		"codes": "bob-ombfortoadette"
+	},
+	{
+		"name": "Bob-Omb for Koopa",
+		"type": "toggle",
+		"codes": "bob-ombforkoopa"
+	},
+	{
+		"name": "Bob-Omb for Donkey Kong",
+		"type": "toggle",
+		"codes": "bob-ombfordonkeykong"
+	},
+	{
+		"name": "Bob-Omb for Bowser",
+		"type": "toggle",
+		"codes": "bob-ombforbowser"
+	},
+	{
+		"name": "Bob-Omb for Wario",
+		"type": "toggle",
+		"codes": "bob-ombforwario"
+	},
+	{
+		"name": "Bob-Omb for King Boo",
+		"type": "toggle",
+		"codes": "bob-ombforkingboo"
+	},
+	{
+		"name": "Bob-Omb for Paratroopa",
+		"type": "toggle",
+		"codes": "bob-ombforparatroopa"
+	},
+	{
+		"name": "Bob-Omb for Diddy Kong",
+		"type": "toggle",
+		"codes": "bob-ombfordiddykong"
+	},
+	{
+		"name": "Bob-Omb for Bowser Jr.",
+		"type": "toggle",
+		"codes": "bob-ombforbowserjr"
+	},
+	{
+		"name": "Bob-Omb for Waluigi",
+		"type": "toggle",
+		"codes": "bob-ombforwaluigi"
+	},
+	{
+		"name": "Bob-Omb for Petey Piranha",
+		"type": "toggle",
+		"codes": "bob-ombforpeteypiranha"
 	}
 ]
