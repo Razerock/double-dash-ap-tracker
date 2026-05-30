@@ -518,5 +518,235 @@
 				]
 			}
 		]
+	},
+	{
+		"name": "Waluigi Stadium",
+		"access_rules": ["$canEnterWaluigiStadium"],
+		"children": [
+			{
+				"name": "First Jump",
+				"visibility_rules": ["$ItemBoxesInteresting"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 243,
+						"y": 204
+					}
+				]
+			},
+			{
+				"name": "Second Jump",
+				"visibility_rules": ["$ItemBoxesInteresting"],
+				"sections": [
+					{
+						"name": "Box"
+					},
+					{
+						"name": "Box on the floor"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 205,
+						"y": 165
+					}
+				]
+			},
+			{
+				"name": "Last Jump",
+				"visibility_rules": ["$ItemBoxesInteresting"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 170,
+						"y": 300
+					}
+				]
+			},
+			{
+				"name": "Start",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 170,
+						"y": 215
+					}
+				]
+			},
+			{
+				"name": "Near Big Puddle",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 207,
+						"y": 80
+					}
+				]
+			},
+			{
+				"name": "First Piranha",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 92,
+						"y": 152
+					}
+				]
+			},
+			{
+				"name": "Second Piranha",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 115,
+						"y": 220
+					}
+				]
+			},
+			{
+				"name": "After Piranhas",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "waluigi_stadium_map",
+						"x": 245,
+						"y": 300
+					}
+				]
+			}
+		]
 	}
 ]
