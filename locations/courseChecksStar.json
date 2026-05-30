@@ -1,0 +1,221 @@
+[
+	{
+		"name": "Sherbet Land",
+		"access_rules": ["$canEnterSherbetLand"],
+		"children": [
+			{
+				"name": "Under Freezie",
+				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box"
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 223,
+						"y": 345
+					}
+				]
+			},
+			{
+				"name": "Start",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 130,
+						"y": 135
+					}
+				]
+			},
+			{
+				"name": "Tunnel Beginning",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 263,
+						"y": 87
+					}
+				]
+			},
+			{
+				"name": "Tunnel End",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 239,
+						"y": 168
+					}
+				]
+			},
+			{
+				"name": "After Tunnel",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 223,
+						"y": 280
+					}
+				]
+			},
+			{
+				"name": "Before Ice",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 5",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 300,
+						"y": 365
+					}
+				]
+			},
+			{
+				"name": "On Ice",
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"sections": [
+					{
+						"name": "Box 1",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 2",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 3",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Box 4",
+						"visibility_rules": ["$ItemBoxesSanity"]
+					},
+					{
+						"name": "Boxes",
+						"visibility_rules": ["$ItemBoxesGroups"]
+					}
+				],
+				"map_locations": [
+					{
+						"size": 16,
+						"map": "sherbet_land_map",
+						"x": 200,
+						"y": 360
+					}
+				]
+			}
+		]
+	}
+]
