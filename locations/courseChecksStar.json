@@ -647,7 +647,7 @@
 			},
 			{
 				"name": "Tunnel Shortcut",
-				"access_rules": ["$hasMushroom","$hasChainChomp"],
+				"access_rules": ["$hasMushroom","$hasChainChomp","$hasNotSlowKarts"],
 				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
