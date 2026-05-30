@@ -13,7 +13,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 253,
 						"y": 260
@@ -30,7 +29,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 270,
 						"y": 130
@@ -47,7 +45,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 170,
 						"y": 230
@@ -85,7 +82,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 220,
 						"y": 110
@@ -119,7 +115,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 160,
 						"y": 250
@@ -157,7 +152,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 225,
 						"y": 240
@@ -195,7 +189,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 163,
 						"y": 386
@@ -221,7 +214,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 127,
 						"y": 229
@@ -247,7 +239,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 197,
 						"y": 279
@@ -264,7 +255,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 149,
 						"y": 272
@@ -306,7 +296,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 171,
 						"y": 118
@@ -340,7 +329,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "wario_colosseum_map",
 						"x": 60,
 						"y": 300
@@ -363,7 +351,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 286,
 						"y": 308
@@ -381,7 +368,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 125,
 						"y": 328
@@ -398,7 +384,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 135,
 						"y": 290
@@ -432,7 +417,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 77,
 						"y": 88
@@ -492,7 +476,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 230,
 						"y": 160
@@ -518,7 +501,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 310,
 						"y": 365
@@ -548,7 +530,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 80,
 						"y": 225
@@ -582,7 +563,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 255,
 						"y": 110
@@ -616,7 +596,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dino_dino_jungle_map",
 						"x": 270,
 						"y": 68
@@ -640,7 +619,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 81,
 						"y": 364
@@ -657,7 +635,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 310,
 						"y": 345
@@ -691,7 +668,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 280,
 						"y": 190
@@ -717,7 +693,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 200,
 						"y": 132
@@ -743,7 +718,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 170,
 						"y": 132
@@ -777,7 +751,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 184,
 						"y": 281
@@ -811,7 +784,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 210,
 						"y": 335
@@ -841,7 +813,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 140,
 						"y": 370
@@ -871,7 +842,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "bowsers_castle_map",
 						"x": 140,
 						"y": 390
@@ -894,7 +864,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 175,
 						"y": 232
@@ -928,7 +897,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 195,
 						"y": 135
@@ -966,7 +934,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 207,
 						"y": 177
@@ -1000,7 +967,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 81,
 						"y": 340
@@ -1034,7 +1000,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 131,
 						"y": 376
@@ -1072,7 +1037,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 295,
 						"y": 360
@@ -1106,7 +1070,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "rainbow_road_map",
 						"x": 95,
 						"y": 85

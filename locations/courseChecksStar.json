@@ -13,7 +13,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 147,
 						"y": 340
@@ -30,7 +29,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 223,
 						"y": 345
@@ -64,7 +62,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 130,
 						"y": 135
@@ -94,7 +91,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 263,
 						"y": 87
@@ -124,7 +120,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 239,
 						"y": 168
@@ -154,7 +149,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 223,
 						"y": 280
@@ -192,7 +186,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 300,
 						"y": 365
@@ -226,7 +219,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "sherbet_land_map",
 						"x": 200,
 						"y": 360
@@ -250,7 +242,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 145,
 						"y": 240
@@ -267,7 +258,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 170,
 						"y": 145
@@ -284,7 +274,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 133,
 						"y": 200
@@ -301,7 +290,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 127,
 						"y": 315
@@ -318,7 +306,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 200,
 						"y": 195
@@ -352,7 +339,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 150,
 						"y": 80
@@ -378,7 +364,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 63,
 						"y": 200
@@ -420,7 +405,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 125,
 						"y": 240
@@ -454,7 +438,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 65,
 						"y": 340
@@ -484,7 +467,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "mushroom_city_map",
 						"x": 145,
 						"y": 315
@@ -508,7 +490,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 155,
 						"y": 243
@@ -526,7 +507,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 227,
 						"y": 74
@@ -560,7 +540,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 157,
 						"y": 345
@@ -594,7 +573,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 155,
 						"y": 195
@@ -628,7 +606,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 155,
 						"y": 75
@@ -662,7 +639,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 240,
 						"y": 170
@@ -689,7 +665,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 225,
 						"y": 145
@@ -727,7 +702,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "yoshi_circuit_map",
 						"x": 315,
 						"y": 275
@@ -750,7 +724,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 205,
 						"y": 200
@@ -767,7 +740,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 212,
 						"y": 65
@@ -801,7 +773,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 227,
 						"y": 85
@@ -835,7 +806,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 133,
 						"y": 352
@@ -869,7 +839,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 220,
 						"y": 240
@@ -907,7 +876,6 @@
 				],
 				"map_locations": [
 					{
-						"size": 16,
 						"map": "dk_mountain_map",
 						"x": 220,
 						"y": 215
