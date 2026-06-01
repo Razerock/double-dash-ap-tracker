@@ -3,7 +3,7 @@
         {
             "package_version": "1.0.0",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.0.zip",
-            "sha256": "64c557e00d664ad6f68a7a66fbff3442ca6a1884bfd5d40144947b5cc1dfdec5",
+            "sha256": "eeeb31d2a666611d962b7995ca7b3b5d8e1c5d27c00cfa2aef9b08106d3ba640",
             "changelog": [
                 "add support for the 1.0 ap world"
             ]
