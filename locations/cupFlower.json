@@ -88,7 +88,107 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterMushroomBridgeTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Mushroom Bridge/Shortcut/Toad House Shortcut",
+				"name": "Toad House Shortcut"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Pipe/Box",
+				"name": "Pipe Box"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Sidewalk/Box",
+				"name": "Sidewalk Box"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Toad House/Box",
+				"name": "Toad House Box"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Left Lane/Box 1",
+				"name": "Left Lane Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Left Lane/Box 2",
+				"name": "Left Lane Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Left Lane/Boxes",
+				"name": "Left Lane Boxes"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Right Lane/Box 1",
+				"name": "Right Lane Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Right Lane/Box 2",
+				"name": "Right Lane Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Right Lane/Boxes",
+				"name": "Right Lane Boxes"
+          	},
+			{
+            	"ref": "Mushroom Bridge/First Tunnel/Box 1",
+				"name": "First Tunnel Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/First Tunnel/Box 2",
+				"name": "First Tunnel Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/First Tunnel/Box 3",
+				"name": "First Tunnel Box 3"
+          	},
+			{
+            	"ref": "Mushroom Bridge/First Tunnel/Boxes",
+				"name": "First Tunnel Boxes"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Second Tunnel/Box 1",
+				"name": "Second Tunnel Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Second Tunnel/Box 2",
+				"name": "Second Tunnel Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Second Tunnel/Box 3",
+				"name": "Second Tunnel Box 3"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Second Tunnel/Boxes",
+				"name": "Second Tunnel Boxes"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge/Box 1",
+				"name": "Bridge Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge/Box 2",
+				"name": "Bridge Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge/Box 3",
+				"name": "Bridge Box 3"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge/Boxes",
+				"name": "Bridge Boxes"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge Top/Box 1",
+				"name": "Bridge Top Box 1"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge Top/Box 2",
+				"name": "Bridge Top Box 2"
+          	},
+			{
+            	"ref": "Mushroom Bridge/Bridge Top/Boxes",
+				"name": "Bridge Top Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -126,7 +226,83 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterMarioCircuitTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Mario Circuit/Shortcut/Chain Chomp Shortcut",
+				"name": "Chain Chomp Shortcut"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Box 5",
+				"name": "Start Box 5"
+          	},
+			{
+            	"ref": "Mario Circuit/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Mario Circuit/Before Tunnel/Box 1",
+				"name": "Before Tunnel Box 1"
+          	},
+			{
+            	"ref": "Mario Circuit/Before Tunnel/Box 2",
+				"name": "Before Tunnel Box 2"
+          	},
+			{
+            	"ref": "Mario Circuit/Before Tunnel/Box 3",
+				"name": "Before Tunnel Box 3"
+          	},
+			{
+            	"ref": "Mario Circuit/Before Tunnel/Box 4",
+				"name": "Before Tunnel Box 4"
+          	},
+			{
+            	"ref": "Mario Circuit/Before Tunnel/Boxes",
+				"name": "Before Tunnel Boxes"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 1",
+				"name": "Near Goombas Box 1"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 2",
+				"name": "Near Goombas Box 2"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 3",
+				"name": "Near Goombas Box 3"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 4",
+				"name": "Near Goombas Box 4"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 5",
+				"name": "Near Goombas Box 5"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Box 6",
+				"name": "Near Goombas Box 6"
+          	},
+			{
+            	"ref": "Mario Circuit/Near Goombas/Boxes",
+				"name": "Near Goombas Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -164,7 +340,111 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterDaisyCruiserTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Daisy Cruiser/Shortcut/Pool Shortcut",
+				"name": "Pool Shortcut"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Cargo Area/Box",
+				"name": "Cargo Area Box"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Box 5",
+				"name": "Start Box 5"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 1",
+				"name": "Dining Hall Box 1"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 2",
+				"name": "Dining Hall Box 2"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 3",
+				"name": "Dining Hall Box 3"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 4",
+				"name": "Dining Hall Box 4"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 5",
+				"name": "Dining Hall Box 5"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 6",
+				"name": "Dining Hall Box 6"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 7",
+				"name": "Dining Hall Box 7"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Box 8",
+				"name": "Dining Hall Box 8"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Dining Hall/Boxes",
+				"name": "Dining Hall Boxes"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Cargo Hatch/Box 1",
+				"name": "Cargo Hatch Box 1"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Cargo Hatch/Box 2",
+				"name": "Cargo Hatch Box 2"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Cargo Hatch/Boxes",
+				"name": "Cargo Hatch Boxes"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Box 1",
+				"name": "Deck Box 1"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Box 2",
+				"name": "Deck Box 2"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Box 3",
+				"name": "Deck Box 3"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Box 4",
+				"name": "Deck Box 4"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Box 5",
+				"name": "Deck Box 5"
+          	},
+			{
+            	"ref": "Daisy Cruiser/Deck/Boxes",
+				"name": "Deck Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -202,7 +482,127 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterWaluigiStadiumTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Waluigi Stadium/Shortcut/Pond Shortcut",
+				"name": "Pond Shortcut"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Jump/Box",
+				"name": "First Jump Box"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Jump/Box",
+				"name": "Second Jump Box"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Jump/Box on the floor",
+				"name": "Second Jump Box on the floor"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Last Jump/Box",
+				"name": "Last Jump Box"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Near Big Puddle/Box 1",
+				"name": "Near Big Puddle Box 1"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Near Big Puddle/Box 2",
+				"name": "Near Big Puddle Box 2"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Near Big Puddle/Box 3",
+				"name": "Near Big Puddle Box 3"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Near Big Puddle/Box 4",
+				"name": "Near Big Puddle Box 4"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Near Big Puddle/Boxes",
+				"name": "Near Big Puddle Boxes"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Piranha/Box 1",
+				"name": "First Piranha Box 1"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Piranha/Box 2",
+				"name": "First Piranha Box 2"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Piranha/Box 3",
+				"name": "First Piranha Box 3"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Piranha/Box 4",
+				"name": "First Piranha Box 4"
+          	},
+			{
+            	"ref": "Waluigi Stadium/First Piranha/Boxes",
+				"name": "First Piranha Boxes"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Piranha/Box 1",
+				"name": "Second Piranha Box 1"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Piranha/Box 2",
+				"name": "Second Piranha Box 2"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Piranha/Box 3",
+				"name": "Second Piranha Box 3"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Piranha/Box 4",
+				"name": "Second Piranha Box 4"
+          	},
+			{
+            	"ref": "Waluigi Stadium/Second Piranha/Boxes",
+				"name": "Second Piranha Boxes"
+          	},
+			{
+            	"ref": "Waluigi Stadium/After Piranhas/Box 1",
+				"name": "After Piranhas Box 1"
+          	},
+			{
+            	"ref": "Waluigi Stadium/After Piranhas/Box 2",
+				"name": "After Piranhas Box 2"
+          	},
+			{
+            	"ref": "Waluigi Stadium/After Piranhas/Box 3",
+				"name": "After Piranhas Box 3"
+          	},
+			{
+            	"ref": "Waluigi Stadium/After Piranhas/Box 4",
+				"name": "After Piranhas Box 4"
+          	},
+			{
+            	"ref": "Waluigi Stadium/After Piranhas/Boxes",
+				"name": "After Piranhas Boxes"
+          	}
 		],
 		"map_locations": [
 			{

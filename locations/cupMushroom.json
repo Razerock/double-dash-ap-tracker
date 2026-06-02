@@ -72,7 +72,7 @@
 				"name": "Take the lead after Lap 1"
 			},
 			{
-				"access_rules": ["$canEnterLuigiCircuit", "$canEnterLuigiCircuitTimeTrial"],
+				"access_rules": ["$canEnterLuigiCircuit","$canEnterLuigiCircuitTimeTrial"],
 				"name": "Finish the Race"
 			},
 			{
@@ -92,7 +92,151 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterLuigiCircuitTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 1",
+				"name": "First U-turn Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 2",
+				"name": "First U-turn Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 3",
+				"name": "First U-turn Box 3"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 4",
+				"name": "First U-turn Box 4"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 5",
+				"name": "First U-turn Box 5"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 6",
+				"name": "First U-turn Box 6"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Box 7",
+				"name": "First U-turn Box 7"
+          	},
+			{
+            	"ref": "Luigi Circuit/First U-turn/Boxes",
+				"name": "First U-turn Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Box 1",
+				"name": "50cc First Straight Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Box 2",
+				"name": "50cc First Straight Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Box 3",
+				"name": "50cc First Straight Box 3"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Box 4",
+				"name": "50cc First Straight Box 4"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Box 5",
+				"name": "50cc First Straight Box 5"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc First Straight/Boxes",
+				"name": "50cc First Straight Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc Second Straight/Box 1",
+				"name": "50cc Second Straight Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc Second Straight/Box 2",
+				"name": "50cc Second Straight Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc Second Straight/Box 3",
+				"name": "50cc Second Straight Box 3"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc Second Straight/Box 4",
+				"name": "50cc Second Straight Box 4"
+          	},
+			{
+            	"ref": "Luigi Circuit/50cc Second Straight/Boxes",
+				"name": "50cc Second Straight Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Center/Box 1",
+				"name": "100cc Center Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Center/Box 2",
+				"name": "100cc Center Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Center/Box 3",
+				"name": "100cc Center Box 3"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Center/Box 4",
+				"name": "100cc Center Box 4"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Center/Boxes",
+				"name": "100cc Center Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Chomp Shortcut/Box 1",
+				"name": "100cc Chomp Shortcut Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Chomp Shortcut/Box 2",
+				"name": "100cc Chomp Shortcut Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Chomp Shortcut/Boxes",
+				"name": "100cc Chomp Shortcut Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Last Turn Shortcut/Box 1",
+				"name": "100cc Last Turn Shortcut Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Last Turn Shortcut/Box 2",
+				"name": "100cc Last Turn Shortcut Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/100cc Last Turn Shortcut/Boxes",
+				"name": "100cc Last Turn Shortcut Boxes"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Box 1",
+				"name": "Last Turn Box 1"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Box 2",
+				"name": "Last Turn Box 2"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Box 3",
+				"name": "Last Turn Box 3"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Box 4",
+				"name": "Last Turn Box 4"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Box 5",
+				"name": "Last Turn Box 5"
+          	},
+			{
+            	"ref": "Luigi Circuit/Last Turn/Boxes",
+				"name": "Last Turn Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -130,7 +274,119 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterPeachBeachTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Peach Beach/Hidden Pipe/Box",
+				"name": "Hidden Pipe Box"
+          	},
+			{
+            	"ref": "Peach Beach/Behind Cargo/Box",
+				"name": "Behind Cargo Box"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Box 1",
+				"name": "First Turn Box 1"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Box 2",
+				"name": "First Turn Box 2"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Box 3",
+				"name": "First Turn Box 3"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Box 4",
+				"name": "First Turn Box 4"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Box 5",
+				"name": "First Turn Box 5"
+          	},
+			{
+            	"ref": "Peach Beach/First Turn/Boxes",
+				"name": "First Turn Boxes"
+          	},
+			{
+            	"ref": "Peach Beach/Beach Jump/Box 1",
+				"name": "Beach Jump Box 1"
+          	},
+			{
+            	"ref": "Peach Beach/Beach Jump/Box 2",
+				"name": "Beach Jump Box 2"
+          	},
+			{
+            	"ref": "Peach Beach/Beach Jump/Boxes",
+				"name": "Beach Jump Boxes"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 1",
+				"name": "Under Arc Box 1"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 2",
+				"name": "Under Arc Box 2"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 3",
+				"name": "Under Arc Box 3"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 4",
+				"name": "Under Arc Box 4"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 5",
+				"name": "Under Arc Box 5"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Box 6",
+				"name": "Under Arc Box 6"
+          	},
+			{
+            	"ref": "Peach Beach/Under Arc/Boxes",
+				"name": "Under Arc Boxes"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 1",
+				"name": "Ramp Box 1"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 2",
+				"name": "Ramp Box 2"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 3",
+				"name": "Ramp Box 3"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 4",
+				"name": "Ramp Box 4"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 5",
+				"name": "Ramp Box 5"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Box 6",
+				"name": "Ramp Box 6"
+          	},
+			{
+            	"ref": "Peach Beach/Ramp/Boxes",
+				"name": "Ramp Boxes"
+          	},
+			{
+            	"ref": "Peach Beach/Fountain/Box 1",
+				"name": "Fountain Box 1"
+          	},
+			{
+            	"ref": "Peach Beach/Fountain/Box 2",
+				"name": "Fountain Box 2"
+          	},
+			{
+            	"ref": "Peach Beach/Fountain/Boxes",
+				"name": "Fountain Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -168,7 +424,75 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterBabyParkTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Baby Park/Outer Edge/Box",
+				"name": "Outer Edge Box"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 1",
+				"name": "First Turn Box 1"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 2",
+				"name": "First Turn Box 2"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 3",
+				"name": "First Turn Box 3"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 4",
+				"name": "First Turn Box 4"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 5",
+				"name": "First Turn Box 5"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 6",
+				"name": "First Turn Box 6"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Box 7",
+				"name": "First Turn Box 7"
+          	},
+			{
+            	"ref": "Baby Park/First Turn/Boxes",
+				"name": "First Turn Boxes"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 1",
+				"name": "Second Turn Box 1"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 2",
+				"name": "Second Turn Box 2"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 3",
+				"name": "Second Turn Box 3"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 4",
+				"name": "Second Turn Box 4"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 5",
+				"name": "Second Turn Box 5"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 6",
+				"name": "Second Turn Box 6"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Box 7",
+				"name": "Second Turn Box 7"
+          	},
+			{
+            	"ref": "Baby Park/Second Turn/Boxes",
+				"name": "Second Turn Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -202,7 +526,151 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterDryDryDesertTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Dry Dry Desert/First Shortcut/Survive Sand Pit",
+				"name": "Survive Sand Pit"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Second Shortcut/Last Sign Shortcut",
+				"name": "Last Sign Shortcut"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sphinx/Box",
+				"name": "Sphinx Box"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Between Pokeys/Box",
+				"name": "Between Pokeys Box"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Box 1",
+				"name": "First Turn Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Box 2",
+				"name": "First Turn Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Box 3",
+				"name": "First Turn Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Box 4",
+				"name": "First Turn Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Box 5",
+				"name": "First Turn Box 5"
+          	},
+			{
+            	"ref": "Dry Dry Desert/First Turn/Boxes",
+				"name": "First Turn Boxes"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Before Sand Pit/Box 1",
+				"name": "Before Sand Pit Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Before Sand Pit/Box 2",
+				"name": "Before Sand Pit Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Before Sand Pit/Box 3",
+				"name": "Before Sand Pit Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Before Sand Pit/Box 4",
+				"name": "Before Sand Pit Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Before Sand Pit/Boxes",
+				"name": "Before Sand Pit Boxes"
+          	},
+			{
+            	"ref": "Dry Dry Desert/After Sand Pit/Box 1",
+				"name": "After Sand Pit Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/After Sand Pit/Box 2",
+				"name": "After Sand Pit Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/After Sand Pit/Box 3",
+				"name": "After Sand Pit Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/After Sand Pit/Box 4",
+				"name": "After Sand Pit Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/After Sand Pit/Boxes",
+				"name": "After Sand Pit Boxes"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Box 1",
+				"name": "Sand Hills Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Box 2",
+				"name": "Sand Hills Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Box 3",
+				"name": "Sand Hills Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Box 4",
+				"name": "Sand Hills Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Box 5",
+				"name": "Sand Hills Box 5"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Sand Hills/Boxes",
+				"name": "Sand Hills Boxes"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Last Pokeys/Box 1",
+				"name": "Last Pokeys Box 1"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Last Pokeys/Box 2",
+				"name": "Last Pokeys Box 2"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Last Pokeys/Box 3",
+				"name": "Last Pokeys Box 3"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Last Pokeys/Box 4",
+				"name": "Last Pokeys Box 4"
+          	},
+			{
+            	"ref": "Dry Dry Desert/Last Pokeys/Boxes",
+				"name": "Last Pokeys Boxes"
+          	}
 		],
 		"map_locations": [
 			{
