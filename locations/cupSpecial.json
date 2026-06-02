@@ -92,7 +92,187 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterWarioColosseumTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Wario Colosseum/First Jump/Box",
+				"name": "First Jump Box"
+          	},
+			{
+            	"ref": "Wario Colosseum/Second Jump/Box",
+				"name": "Second Jump Box"
+          	},
+			{
+            	"ref": "Wario Colosseum/Cage Top/Box",
+				"name": "Cage Top Box"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Box 1",
+				"name": "Before Big Jump Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Box 2",
+				"name": "Before Big Jump Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Box 3",
+				"name": "Before Big Jump Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Box 4",
+				"name": "Before Big Jump Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Box 5",
+				"name": "Before Big Jump Box 5"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Big Jump/Boxes",
+				"name": "Before Big Jump Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Spiral/Box 1",
+				"name": "After Spiral Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Spiral/Box 2",
+				"name": "After Spiral Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Spiral/Box 3",
+				"name": "After Spiral Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Spiral/Box 4",
+				"name": "After Spiral Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Spiral/Boxes",
+				"name": "After Spiral Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Box 1",
+				"name": "Wide Curve Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Box 2",
+				"name": "Wide Curve Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Box 3",
+				"name": "Wide Curve Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Box 4",
+				"name": "Wide Curve Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Box 5",
+				"name": "Wide Curve Box 5"
+          	},
+			{
+            	"ref": "Wario Colosseum/Wide Curve/Boxes",
+				"name": "Wide Curve Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Box 1",
+				"name": "Before Pit Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Box 2",
+				"name": "Before Pit Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Box 3",
+				"name": "Before Pit Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Box 4",
+				"name": "Before Pit Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Box 5",
+				"name": "Before Pit Box 5"
+          	},
+			{
+            	"ref": "Wario Colosseum/Before Pit/Boxes",
+				"name": "Before Pit Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Left/Box 1",
+				"name": "Pit Left Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Left/Box 2",
+				"name": "Pit Left Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Left/Boxes",
+				"name": "Pit Left Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Right/Box 1",
+				"name": "Pit Right Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Right/Box 2",
+				"name": "Pit Right Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Right/Boxes",
+				"name": "Pit Right Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Pit Jump/Box",
+				"name": "Pit Jump Box"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 1",
+				"name": "After Pit Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 2",
+				"name": "After Pit Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 3",
+				"name": "After Pit Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 4",
+				"name": "After Pit Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 5",
+				"name": "After Pit Box 5"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Box 6",
+				"name": "After Pit Box 6"
+          	},
+			{
+            	"ref": "Wario Colosseum/After Pit/Boxes",
+				"name": "After Pit Boxes"
+          	},
+			{
+            	"ref": "Wario Colosseum/Last Jump/Box 1",
+				"name": "Last Jump Box 1"
+          	},
+			{
+            	"ref": "Wario Colosseum/Last Jump/Box 2",
+				"name": "Last Jump Box 2"
+          	},
+			{
+            	"ref": "Wario Colosseum/Last Jump/Box 3",
+				"name": "Last Jump Box 3"
+          	},
+			{
+            	"ref": "Wario Colosseum/Last Jump/Box 4",
+				"name": "Last Jump Box 4"
+          	},
+			{
+            	"ref": "Wario Colosseum/Last Jump/Boxes",
+				"name": "Last Jump Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -126,7 +306,139 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterDinoDinoJungleTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Dino Dino Jungle/First Shortcut/Bridge Shortcut",
+				"name": "Bridge Shortcut"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Second Shortcut/Cave Shortcut",
+				"name": "Cave Shortcut"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Cave Shortcut/Box",
+				"name": "Cave Shortcut Box"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/First Turn/Box 1",
+				"name": "First Turn Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/First Turn/Box 2",
+				"name": "First Turn Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/First Turn/Box 3",
+				"name": "First Turn Box 3"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/First Turn/Box 4",
+				"name": "First Turn Box 4"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/First Turn/Boxes",
+				"name": "First Turn Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Over Logs/Box 1",
+				"name": "Over Logs Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Over Logs/Box 2",
+				"name": "Over Logs Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Over Logs/Boxes",
+				"name": "Over Logs Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Under Dino/Box 1",
+				"name": "Under Dino Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Under Dino/Box 2",
+				"name": "Under Dino Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Under Dino/Box 3",
+				"name": "Under Dino Box 3"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Under Dino/Box 4",
+				"name": "Under Dino Box 4"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Under Dino/Boxes",
+				"name": "Under Dino Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Bridge/Box 1",
+				"name": "Bridge Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Bridge/Box 2",
+				"name": "Bridge Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Bridge/Boxes",
+				"name": "Bridge Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Cave/Box 1",
+				"name": "Cave Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Cave/Box 2",
+				"name": "Cave Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Cave/Box 3",
+				"name": "Cave Box 3"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Cave/Boxes",
+				"name": "Cave Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/After Cave/Box 1",
+				"name": "After Cave Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/After Cave/Box 2",
+				"name": "After Cave Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/After Cave/Box 3",
+				"name": "After Cave Box 3"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/After Cave/Box 4",
+				"name": "After Cave Box 4"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/After Cave/Boxes",
+				"name": "After Cave Boxes"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Last Straight/Box 1",
+				"name": "Last Straight Box 1"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Last Straight/Box 2",
+				"name": "Last Straight Box 2"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Last Straight/Box 3",
+				"name": "Last Straight Box 3"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Last Straight/Box 4",
+				"name": "Last Straight Box 4"
+          	},
+			{
+            	"ref": "Dino Dino Jungle/Last Straight/Boxes",
+				"name": "Last Straight Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -164,7 +476,131 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterBowsersCastleTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Bowsers Castle/Shortcut/Cannon Room Shortcut",
+				"name": "Cannon Room Shortcut"
+          	},
+			{
+            	"ref": "Bowsers Castle/Behind Start/Box",
+				"name": "Behind Start Box"
+          	},
+			{
+            	"ref": "Bowsers Castle/Entrance/Box 1",
+				"name": "Entrance Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Entrance/Box 2",
+				"name": "Entrance Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Entrance/Box 3",
+				"name": "Entrance Box 3"
+          	},
+			{
+            	"ref": "Bowsers Castle/Entrance/Box 4",
+				"name": "Entrance Box 4"
+          	},
+			{
+            	"ref": "Bowsers Castle/Entrance/Boxes",
+				"name": "Entrance Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Left/Box 1",
+				"name": "Lava Room Left Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Left/Box 2",
+				"name": "Lava Room Left Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Left/Boxes",
+				"name": "Lava Room Left Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Right/Box 1",
+				"name": "Lava Room Right Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Right/Box 2",
+				"name": "Lava Room Right Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Lava Room Right/Boxes",
+				"name": "Lava Room Right Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Spinning Fire/Box 1",
+				"name": "Spinning Fire Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Spinning Fire/Box 2",
+				"name": "Spinning Fire Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Spinning Fire/Box 3",
+				"name": "Spinning Fire Box 3"
+          	},
+			{
+            	"ref": "Bowsers Castle/Spinning Fire/Box 4",
+				"name": "Spinning Fire Box 4"
+          	},
+			{
+            	"ref": "Bowsers Castle/Spinning Fire/Boxes",
+				"name": "Spinning Fire Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Balcon/Box 1",
+				"name": "Balcon Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Balcon/Box 2",
+				"name": "Balcon Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Balcon/Box 3",
+				"name": "Balcon Box 3"
+          	},
+			{
+            	"ref": "Bowsers Castle/Balcon/Box 4",
+				"name": "Balcon Box 4"
+          	},
+			{
+            	"ref": "Bowsers Castle/Balcon/Boxes",
+				"name": "Balcon Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room First/Box 1",
+				"name": "Cannon Room First Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room First/Box 2",
+				"name": "Cannon Room First Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room First/Box 3",
+				"name": "Cannon Room First Box 3"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room First/Boxes",
+				"name": "Cannon Room First Boxes"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room Second/Box 1",
+				"name": "Cannon Room Second Box 1"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room Second/Box 2",
+				"name": "Cannon Room Second Box 2"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room Second/Box 3",
+				"name": "Cannon Room Second Box 3"
+          	},
+			{
+            	"ref": "Bowsers Castle/Cannon Room Second/Boxes",
+				"name": "Cannon Room Second Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -198,7 +634,139 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterRainbowRoadTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Rainbow Road/Under Jump/Box",
+				"name": "Under Jump Box"
+          	},
+			{
+            	"ref": "Rainbow Road/Downhill/Box 1",
+				"name": "Downhill Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/Downhill/Box 2",
+				"name": "Downhill Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/Downhill/Box 3",
+				"name": "Downhill Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/Downhill/Box 4",
+				"name": "Downhill Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/Downhill/Boxes",
+				"name": "Downhill Boxes"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Box 1",
+				"name": "U-turn Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Box 2",
+				"name": "U-turn Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Box 3",
+				"name": "U-turn Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Box 4",
+				"name": "U-turn Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Box 5",
+				"name": "U-turn Box 5"
+          	},
+			{
+            	"ref": "Rainbow Road/U-turn/Boxes",
+				"name": "U-turn Boxes"
+          	},
+			{
+            	"ref": "Rainbow Road/Spiral/Box 1",
+				"name": "Spiral Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/Spiral/Box 2",
+				"name": "Spiral Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/Spiral/Box 3",
+				"name": "Spiral Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/Spiral/Box 4",
+				"name": "Spiral Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/Spiral/Boxes",
+				"name": "Spiral Boxes"
+          	},
+			{
+            	"ref": "Rainbow Road/After Spiral/Box 1",
+				"name": "After Spiral Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/After Spiral/Box 2",
+				"name": "After Spiral Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/After Spiral/Box 3",
+				"name": "After Spiral Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/After Spiral/Box 4",
+				"name": "After Spiral Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/After Spiral/Boxes",
+				"name": "After Spiral Boxes"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Box 1",
+				"name": "Big Pipe Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Box 2",
+				"name": "Big Pipe Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Box 3",
+				"name": "Big Pipe Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Box 4",
+				"name": "Big Pipe Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Box 5",
+				"name": "Big Pipe Box 5"
+          	},
+			{
+            	"ref": "Rainbow Road/Big Pipe/Boxes",
+				"name": "Big Pipe Boxes"
+          	},
+			{
+            	"ref": "Rainbow Road/Last Jump/Box 1",
+				"name": "Last Jump Box 1"
+          	},
+			{
+            	"ref": "Rainbow Road/Last Jump/Box 2",
+				"name": "Last Jump Box 2"
+          	},
+			{
+            	"ref": "Rainbow Road/Last Jump/Box 3",
+				"name": "Last Jump Box 3"
+          	},
+			{
+            	"ref": "Rainbow Road/Last Jump/Box 4",
+				"name": "Last Jump Box 4"
+          	},
+			{
+            	"ref": "Rainbow Road/Last Jump/Boxes",
+				"name": "Last Jump Boxes"
+          	}
 		],
 		"map_locations": [
 			{
