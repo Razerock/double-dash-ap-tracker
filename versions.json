@@ -2,7 +2,7 @@
     "versions": [   
         {
             "package_version": "1.0.1",
-            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.0.zip",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.1.zip",
             "sha256": "d8178abec6f4ae9112b4dc91e857a17ac26c1bef26833fa34194e9058a804356",
             "changelog": [
                 "fix logic bugs, add better overview"
