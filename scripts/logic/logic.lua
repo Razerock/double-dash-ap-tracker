@@ -811,8 +811,26 @@ end
 
 function hasNotSlowKarts()
 	if has("100cc_class") or has("150cc_class") or has("mirror_class") then
-		return true
-	else
-		return(faster_50cc_100cc>=1)
+		if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+			return true
+		else
+			for i, driver in pairs(all_drivers) do
+				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(staritem[i])) then
+					return true
+				else
+				end
+			end
+		end
+	elseif faster_50cc_100cc>=1
+		if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+			return true
+		else
+			for i, driver in pairs(all_drivers) do
+				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(staritem[i])) then
+					return true
+				else
+				end
+			end
+		end
 	end
 end
