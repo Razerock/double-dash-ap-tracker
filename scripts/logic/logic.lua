@@ -775,7 +775,7 @@ function hasMushroom()
 		return true
 	else
 		for i, driver in pairs(all_drivers) do
-			if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(staritem[i])) then
+			if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(goldenmushroomitem[i]) or has(staritem[i])) then
 				return true
 			else
 			end
@@ -815,18 +815,18 @@ function hasNotSlowKarts()
 			return true
 		else
 			for i, driver in pairs(all_drivers) do
-				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(staritem[i])) then
+				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(goldenmushroomitem[i]) or has(staritem[i])) then
 					return true
 				else
 				end
 			end
 		end
-	elseif faster_50cc_100cc>=1
+	elseif faster_50cc_100cc>=1 then
 		if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
 			return true
 		else
 			for i, driver in pairs(all_drivers) do
-				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(staritem[i])) then
+				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(goldenmushroomitem[i]) or has(staritem[i])) then
 					return true
 				else
 				end

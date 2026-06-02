@@ -484,7 +484,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
 						"name": "Arc Shortcut"
 					}
 				],
@@ -501,7 +501,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
 						"name": "Tunnel Shortcut"
 					}
 				],

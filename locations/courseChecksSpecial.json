@@ -362,7 +362,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
 						"name": "Cave Shortcut"
 					}
 				],
