@@ -88,7 +88,127 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterSherbetLandTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Sherbet Land/Shortcut/Last Turn Shortcut",
+				"name": "Last Turn Shortcut"
+          	},
+			{
+            	"ref": "Sherbet Land/Under Freezie/Box",
+				"name": "Under Freezie Box"
+          	},
+			{
+            	"ref": "Sherbet Land/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Sherbet Land/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel Beginning/Box 1",
+				"name": "Tunnel Beginning Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel Beginning/Box 2",
+				"name": "Tunnel Beginning Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel Beginning/Box 3",
+				"name": "Tunnel Beginning Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel Beginning/Boxes",
+				"name": "Tunnel Beginning Boxes"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel End/Box 1",
+				"name": "Tunnel End Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel End/Box 2",
+				"name": "Tunnel End Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel End/Box 3",
+				"name": "Tunnel End Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/Tunnel End/Boxes",
+				"name": "Tunnel End Boxes"
+          	},
+			{
+            	"ref": "Sherbet Land/After Tunnel/Box 1",
+				"name": "After Tunnel Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/After Tunnel/Box 2",
+				"name": "After Tunnel Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/After Tunnel/Box 3",
+				"name": "After Tunnel Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/After Tunnel/Boxes",
+				"name": "After Tunnel Boxes"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Box 1",
+				"name": "Before Ice Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Box 2",
+				"name": "Before Ice Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Box 3",
+				"name": "Before Ice Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Box 4",
+				"name": "Before Ice Box 4"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Box 5",
+				"name": "Before Ice Box 5"
+          	},
+			{
+            	"ref": "Sherbet Land/Before Ice/Boxes",
+				"name": "Before Ice Boxes"
+          	},
+			{
+            	"ref": "Sherbet Land/On Ice/Box 1",
+				"name": "On Ice Box 1"
+          	},
+			{
+            	"ref": "Sherbet Land/On Ice/Box 2",
+				"name": "On Ice Box 2"
+          	},
+			{
+            	"ref": "Sherbet Land/On Ice/Box 3",
+				"name": "On Ice Box 3"
+          	},
+			{
+            	"ref": "Sherbet Land/On Ice/Box 4",
+				"name": "On Ice Box 4"
+          	},
+			{
+            	"ref": "Sherbet Land/On Ice/Boxes",
+				"name": "On Ice Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -122,7 +242,123 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterMushroomCityTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Mushroom City/Shortcut/Bridge Shortcut",
+				"name": "Bridge Shortcut"
+          	},
+			{
+            	"ref": "Mushroom City/Alley/Box",
+				"name": "Alley Box"
+          	},
+			{
+            	"ref": "Mushroom City/Crossroad/Box",
+				"name": "Crossroad Box"
+          	},
+			{
+            	"ref": "Mushroom City/Follow Cars/Box",
+				"name": "Follow Cars Box"
+          	},
+			{
+            	"ref": "Mushroom City/First Block/Box",
+				"name": "First Block Box"
+          	},
+			{
+            	"ref": "Mushroom City/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "Mushroom City/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "Mushroom City/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "Mushroom City/Outer Route/Box 1",
+				"name": "Outer Route Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/Outer Route/Box 2",
+				"name": "Outer Route Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/Outer Route/Boxes",
+				"name": "Outer Route Boxes"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Left Lane Box 1",
+				"name": "Left Lane Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Left Lane Box 2",
+				"name": "Left Lane Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Left Lane Boxes",
+				"name": "Left Lane Boxes"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Right Lane Box 1",
+				"name": "Right Lane Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Right Lane Box 2",
+				"name": "Right Lane Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Right Lane Box 3",
+				"name": "Right Lane Box 3"
+          	},
+			{
+            	"ref": "Mushroom City/Last Straight/Right Lane Boxes",
+				"name": "Right Lane Boxes"
+          	},
+			{
+            	"ref": "Mushroom City/After City/Box 1",
+				"name": "After City Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/After City/Box 2",
+				"name": "After City Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/After City/Box 3",
+				"name": "After City Box 3"
+          	},
+			{
+            	"ref": "Mushroom City/After City/Box 4",
+				"name": "After City Box 4"
+          	},
+			{
+            	"ref": "Mushroom City/After City/Boxes",
+				"name": "After City Boxes"
+          	},
+			{
+            	"ref": "Mushroom City/Ramp/Box 1",
+				"name": "Ramp Box 1"
+          	},
+			{
+            	"ref": "Mushroom City/Ramp/Box 2",
+				"name": "Ramp Box 2"
+          	},
+			{
+            	"ref": "Mushroom City/Ramp/Box 3",
+				"name": "Ramp Box 3"
+          	},
+			{
+            	"ref": "Mushroom City/Ramp/Boxes",
+				"name": "Ramp Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -160,7 +396,131 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterYoshiCircuitTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "Yoshi Circuit/First Shortcut/Arc Shortcut",
+				"name": "Arc Shortcut"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Second Shortcut/Tunnel Shortcut",
+				"name": "Tunnel Shortcut"
+          	},
+			{
+            	"ref": "Yoshi Circuit/First Turn/Box 1",
+				"name": "First Turn Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/First Turn/Box 2",
+				"name": "First Turn Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/First Turn/Box 3",
+				"name": "First Turn Box 3"
+          	},
+			{
+            	"ref": "Yoshi Circuit/First Turn/Box 4",
+				"name": "First Turn Box 4"
+          	},
+			{
+            	"ref": "Yoshi Circuit/First Turn/Boxes",
+				"name": "First Turn Boxes"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before Tunnel/Box 1",
+				"name": "Before Tunnel Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before Tunnel/Box 2",
+				"name": "Before Tunnel Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before Tunnel/Box 3",
+				"name": "Before Tunnel Box 3"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before Tunnel/Box 4",
+				"name": "Before Tunnel Box 4"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before Tunnel/Boxes",
+				"name": "Before Tunnel Boxes"
+          	},
+			{
+            	"ref": "Yoshi Circuit/After Tunnel/Box 1",
+				"name": "After Tunnel Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/After Tunnel/Box 2",
+				"name": "After Tunnel Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/After Tunnel/Box 3",
+				"name": "After Tunnel Box 3"
+          	},
+			{
+            	"ref": "Yoshi Circuit/After Tunnel/Box 4",
+				"name": "After Tunnel Box 4"
+          	},
+			{
+            	"ref": "Yoshi Circuit/After Tunnel/Boxes",
+				"name": "After Tunnel Boxes"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before U-turn/Box 1",
+				"name": "Before U-turn Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before U-turn/Box 2",
+				"name": "Before U-turn Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before U-turn/Box 3",
+				"name": "Before U-turn Box 3"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before U-turn/Box 4",
+				"name": "Before U-turn Box 4"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Before U-turn/Boxes",
+				"name": "Before U-turn Boxes"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Tunnel Shortcut/Box 1",
+				"name": "Tunnel Shortcut Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Tunnel Shortcut/Box 2",
+				"name": "Tunnel Shortcut Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Tunnel Shortcut/Boxes",
+				"name": "Tunnel Shortcut Boxes"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Box 1",
+				"name": "Last Straight Box 1"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Box 2",
+				"name": "Last Straight Box 2"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Box 3",
+				"name": "Last Straight Box 3"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Box 4",
+				"name": "Last Straight Box 4"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Box 5",
+				"name": "Last Straight Box 5"
+          	},
+			{
+            	"ref": "Yoshi Circuit/Last Straight/Boxes",
+				"name": "Last Straight Boxes"
+          	}
 		],
 		"map_locations": [
 			{
@@ -198,7 +558,99 @@
 				"visibility_rules": ["$StaffTimeTrialSetting"],
 				"access_rules": ["$canEnterDKMountainTimeTrial,^$staffTimeTrial"],
 				"name": "Defeat Staff Ghost"
-			}
+			},
+			{
+            	"ref": "DK Mountain/Shortcut/Hairpin Turn Shortcut",
+				"name": "Hairpin Turn Shortcut"
+          	},
+			{
+            	"ref": "DK Mountain/After Cannon/Box",
+				"name": "After Cannon Box"
+          	},
+			{
+            	"ref": "DK Mountain/Start/Box 1",
+				"name": "Start Box 1"
+          	},
+			{
+            	"ref": "DK Mountain/Start/Box 2",
+				"name": "Start Box 2"
+          	},
+			{
+            	"ref": "DK Mountain/Start/Box 3",
+				"name": "Start Box 3"
+          	},
+			{
+            	"ref": "DK Mountain/Start/Box 4",
+				"name": "Start Box 4"
+          	},
+			{
+            	"ref": "DK Mountain/Start/Boxes",
+				"name": "Start Boxes"
+          	},
+			{
+            	"ref": "DK Mountain/Mountain Top/Box 1",
+				"name": "Mountain Top Box 1"
+          	},
+			{
+            	"ref": "DK Mountain/Mountain Top/Box 2",
+				"name": "Mountain Top Box 2"
+          	},
+			{
+            	"ref": "DK Mountain/Mountain Top/Box 3",
+				"name": "Mountain Top Box 3"
+          	},
+			{
+            	"ref": "DK Mountain/Mountain Top/Box 4",
+				"name": "Mountain Top Box 4"
+          	},
+			{
+            	"ref": "DK Mountain/Mountain Top/Boxes",
+				"name": "Mountain Top Boxes"
+          	},
+			{
+            	"ref": "DK Mountain/Cliff U-turn/Box 1",
+				"name": "Cliff U-turn Box 1"
+          	},
+			{
+            	"ref": "DK Mountain/Cliff U-turn/Box 2",
+				"name": "Cliff U-turn Box 2"
+          	},
+			{
+            	"ref": "DK Mountain/Cliff U-turn/Box 3",
+				"name": "Cliff U-turn Box 3"
+          	},
+			{
+            	"ref": "DK Mountain/Cliff U-turn/Box 4",
+				"name": "Cliff U-turn Box 4"
+          	},
+			{
+            	"ref": "DK Mountain/Cliff U-turn/Boxes",
+				"name": "Cliff U-turn Boxes"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Box 1",
+				"name": "Hairpin Turn Box 1"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Box 2",
+				"name": "Hairpin Turn Box 2"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Box 3",
+				"name": "Hairpin Turn Box 3"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Box 4",
+				"name": "Hairpin Turn Box 4"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Box 5",
+				"name": "Hairpin Turn Box 5"
+          	},
+			{
+            	"ref": "DK Mountain/Hairpin Turn/Boxes",
+				"name": "Hairpin Turn Boxes"
+          	}
 		],
 		"map_locations": [
 			{
