@@ -2,121 +2,121 @@
 	{
 		"name": "Mario",
 		"type": "toggle",
-		"img": "/images/characters/mario.png",
+		"img": "/images/characters/mario_48.png",
 		"codes": "mario"
 	},
 	{
 		"name": "Luigi",
 		"type": "toggle",
-		"img": "/images/characters/luigi.png",
+		"img": "/images/characters/luigi_48.png",
 		"codes": "luigi"
 	},
 	{
 		"name": "Peach",
 		"type": "toggle",
-		"img": "/images/characters/peach.png",
+		"img": "/images/characters/peach_48.png",
 		"codes": "peach"
 	},
 	{
 		"name": "Daisy",
 		"type": "toggle",
-		"img": "/images/characters/daisy.png",
+		"img": "/images/characters/daisy_48.png",
 		"codes": "daisy"
 	},
 	{
 		"name": "Yoshi",
 		"type": "toggle",
-		"img": "/images/characters/yoshi.png",
+		"img": "/images/characters/yoshi_48.png",
 		"codes": "yoshi"
 	},
 	{
 		"name": "Birdo",
 		"type": "toggle",
-		"img": "/images/characters/birdo.png",
+		"img": "/images/characters/birdo_48.png",
 		"codes": "birdo"
 	},
 	{
 		"name": "Baby Mario",
 		"type": "toggle",
-		"img": "/images/characters/baby_mario.png",
+		"img": "/images/characters/babymario_48.png",
 		"codes": "babymario"
 	},
 	{
 		"name": "Luigi",
 		"type": "toggle",
-		"img": "/images/characters/baby_luigi.png",
+		"img": "/images/characters/babyluigi_48.png",
 		"codes": "babyluigi"
 	},
 	{
 		"name": "Toad",
 		"type": "toggle",
-		"img": "/images/characters/toad.png",
+		"img": "/images/characters/toad_48.png",
 		"codes": "toad"
 	},
 	{
 		"name": "Toadette",
 		"type": "toggle",
-		"img": "/images/characters/toadette.png",
+		"img": "/images/characters/toadette_48.png",
 		"codes": "toadette"
 	},
 	{
 		"name": "Koopa",
 		"type": "toggle",
-		"img": "/images/characters/koopa.png",
+		"img": "/images/characters/koopa_48.png",
 		"codes": "koopa"
 	},
 	{
 		"name": "Paratroopa",
 		"type": "toggle",
-		"img": "/images/characters/paratroopa.png",
+		"img": "/images/characters/paratroopa_48.png",
 		"codes": "paratroopa"
 	},
 	{
 		"name": "Donkey Kong",
 		"type": "toggle",
-		"img": "/images/characters/donkeykong.png",
+		"img": "/images/characters/donkeykong_48.png",
 		"codes": "donkeykong"
 	},
 	{
 		"name": "Diddy Kong",
 		"type": "toggle",
-		"img": "/images/characters/diddykong.png",
+		"img": "/images/characters/diddykong_48.png",
 		"codes": "diddykong"
 	},
 	{
 		"name": "Bowser",
 		"type": "toggle",
-		"img": "/images/characters/bowser.png",
+		"img": "/images/characters/bowser_48.png",
 		"codes": "bowser"
 	},
 	{
 		"name": "Bowser Jr.",
 		"type": "toggle",
-		"img": "/images/characters/bowserjr.png",
+		"img": "/images/characters/bowserjr_48.png",
 		"codes": "bowserjr."
 	},
 	{
 		"name": "Wario",
 		"type": "toggle",
-		"img": "/images/characters/wario.png",
+		"img": "/images/characters/wario_48.png",
 		"codes": "wario"
 	},
 	{
 		"name": "Waluigi",
 		"type": "toggle",
-		"img": "/images/characters/waluigi.png",
+		"img": "/images/characters/waluigi_48.png",
 		"codes": "waluigi"
 	},
 	{
 		"name": "Petey Piranha",
 		"type": "toggle",
-		"img": "/images/characters/petey_piranha.png",
+		"img": "/images/characters/peteypiranha_48.png",
 		"codes": "peteypiranha"
 	},
 	{
 		"name": "King Boo",
 		"type": "toggle",
-		"img": "/images/characters/kingboo.png",
+		"img": "/images/characters/kingboo_48.png",
 		"codes": "kingboo"
 	}
 ]

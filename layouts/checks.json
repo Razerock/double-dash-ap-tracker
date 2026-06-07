@@ -32,7 +32,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"babymario"
+										"mario"
 									]
 								]
 							},
@@ -44,11 +44,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforbabymario",
-										"starforbabymario"
+										"mushroomformario",
+										"starformario"
 									],
 									[
-										"chainchompforbabymario"
+										"chainchompformario"
 									]
 								]
 							},
@@ -60,7 +60,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"babyluigi"
+										"peach"
 									]
 								]
 							},
@@ -72,39 +72,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforbabyluigi",
-										"starforbabyluigi"
+										"mushroomforpeach",
+										"starforpeach"
 									],
 									[
-										"chainchompforbabyluigi"
-									]
-								]
-							},
-							{
-								"type": "itemgrid",
-								"margin": "16,0,0,0",
-								"item_margin": "0, 0",
-								"h_alignment": "left",
-								"item_size": "48,48",
-								"rows": [
-									[
-										"diddykong"
-									]
-								]
-							},
-							{
-								"type": "itemgrid",
-								"margin": "0,0,0,0",
-								"item_margin": "2,2",
-								"h_alignment": "left",
-								"item_size": "22,22",
-								"rows": [
-									[
-										"mushroomfordiddykong",
-										"starfordiddykong"
-									],
-									[
-										"chainchompfordiddykong"
+										"chainchompforpeach"
 									]
 								]
 							},
@@ -133,6 +105,34 @@
 									],
 									[
 										"chainchompforyoshi"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "16,0,0,0",
+								"item_margin": "0, 0",
+								"h_alignment": "left",
+								"item_size": "48,48",
+								"rows": [
+									[
+										"babymario"
+									]
+								]
+							},
+							{
+								"type": "itemgrid",
+								"margin": "0,0,0,0",
+								"item_margin": "2,2",
+								"h_alignment": "left",
+								"item_size": "22,22",
+								"rows": [
+									[
+										"mushroomforbabymario",
+										"starforbabymario"
+									],
+									[
+										"chainchompforbabymario"
 									]
 								]
 							},
@@ -179,7 +179,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"luigi"
 									]
 								]
 							},
@@ -191,11 +191,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforluigi",
+										"starforluigi"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforluigi"
 									]
 								]
 							},
@@ -207,7 +207,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"daisy"
 									]
 								]
 							},
@@ -219,11 +219,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomfordaisy",
+										"starfordaisy"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompfordaisy"
 									]
 								]
 							},
@@ -235,7 +235,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"birdo"
 									]
 								]
 							},
@@ -247,11 +247,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforbirdo",
+										"starforbirdo"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforbirdo"
 									]
 								]
 							},
@@ -263,7 +263,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"babyluigi"
 									]
 								]
 							},
@@ -275,11 +275,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforbabyluigi",
+										"starforbabyluigi"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforbabyluigi"
 									]
 								]
 							},
@@ -291,7 +291,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"toadette"
 									]
 								]
 							},
@@ -303,14 +303,15 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomfortoadette",
+										"starfortoadette"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompfortoadette"
 									]
 								]
 							}
+
 						]
 					},
 					{
@@ -326,7 +327,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"koopa"
 									]
 								]
 							},
@@ -338,11 +339,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforkoopa",
+										"starforkoopa"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforkoopa"
 									]
 								]
 							},
@@ -354,7 +355,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"donkeykong"
 									]
 								]
 							},
@@ -366,11 +367,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomfordonkeykong",
+										"starfordonkeykong"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompfordonkeykong"
 									]
 								]
 							},
@@ -382,7 +383,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"bowser"
 									]
 								]
 							},
@@ -394,11 +395,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforbowser",
+										"starforbowser"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforbowser"
 									]
 								]
 							},
@@ -410,7 +411,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"wario"
 									]
 								]
 							},
@@ -422,11 +423,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforwario",
+										"starforwario"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforwario"
 									]
 								]
 							},
@@ -438,7 +439,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"kingboo"
 									]
 								]
 							},
@@ -450,11 +451,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforkingboo",
+										"starforkingboo"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforkingboo"
 									]
 								]
 							}
@@ -473,7 +474,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"paratroopa"
 									]
 								]
 							},
@@ -485,11 +486,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforparatroopa",
+										"starforparatroopa"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforparatroopa"
 									]
 								]
 							},
@@ -501,7 +502,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"diddykong"
 									]
 								]
 							},
@@ -513,11 +514,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomfordiddykong",
+										"starfordiddykong"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompfordiddykong"
 									]
 								]
 							},
@@ -529,7 +530,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"bowserjr."
 									]
 								]
 							},
@@ -541,11 +542,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforbowserjr.",
+										"starforbowserjr."
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforbowserjr."
 									]
 								]
 							},
@@ -557,7 +558,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"waluigi"
 									]
 								]
 							},
@@ -569,11 +570,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforwaluigi",
+										"starforwaluigi"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforwaluigi"
 									]
 								]
 							},
@@ -585,7 +586,7 @@
 								"item_size": "48,48",
 								"rows": [
 									[
-										"yoshi"
+										"peteypiranha"
 									]
 								]
 							},
@@ -597,11 +598,11 @@
 								"item_size": "22,22",
 								"rows": [
 									[
-										"mushroomforyoshi",
-										"starforyoshi"
+										"mushroomforpeteypiranha",
+										"starforpeteypiranha"
 									],
 									[
-										"chainchompforyoshi"
+										"chainchompforpeteypiranha"
 									]
 								]
 							}

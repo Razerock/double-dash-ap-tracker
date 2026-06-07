@@ -804,7 +804,7 @@
 		"name": "Mushroom for Koopa",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforkoopa, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforkoopa"
 	},
 	{
 		"name": "Mushroom for Donkey Kong",
