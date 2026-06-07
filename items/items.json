@@ -744,61 +744,61 @@
 		"name": "Mushroom for Mario",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomformario, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomformario"
 	},
 	{
 		"name": "Mushroom for Peach",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforpeach, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforpeach"
 	},
 	{
 		"name": "Mushroom for Yoshi",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforyoshi, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforyoshi"
 	},
 	{
 		"name": "Mushroom for Baby Mario",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforbabymario, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforbabymario"
 	},
 	{
 		"name": "Mushroom for Toad",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomfortoad, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomfortoad"
 	},
 	{
 		"name": "Mushroom for Luigi",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforluigi, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforluigi"
 	},
 	{
 		"name": "Mushroom for Daisy",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomfordaisy, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomfordaisy"
 	},
 	{
 		"name": "Mushroom for Birdo",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforbirdo, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforbirdo"
 	},
 	{
 		"name": "Mushroom for Baby Luigi",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforbabyluigi, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforbabyluigi"
 	},
 	{
 		"name": "Mushroom for Toadette",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomfortoadette, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomfortoadette"
 	},
 	{
 		"name": "Mushroom for Koopa",
@@ -810,55 +810,55 @@
 		"name": "Mushroom for Donkey Kong",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomfordonkeykong, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomfordonkeykong"
 	},
 	{
 		"name": "Mushroom for Bowser",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforbowser, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforbowser"
 	},
 	{
 		"name": "Mushroom for Wario",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforwario, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforwario"
 	},
 	{
 		"name": "Mushroom for King Boo",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforkingboo, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforkingboo"
 	},
 	{
 		"name": "Mushroom for Paratroopa",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforparatroopa, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforparatroopa"
 	},
 	{
 		"name": "Mushroom for Diddy Kong",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomfordiddykong, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomfordiddykong"
 	},
 	{
 		"name": "Mushroom for Bowser Jr.",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforbowserjr., mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforbowserjr."
 	},
 	{
 		"name": "Mushroom for Waluigi",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforwaluigi, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforwaluigi"
 	},
 	{
 		"name": "Mushroom for Petey Piranha",
 		"img": "/images/items/mushroom.png",
 		"type": "toggle",
-		"codes": "mushroomforpeteypiranha, mushroomforeverybody, triplemushroomforeverybody, goldenmushroomforeverybody, starforeverybody"
+		"codes": "mushroomforpeteypiranha"
 	},
 	{
 		"name": "Triple Mushroom",
@@ -1080,121 +1080,121 @@
 		"name": "Star for Mario",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starformario, starforeverybody"
+		"codes": "starformario"
 	},
 	{
 		"name": "Star for Peach",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforpeach, starforeverybody"
+		"codes": "starforpeach"
 	},
 	{
 		"name": "Star for Yoshi",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforyoshi, starforeverybody"
+		"codes": "starforyoshi"
 	},
 	{
 		"name": "Star for Baby Mario",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforbabymario, starforeverybody"
+		"codes": "starforbabymario"
 	},
 	{
 		"name": "Star for Toad",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starfortoad, starforeverybody"
+		"codes": "starfortoad"
 	},
 	{
 		"name": "Star for Luigi",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforluigi, starforeverybody"
+		"codes": "starforluigi"
 	},
 	{
 		"name": "Star for Daisy",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starfordaisy, starforeverybody"
+		"codes": "starfordaisy"
 	},
 	{
 		"name": "Star for Birdo",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforbirdo, starforeverybody"
+		"codes": "starforbirdo"
 	},
 	{
 		"name": "Star for Baby Luigi",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforbabyluigi, starforeverybody"
+		"codes": "starforbabyluigi"
 	},
 	{
 		"name": "Star for Toadette",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starfortoadette, starforeverybody"
+		"codes": "starfortoadette"
 	},
 	{
 		"name": "Star for Koopa",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforkoopa, starforeverybody"
+		"codes": "starforkoopa"
 	},
 	{
 		"name": "Star for Donkey Kong",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starfordonkeykong, starforeverybody"
+		"codes": "starfordonkeykong"
 	},
 	{
 		"name": "Star for Bowser",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforbowser, starforeverybody"
+		"codes": "starforbowser"
 	},
 	{
 		"name": "Star for Wario",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforwario, starforeverybody"
+		"codes": "starforwario"
 	},
 	{
 		"name": "Star for King Boo",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforkingboo, starforeverybody"
+		"codes": "starforkingboo"
 	},
 	{
 		"name": "Star for Paratroopa",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforparatroopa, starforeverybody"
+		"codes": "starforparatroopa"
 	},
 	{
 		"name": "Star for Diddy Kong",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starfordiddykong, starforeverybody"
+		"codes": "starfordiddykong"
 	},
 	{
 		"name": "Star for Bowser Jr.",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforbowserjr., starforeverybody"
+		"codes": "starforbowserjr."
 	},
 	{
 		"name": "Star for Waluigi",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforwaluigi, starforeverybody"
+		"codes": "starforwaluigi"
 	},
 	{
 		"name": "Star for Petey Piranha",
 		"img": "/images/items/star.png",
 		"type": "toggle",
-		"codes": "starforpeteypiranha, starforeverybody"
+		"codes": "starforpeteypiranha"
 	},
 	{
 		"name": "Lightning",
@@ -1521,121 +1521,121 @@
 		"name": "Chain Chomp for Mario",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompformario, chainchompforeverybody"
+		"codes": "chainchompformario"
 	},
 	{
 		"name": "Chain Chomp for Peach",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforpeach, chainchompforeverybody"
+		"codes": "chainchompforpeach"
 	},
 	{
 		"name": "Chain Chomp for Yoshi",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforyoshi, chainchompforeverybody"
+		"codes": "chainchompforyoshi"
 	},
 	{
 		"name": "Chain Chomp for Baby Mario",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforbabymario, chainchompforeverybody"
+		"codes": "chainchompforbabymario"
 	},
 	{
 		"name": "Chain Chomp for Toad",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompfortoad, chainchompforeverybody"
+		"codes": "chainchompfortoad"
 	},
 	{
 		"name": "Chain Chomp for Luigi",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforluigi, chainchompforeverybody"
+		"codes": "chainchompforluigi"
 	},
 	{
 		"name": "Chain Chomp for Daisy",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompfordaisy, chainchompforeverybody"
+		"codes": "chainchompfordaisy"
 	},
 	{
 		"name": "Chain Chomp for Birdo",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforbirdo, chainchompforeverybody"
+		"codes": "chainchompforbirdo"
 	},
 	{
 		"name": "Chain Chomp for Baby Luigi",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforbabyluigi, chainchompforeverybody"
+		"codes": "chainchompforbabyluigi"
 	},
 	{
 		"name": "Chain Chomp for Toadette",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompfortoadette, chainchompforeverybody"
+		"codes": "chainchompfortoadette"
 	},
 	{
 		"name": "Chain Chomp for Koopa",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforkoopa, chainchompforeverybody"
+		"codes": "chainchompforkoopa"
 	},
 	{
 		"name": "Chain Chomp for Donkey Kong",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompfordonkeykong, chainchompforeverybody"
+		"codes": "chainchompfordonkeykong"
 	},
 	{
 		"name": "Chain Chomp for Bowser",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforbowser, chainchompforeverybody"
+		"codes": "chainchompforbowser"
 	},
 	{
 		"name": "Chain Chomp for Wario",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforwario, chainchompforeverybody"
+		"codes": "chainchompforwario"
 	},
 	{
 		"name": "Chain Chomp for King Boo",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforkingboo, chainchompforeverybody"
+		"codes": "chainchompforkingboo"
 	},
 	{
 		"name": "Chain Chomp for Paratroopa",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforparatroopa, chainchompforeverybody"
+		"codes": "chainchompforparatroopa"
 	},
 	{
 		"name": "Chain Chomp for Diddy Kong",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompfordiddykong, chainchompforeverybody"
+		"codes": "chainchompfordiddykong"
 	},
 	{
 		"name": "Chain Chomp for Bowser Jr.",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforbowserjr., chainchompforeverybody"
+		"codes": "chainchompforbowserjr."
 	},
 	{
 		"name": "Chain Chomp for Waluigi",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforwaluigi, chainchompforeverybody"
+		"codes": "chainchompforwaluigi"
 	},
 	{
 		"name": "Chain Chomp for Petey Piranha",
 		"img": "/images/items/chain_chomp.png",
 		"type": "toggle",
-		"codes": "chainchompforpeteypiranha, chainchompforeverybody"
+		"codes": "chainchompforpeteypiranha"
 	},
 	{
 		"name": "Golden Mushroom",
