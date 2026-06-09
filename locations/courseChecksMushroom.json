@@ -363,7 +363,7 @@
 					},
 					{
 						"name": "Box 6",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Boxes",
@@ -517,7 +517,7 @@
 				"sections": [
 					{
 						"name": "Box 1",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Box 2",
@@ -811,7 +811,7 @@
 					},
 					{
 						"name": "Box 3",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Box 4",

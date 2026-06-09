@@ -758,6 +758,17 @@ function CustomItemBoxes()
 	return(add_custom_item_boxes>=1)
 end
 
+function CustomItemBoxesMove()
+	if item_boxes_as_locations==3 then
+		if add_custom_item_boxes==1 then
+			return false 
+		else
+			return true
+		end
+	else
+	end
+end
+
 function TimeTrialSetting()
 	return(timetrials>=1)
 end

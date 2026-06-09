@@ -177,7 +177,7 @@
 					},
 					{
 						"name": "Box 5",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Boxes",
@@ -429,7 +429,7 @@
 					},
 					{
 						"name": "Box 4",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Boxes",
