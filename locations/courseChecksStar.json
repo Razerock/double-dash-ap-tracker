@@ -829,7 +829,7 @@
 					},
 					{
 						"name": "Box 4",
-						"visibility_rules": ["$ItemBoxesSanity"]
+						"visibility_rules": ["$CustomItemBoxesMove"]
 					},
 					{
 						"name": "Boxes",
