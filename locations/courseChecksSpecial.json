@@ -179,10 +179,6 @@
 						"visibility_rules": ["$ItemBoxesSanity"]
 					},
 					{
-						"name": "Box 5",
-						"visibility_rules": ["$ItemBoxesSanity"]
-					},
-					{
 						"name": "Boxes",
 						"visibility_rules": ["$ItemBoxesGroups"]
 					}
