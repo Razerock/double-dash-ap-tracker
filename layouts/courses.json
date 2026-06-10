@@ -10,7 +10,7 @@
 				}
 			},
 			{
-				"title": "Bowsers Castle",
+				"title": "Bowser's Castle",
 				"content": {
 					"type": "map",
 					"maps": ["bowsers_castle_map"]
