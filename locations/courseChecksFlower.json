@@ -219,7 +219,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
