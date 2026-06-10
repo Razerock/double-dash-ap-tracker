@@ -1,6 +1,14 @@
 {
     "versions": [   
         {
+            "package_version": "1.0.5",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.5.zip",
+            "sha256": "00b2779f026e61fca000398b78a2a6cf6782179ab4cafdead6f46e9ddb9a639a",
+            "changelog": [
+                "fix wario colosseum and bowsers castle issues"
+            ]
+         },
+        {
             "package_version": "1.0.4",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.4.zip",
             "sha256": "4cfad76ef7eb790bb675177ee6bf6247ff9750f7e2fdc3963b3eeca6b66e9098",
