@@ -1,6 +1,14 @@
 {
     "versions": [   
         {
+            "package_version": "1.0.6",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.6.zip",
+            "sha256": "59aed19f44256a3beb3cc0893106a147c2b2725e70fb7348973b272b2b470be8",
+            "changelog": [
+                "fix bowsers castle autotabbing"
+            ]
+         },
+        {
             "package_version": "1.0.5",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.5.zip",
             "sha256": "00b2779f026e61fca000398b78a2a6cf6782179ab4cafdead6f46e9ddb9a639a",
