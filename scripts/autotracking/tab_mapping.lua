@@ -1,7 +1,7 @@
 TAB_MAPPING = {
     ["Menu"] = {"Overview", "Course Checks"},
     ["Baby Park"] = {"Courses", "Baby Park"},
-    ["Bowsers Castle"] = {"Courses", "Bowsers Castle"},
+    ["Bowser's Castle"] = {"Courses", "Bowser's Castle"},
     ["Daisy Cruiser"] = {"Courses", "Daisy Cruiser"},
     ["Dino Dino Jungle"] = {"Courses", "Dino Dino Jungle"},
     ["DK Mountain"] = {"Courses", "DK Mountain"},
