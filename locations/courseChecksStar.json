@@ -236,7 +236,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom"],
+						"access_rules": ["$hasMushroom","$canEnterMushroomCityTimeTrial"],
 						"name": "Bridge Shortcut"
 					}
 				],
@@ -484,7 +484,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterYoshiCircuitTimeTrial"],
 						"name": "Arc Shortcut"
 					}
 				],
@@ -501,7 +501,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterYoshiCircuitTimeTrial"],
 						"name": "Tunnel Shortcut"
 					}
 				],

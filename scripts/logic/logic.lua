@@ -522,6 +522,15 @@ function canEnterDryDryDesertTimeTrial()
 	return(has("drydrydeserttimetrial"))
 end
 
+function canEnterDryDryDesertTimeTrialWithStar()
+	if has("drydrydeserttimetrial") then
+		if progCount("progressivetimetrialitem") >= 3 then
+			return true
+		else
+		end
+	end
+end
+
 function canEnterMushroomBridgeTimeTrial()
 	return(has("mushroombridgetimetrial"))
 end

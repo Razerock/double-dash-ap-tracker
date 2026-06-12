@@ -8,7 +8,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom"],
+						"access_rules": ["$hasMushroom","$canEnterMushroomBridgeTimeTrial"],
 						"name": "Toad House Shortcut"
 					}
 				],
@@ -241,7 +241,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$hasChainChomp"],
+						"access_rules": ["$hasMushroom","$hasChainChomp","$canEnterMarioCircuitTimeTrial"],
 						"name": "Chain Chomp Shortcut"
 					}
 				],
@@ -561,7 +561,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom"],
+						"access_rules": ["$hasMushroom","$canEnterWaluigiStadiumTimeTrial"],
 						"name": "Pond Shortcut"
 					}
 				],

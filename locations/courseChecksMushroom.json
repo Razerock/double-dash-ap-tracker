@@ -567,7 +567,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasStar"],
+						"access_rules": ["$hasStar","$canEnterDryDryDesertTimeTrialWithStar"],
 						"name": "Survive Sand Pit"
 					}
 				],
@@ -584,7 +584,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom"],
+						"access_rules": ["$hasMushroom","$canEnterDryDryDesertTimeTrial"],
 						"name": "Last Sign Shortcut"
 					}
 				],

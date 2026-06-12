@@ -358,7 +358,7 @@
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts"],
+						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterDinoDinoJungleTimeTrial"],
 						"name": "Cave Shortcut"
 					}
 				],
