@@ -314,7 +314,7 @@
 			},
 			{
 				"name": "Start",
-				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box 1",
@@ -334,7 +334,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [

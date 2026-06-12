@@ -219,7 +219,7 @@
 					},
 					{
 						"name": "Boxes",
-						"visibility_rules": ["$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesGroups"]
 					}
 				],
 				"map_locations": [
@@ -575,7 +575,7 @@
 			},
 			{
 				"name": "First Jump",
-				"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"],
+				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
 					{
 						"name": "Box"
@@ -595,7 +595,7 @@
 				"sections": [
 					{
 						"name": "Box",
-						"visibility_rules": ["$ItemBoxesInteresting","$ItemBoxesSanity","$ItemBoxesGroups"]
+						"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"]
 					},
 					{
 						"name": "Box on the floor",
