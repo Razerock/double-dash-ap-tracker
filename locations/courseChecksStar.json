@@ -4,6 +4,27 @@
 		"access_rules": ["$canEnterSherbetLand"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:40",
+						"ref": "Sherbet Land Race/Beat Time Trial in 1:40"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Sherbet Land Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "sherbet_land_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -231,6 +252,27 @@
 		"name": "Mushroom City",
 		"access_rules": ["$canEnterMushroomCity"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:00",
+						"ref": "Mushroom City Race/Beat Time Trial in 2:00"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Mushroom City Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mushroom_city_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
 			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
@@ -480,6 +522,44 @@
 		"access_rules": ["$canEnterYoshiCircuit"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:15",
+						"ref": "Yoshi Circuit Race/Beat Time Trial in 2:15"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Yoshi Circuit Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshi_circuit_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Yoshi Circuit with Yoshi",
+						"ref": "Yoshi Circuit Race/Win in Yoshi Circuit with Yoshi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "yoshi_circuit_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "First Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -713,6 +793,44 @@
 		"name": "DK Mountain",
 		"access_rules": ["$canEnterDKMountain"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:20",
+						"ref": "DK Mountain Race/Beat Time Trial in 2:20"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "DK Mountain Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dk_mountain_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in DK Mountain with Donkey Kong",
+						"ref": "DK Mountain Race/Win in DK Mountain with Donkey Kong"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dk_mountain_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
 			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],

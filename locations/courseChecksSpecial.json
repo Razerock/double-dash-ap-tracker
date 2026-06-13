@@ -4,6 +4,44 @@
 		"access_rules": ["$canEnterWarioColosseum"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:35",
+						"ref": "Wario Colosseum Race/Beat Time Trial in 2:35"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Wario Colosseum Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "wario_colosseum_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Wario Colosseum with Wario",
+						"ref": "Wario Colosseum Race/Win in Wario Colosseum with Wario"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "wario_colosseum_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "First Jump",
 				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -338,6 +376,27 @@
 		"access_rules": ["$canEnterDinoDinoJungle"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:20",
+						"ref": "Dino Dino Jungle Race/Beat Time Trial in 2:20"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Dino Dino Jungle Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dino_dino_jungle_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
 				"name": "First Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -605,6 +664,44 @@
 		"access_rules": ["$canEnterBowsersCastle"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 3:05",
+						"ref": "Bowser's Castle Race/Beat Time Trial in 3:05"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Bowser's Castle Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsers_castle_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Bowser's Castle with Bowser",
+						"ref": "Bowser's Castle Race/Win in Bowser's Castle with Bowser"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "bowsers_castle_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -850,6 +947,27 @@
 		"name": "Rainbow Road",
 		"access_rules": ["$canEnterRainbowRoad"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 3:30",
+						"ref": "Rainbow Road Race/Beat Time Trial in 3:30"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Rainbow Road Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "rainbow_road_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
 			{
 				"name": "Under Jump",
 				"visibility_rules": ["$CustomItemBoxes"],

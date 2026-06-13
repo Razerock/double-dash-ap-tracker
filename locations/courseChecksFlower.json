@@ -4,6 +4,27 @@
 		"access_rules": ["$canEnterMushroomBridge"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:40",
+						"ref": "Mushroom Bridge Race/Beat Time Trial in 1:40"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Mushroom Bridge Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mushroom_bridge_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -237,6 +258,44 @@
 		"access_rules": ["$canEnterMarioCircuit"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:55",
+						"ref": "Mario Circuit Race/Beat Time Trial in 1:55"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Mario Circuit Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mario_circuit_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Mario Circuit with Mario",
+						"ref": "Mario Circuit Race/Win in Mario Circuit with Mario"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "mario_circuit_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
@@ -370,6 +429,44 @@
 		"name": "Daisy Cruiser",
 		"access_rules": ["$canEnterDaisyCruiser"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:05",
+						"ref": "Daisy Cruiser Race/Beat Time Trial in 2:05"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Daisy Cruiser Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "daisy_cruiser_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Daisy Cruiser with Daisy",
+						"ref": "Daisy Cruiser Race/Win in Daisy Cruiser with Daisy"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "daisy_cruiser_map",
+						"size": 24,
+						"x": 345,
+						"y": 171
+					}
+				]
+			},
 			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
@@ -556,6 +653,44 @@
 		"name": "Waluigi Stadium",
 		"access_rules": ["$canEnterWaluigiStadium"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:10",
+						"ref": "Waluigi Stadium Race/Beat Time Trial in 2:10"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Waluigi Stadium Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "waluigi_stadium_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Waluigi Stadium with Waluigi",
+						"ref": "Waluigi Stadium Race/Win in Waluigi Stadium with Waluigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "waluigi_stadium_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
 			{
 				"name": "Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],

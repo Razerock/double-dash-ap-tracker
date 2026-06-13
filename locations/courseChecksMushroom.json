@@ -4,6 +4,44 @@
 		"access_rules": ["$canEnterLuigiCircuit"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:35",
+						"ref": "Luigi Circuit Race/Beat Time Trial in 1:35"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Luigi Circuit Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigi_circuit_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Luigi Circuit with Luigi",
+						"ref": "Luigi Circuit Race/Win in Luigi Circuit with Luigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "luigi_circuit_map",
+						"size": 24,
+						"x": 687,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "First U-turn",
 				"visibility_rules": ["$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -244,6 +282,44 @@
 		"access_rules": ["$canEnterPeachBeach"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:30",
+						"ref": "Peach Beach Race/Beat Time Trial in 1:30"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Peach Beach Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "peach_beach_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Peach Beach with Peach",
+						"ref": "Peach Beach Race/Win in Peach Beach with Peach"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "peach_beach_map",
+						"size": 24,
+						"x": 697,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "Hidden Pipe",
 				"visibility_rules": ["$ItemBoxesInteresting", "$ItemBoxesSanity","$ItemBoxesGroups"],
 				"sections": [
@@ -451,6 +527,44 @@
 		"access_rules": ["$canEnterBabyPark"],
 		"children": [
 			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 1:20",
+						"ref": "Baby Park Race/Beat Time Trial in 1:20"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Baby Park Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "baby_park_map",
+						"size": 24,
+						"x": 520,
+						"y": 180
+					}
+				]
+			},
+			{
+				"name": "Driver Check",
+				"sections": [
+					{
+						"name": "Win in Baby Park with Baby Mario and Baby Luigi",
+						"ref": "Baby Park Race/Win in Baby Park with Baby Mario and Baby Luigi"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "baby_park_map",
+						"size": 24,
+						"x": 667,
+						"y": 367
+					}
+				]
+			},
+			{
 				"name": "Outer Edge",
 				"visibility_rules": ["$CustomItemBoxes"],
 				"sections": [
@@ -562,6 +676,27 @@
 		"name": "Dry Dry Desert",
 		"access_rules": ["$canEnterDryDryDesert"],
 		"children": [
+			{
+				"name": "Time Trials",
+				"sections": [
+					{
+						"name": "Beat Time Trial in 2:00",
+						"ref": "Dry Dry Desert Race/Beat Time Trial in 2:00"
+					},
+					{
+						"name": "Defeat Staff Ghost",
+						"ref": "Dry Dry Desert Race/Defeat Staff Ghost"
+					}
+				],
+				"map_locations": [
+					{
+						"map": "dry_dry_desert_map",
+						"size": 24,
+						"x": 570,
+						"y": 180
+					}
+				]
+			},
 			{
 				"name": "First Shortcut",
 				"visibility_rules": ["$ShortcutChecks"],
