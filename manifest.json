@@ -1,16 +1,16 @@
 {
     "name": "Mario Kart Double Dash Archipelago",
     "game_name": "Mario Kart Double Dash",
-    "package_version": "1.0.7",
+    "package_version": "1.0.8",
     "package_uid": "mario-kart-double-dash-ap",
     "author": "Raze",
     "variants": {
         "trackerMain": {
-            "display_name": "Unlock Tracker - Horizontal",
+            "display_name": "Tracker - Horizontal",
             "flags": ["ap"]
         },
         "trackerVertical": {
-            "display_name": "Unlock Tracker - Vertical",
+            "display_name": "Tracker - Vertical",
             "flags": ["ap"]
         }
     },
