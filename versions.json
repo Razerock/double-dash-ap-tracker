@@ -1,6 +1,14 @@
 {
     "versions": [   
         {
+            "package_version": "1.0.8",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.8.zip",
+            "sha256": "cced4037a63d9c0c0d6a8568c73f38ded78fea4df1601263a6f0c8ca797283d4",
+            "changelog": [
+                "fix trophy tracking"
+            ]
+         },
+        {
             "package_version": "1.0.7",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.7.zip",
             "sha256": "39bec51b0d57c44900b7eac738401830a5500c22704a754d19d1c6ce1d868274",
