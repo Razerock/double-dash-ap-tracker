@@ -5,7 +5,7 @@
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.9.zip",
             "sha256": "c42ceba5be8e3c91e17eca7362b168782b45458b5fee4739c8d3e027b61e54dc",
             "changelog": [
-                ""
+                "fix shortcut option"
             ]
          },
         {
