@@ -90,7 +90,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Mushroom Bridge/Shortcut/Toad House Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$mushroomBridgeShortcut"],
 				"name": "Toad House Shortcut"
           	},
 			{
@@ -228,7 +229,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Mario Circuit/Shortcut/Chain Chomp Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$marioCircuitShortcut"],
 				"name": "Chain Chomp Shortcut"
           	},
 			{
@@ -342,7 +344,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Daisy Cruiser/Shortcut/Pool Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$daisyCruiserShortcut"],
 				"name": "Pool Shortcut"
           	},
 			{
@@ -484,9 +487,10 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Waluigi Stadium/Shortcut/Pond Shortcut",
+				"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$waluigiShortcut"],
 				"name": "Pond Shortcut"
-          	},
+			},
 			{
             	"ref": "Waluigi Stadium/First Jump/Box",
 				"name": "First Jump Box"

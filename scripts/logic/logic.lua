@@ -778,6 +778,119 @@ function CustomItemBoxesMove()
 	end
 end
 
+--Shortcut Logic
+function waluigiStadiumShortcut()
+	if canEnterWaluigiStadiumTimeTrial() then
+		return true
+	elseif canEnterWaluigiStadium() and hasMushroom() then
+		return true
+	end
+end
+
+function daisyCruiserShortcut()
+	if canEnterDaisyCruiserTimeTrial() then
+		return true
+	elseif canEnterDaisyCruiser() then
+		return true
+	end
+end
+
+function marioCircuitShortcut()
+	if canEnterMarioCircuitTimeTrial() then
+		return true
+	elseif canEnterMarioCircuit() and (hasMushroom() or hasChainChomp()) then
+		return true
+	end
+end
+
+function dryDryDesertSandpit()
+	if canEnterDryDryDesert() and hasStar() then
+		return true
+	end
+end
+
+function dryDryDesertShortcut()
+	if canEnterDryDryDesertTimeTrial() then
+		return true
+	elseif canEnterDryDryDesert() and hasMushroom() then
+		return true
+	end
+end
+
+function sherbertLandShortcut()
+	if canEnterSherbetLandTimeTrial() then
+		return true
+	elseif canEnterSherbetLand() and hasMushroom() then
+		return true
+	end
+end
+
+function sherbertLandShortcut()
+	if canEnterSherbetLandTimeTrial() then
+		return true
+	elseif canEnterSherbetLand() then
+		return true
+	end
+end
+
+function mushroomCityShortcut()
+	if canEnterMushroomCityTimeTrial() then
+		return true
+	elseif canEnterMushroomCity() and hasMushroom() then
+		return true
+	end
+end
+
+function yoshiCircuitFirstShortcut()
+	if canEnterYoshiCircuitTimeTrial() then
+		return true
+	elseif canEnterYoshiCircuit() and (hasMushroom() or hasChainChomp()) then
+		return true
+	end
+end
+
+function yoshiCircuitSecondShortcut()
+	if canEnterYoshiCircuitTimeTrial() then
+		return true
+	elseif canEnterYoshiCircuit() and (hasMushroom() or hasChainChomp()) then
+		return true
+	end
+end
+
+function DKMountainShortcut()
+	if canEnterDKMountainTimeTrial() then
+		return true
+	elseif canEnterDKMountain() then
+		return true
+	end
+end
+
+function dinoDinoJungleFirstShortcut()
+	if canEnterDinoDinoJungleTimeTrial() then
+		return true
+	elseif canEnterDinoDinoJungle() then
+		return true
+	end
+end
+
+function dinoDinoJungleSecondShortcut()
+	if canEnterDinoDinoJungleTimeTrial() then
+		return true
+	elseif canEnterDinoDinoJungle() and (hasMushroom() or hasChainChomp()) then
+		return true
+	end
+end
+
+function bowsersCastleShortcut()
+	if canEnterBowsersCastleTimeTrial() then
+		return true
+	elseif canEnterBowsersCastle() then
+		return true
+	end
+end
+
+
+
 function TimeTrialSetting()
 	return(timetrials>=1)
 end
@@ -791,7 +904,7 @@ function ShortcutChecks()
 end
 
 function hasMushroom()
-	if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+	if has("mushroomforeverybody") or has("triplemushroomforeverybody") or has("goldenmushroomforeverybody") or has("starforeverybody") then
 		return true
 	else
 		for i, driver in pairs(all_drivers) do
@@ -804,7 +917,7 @@ function hasMushroom()
 end
 
 function hasStar()
-	if has("starforeveryone") then
+	if has("starforeverybody") then
 		return true
 	else
 		for i, driver in pairs(all_drivers) do
@@ -817,7 +930,7 @@ function hasStar()
 end
 
 function hasChainChomp()
-	if has("chainchompforeveryone") then
+	if has("chainchompforeverybody") then
 		return true
 	else
 		for i, driver in pairs(all_drivers) do
@@ -831,26 +944,12 @@ end
 
 function hasNotSlowKarts()
 	if has("100cc_class") or has("150cc_class") or has("mirror_class") then
-		if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+		if hasMushroom() then
 			return true
-		else
-			for i, driver in pairs(all_drivers) do
-				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(goldenmushroomitem[i]) or has(staritem[i])) then
-					return true
-				else
-				end
-			end
 		end
 	elseif faster_50cc_100cc>=1 then
-		if has("mushroomforeveryone") or has("triplemushroomforeveryone") or has("goldenmushroomforeveryone") or has("starforeveryone") then
+		if hasMushroom() then
 			return true
-		else
-			for i, driver in pairs(all_drivers) do
-				if has(all_drivers[i]) and (has(mushroomitem[i]) or has(triplemushroomitem[i]) or has(goldenmushroomitem[i]) or has(staritem[i])) then
-					return true
-				else
-				end
-			end
 		end
 	end
 end

@@ -528,11 +528,13 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Dry Dry Desert/First Shortcut/Survive Sand Pit",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$dryDryDesertSandpit"],
 				"name": "Survive Sand Pit"
           	},
 			{
-            	"ref": "Dry Dry Desert/Second Shortcut/Last Sign Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$dryDryDesertShortcut"],
 				"name": "Last Sign Shortcut"
           	},
 			{

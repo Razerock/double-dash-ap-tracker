@@ -308,11 +308,13 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Dino Dino Jungle/First Shortcut/Bridge Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$dinoDinoJungleFirstShortcut"],
 				"name": "Bridge Shortcut"
           	},
 			{
-            	"ref": "Dino Dino Jungle/Second Shortcut/Cave Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$dinoDinoJungleSecondShortcut"],
 				"name": "Cave Shortcut"
           	},
 			{
@@ -478,7 +480,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Bowsers Castle/Shortcut/Cannon Room Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$bowsersCastleShortcut"],
 				"name": "Cannon Room Shortcut"
           	},
 			{

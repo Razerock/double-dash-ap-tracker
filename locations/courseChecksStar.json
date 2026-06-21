@@ -26,9 +26,9 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
+						"ref": "Sherbet Land Race/Last Turn Shortcut",
 						"name": "Last Turn Shortcut"
 					}
 				],
@@ -275,10 +275,9 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$canEnterMushroomCityTimeTrial"],
+						"ref": "Mushroom City Race/Bridge Shortcut",
 						"name": "Bridge Shortcut"
 					}
 				],
@@ -561,10 +560,9 @@
 			},
 			{
 				"name": "First Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterYoshiCircuitTimeTrial"],
+						"ref": "Yoshi Circuit Race/Arc Shortcut",
 						"name": "Arc Shortcut"
 					}
 				],
@@ -578,10 +576,9 @@
 			},
 			{
 				"name": "Second Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterYoshiCircuitTimeTrial"],
+						"ref": "Yoshi Circuit Race/Tunnel Shortcut",
 						"name": "Tunnel Shortcut"
 					}
 				],
@@ -833,9 +830,9 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
+						"ref": "DK Mountain Race/Hairpin Turn Shortcut",
 						"name": "Hairpin Turn Shortcut"
 					}
 				],

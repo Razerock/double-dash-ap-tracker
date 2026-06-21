@@ -26,11 +26,11 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$canEnterMushroomBridgeTimeTrial"],
-						"name": "Toad House Shortcut"
+						"name": "Toad House Shortcut",
+						"ref": "Mushroom Bridge Race/Toad House Shortcut"
+
 					}
 				],
 				"map_locations": [
@@ -297,11 +297,10 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$hasChainChomp","$canEnterMarioCircuitTimeTrial"],
-						"name": "Chain Chomp Shortcut"
+						"name": "Chain Chomp Shortcut",
+						"ref": "Mario Circuit Race/Chain Chomp Shortcut"
 					}
 				],
 				"map_locations": [
@@ -469,10 +468,10 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"name": "Pool Shortcut"
+						"name": "Pool Shortcut",
+						"ref": "Daisy Cruiser Race/Pool Shortcut"
 					}
 				],
 				"map_locations": [
@@ -693,11 +692,10 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$canEnterWaluigiStadiumTimeTrial"],
-						"name": "Pond Shortcut"
+						"name": "Pond Shortcut",
+						"ref": "Waluigi Stadium Race/Pond Shortcut"
 					}
 				],
 				"map_locations": [

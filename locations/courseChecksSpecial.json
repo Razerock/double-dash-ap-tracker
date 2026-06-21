@@ -398,9 +398,9 @@
 			},
 			{
 				"name": "First Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
+						"ref": "Dino Dino Jungle Race/Bridge Shortcut",
 						"name": "Bridge Shortcut"
 					}
 				],
@@ -414,10 +414,9 @@
 			},
 			{
 				"name": "Second Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasChainChomp","$hasNotSlowKarts","$canEnterDinoDinoJungleTimeTrial"],
+						"ref": "Dino Dino Jungle Race/Cave Shortcut",
 						"name": "Cave Shortcut"
 					}
 				],

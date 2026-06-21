@@ -90,7 +90,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Sherbet Land/Shortcut/Last Turn Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$sherbertLandShortcut"],
 				"name": "Last Turn Shortcut"
           	},
 			{
@@ -244,7 +245,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Mushroom City/Shortcut/Bridge Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$mushroomCityShortcut"],
 				"name": "Bridge Shortcut"
           	},
 			{
@@ -398,11 +400,13 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "Yoshi Circuit/First Shortcut/Arc Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$yoshiCircuitFirstShortcut"],
 				"name": "Arc Shortcut"
           	},
 			{
-            	"ref": "Yoshi Circuit/Second Shortcut/Tunnel Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$yoshiCircuitSecondShortcut"],
 				"name": "Tunnel Shortcut"
           	},
 			{
@@ -560,7 +564,8 @@
 				"name": "Defeat Staff Ghost"
 			},
 			{
-            	"ref": "DK Mountain/Shortcut/Hairpin Turn Shortcut",
+            	"visibility_rules": ["$ShortcutChecks"],
+				"access_rules": ["$DKMountainShortcut"],
 				"name": "Hairpin Turn Shortcut"
           	},
 			{

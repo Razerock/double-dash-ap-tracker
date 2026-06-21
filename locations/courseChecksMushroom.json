@@ -699,10 +699,9 @@
 			},
 			{
 				"name": "First Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasStar","$canEnterDryDryDesertTimeTrialWithStar"],
+						"ref": "Dry Dry Desert Race/Survive Sand Pit",
 						"name": "Survive Sand Pit"
 					}
 				],
@@ -716,10 +715,9 @@
 			},
 			{
 				"name": "Second Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom","$canEnterDryDryDesertTimeTrial"],
+						"ref": "Dry Dry Desert Race/Last Sign Shortcut",
 						"name": "Last Sign Shortcut"
 					}
 				],
