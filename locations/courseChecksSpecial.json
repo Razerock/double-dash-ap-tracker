@@ -702,10 +702,9 @@
 			},
 			{
 				"name": "Shortcut",
-				"visibility_rules": ["$ShortcutChecks"],
 				"sections": [
 					{
-						"access_rules": ["$hasMushroom"],
+						"ref": "Bowsers Castle Race/Cannon Room Shortcut",
 						"name": "Cannon Room Shortcut"
 					}
 				],
