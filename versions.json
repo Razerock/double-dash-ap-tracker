@@ -1,6 +1,14 @@
 {
     "versions": [   
         {
+            "package_version": "1.0.10",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.10.zip",
+            "sha256": "1687799337f6ac4d7da062345b0f4599613ee45eda8e54b74e5b0754fb98d715",
+            "changelog": [
+                "fix time trials + shortcuts"
+            ]
+         },
+        {
             "package_version": "1.0.9",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.9.zip",
             "sha256": "c42ceba5be8e3c91e17eca7362b168782b45458b5fee4739c8d3e027b61e54dc",
