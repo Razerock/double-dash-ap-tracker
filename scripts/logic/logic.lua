@@ -523,11 +523,8 @@ function canEnterDryDryDesertTimeTrial()
 end
 
 function canEnterDryDryDesertTimeTrialWithStar()
-	if has("drydrydeserttimetrial") then
-		if progCount("progressivetimetrialitem") >= 3 then
-			return true
-		else
-		end
+	if has("drydrydeserttimetrial") and progCount("progressivetimetrialitem") >= 3 then
+		return true
 	else
 	end
 end
@@ -805,9 +802,9 @@ function marioCircuitShortcut()
 end
 
 function dryDryDesertSandpit()
-	if canEnterDryDryDesert() and hasStar() then
+	if canEnterDryDryDesertTimeTrialWithStar() then
 		return true
-	elseif canEnterDryDryDesertTimeTrialWithStar() then
+	elseif canEnterDryDryDesert() and hasStar() then
 		return true
 	end
 end
