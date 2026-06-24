@@ -806,6 +806,8 @@ end
 function dryDryDesertSandpit()
 	if canEnterDryDryDesert() and hasStar() then
 		return true
+	elseif canEnterDryDryDesertTimeTrialWithStar() then
+		return true
 	end
 end
 
