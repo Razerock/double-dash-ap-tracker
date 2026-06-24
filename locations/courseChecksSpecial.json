@@ -659,7 +659,7 @@
 		]
 	},
 	{
-		"name": "Bowsers Castle",
+		"name": "Bowser's Castle",
 		"access_rules": ["$canEnterBowsersCastle"],
 		"children": [
 			{
@@ -704,7 +704,7 @@
 				"name": "Shortcut",
 				"sections": [
 					{
-						"ref": "Bowsers Castle Race/Cannon Room Shortcut",
+						"ref": "Bowser's Castle Race/Cannon Room Shortcut",
 						"name": "Cannon Room Shortcut"
 					}
 				],
