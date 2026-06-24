@@ -528,6 +528,7 @@ function canEnterDryDryDesertTimeTrialWithStar()
 			return true
 		else
 		end
+	else
 	end
 end
 
