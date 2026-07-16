@@ -488,7 +488,7 @@
 			},
 			{
 				"visibility_rules": ["$ShortcutChecks"],
-				"access_rules": ["$waluigiShortcut"],
+				"access_rules": ["$waluigiStadiumShortcut"],
 				"name": "Pond Shortcut"
 			},
 			{
