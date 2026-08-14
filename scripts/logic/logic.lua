@@ -777,6 +777,14 @@ function CustomItemBoxesMove()
 end
 
 --Shortcut Logic
+function mushroomBridgeShortcut()
+	if canEnterMushroomBridgeTimeTrial() then
+		return true
+	elseif canEnterMushroomBridge() and hasMushroom() then
+		return true
+	end
+end
+
 function waluigiStadiumShortcut()
 	if canEnterWaluigiStadiumTimeTrial() then
 		return true
