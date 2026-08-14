@@ -42,7 +42,7 @@
 		"codes": "babymario"
 	},
 	{
-		"name": "Luigi",
+		"name": "Baby Luigi",
 		"type": "toggle",
 		"img": "/images/characters/babyluigi_48.png",
 		"codes": "babyluigi"
