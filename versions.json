@@ -1,6 +1,14 @@
 {
     "versions": [   
         {
+            "package_version": "1.0.12",
+            "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.12.zip",
+            "sha256": "804dcc2907fb1d67412c55230db8a158e56894e68b66327605cc82afde5b3945",
+            "changelog": [
+                "fix mushroom bridge logic"
+            ]
+         },
+        {
             "package_version": "1.0.11",
             "download_url": "https://github.com/Razerock/double-dash-ap-tracker/archive/refs/tags/1.0.11.zip",
             "sha256": "59174b54b94e0661b15893fa53d2c305c5b8c92d0a51bb7b8fcefc01444716d5",
